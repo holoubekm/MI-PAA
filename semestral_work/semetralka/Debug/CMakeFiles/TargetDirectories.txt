@@ -1,0 +1,3 @@
+/home/holoubekm/Skola/MI-PAA/semestralka/semetralka/Debug/CMakeFiles/edit_cache.dir
+/home/holoubekm/Skola/MI-PAA/semestralka/semetralka/Debug/CMakeFiles/rebuild_cache.dir
+/home/holoubekm/Skola/MI-PAA/semestralka/semetralka/Debug/CMakeFiles/semestralka.dir

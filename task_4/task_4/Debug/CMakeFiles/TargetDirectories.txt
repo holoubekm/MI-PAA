@@ -1,0 +1,3 @@
+/home/holoubekm/Skola/MI-PAA/task_4/task_4/Debug/CMakeFiles/edit_cache.dir
+/home/holoubekm/Skola/MI-PAA/task_4/task_4/Debug/CMakeFiles/rebuild_cache.dir
+/home/holoubekm/Skola/MI-PAA/task_4/task_4/Debug/CMakeFiles/task_4.dir

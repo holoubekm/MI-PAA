@@ -1,0 +1,100 @@
+input: ./knapgen/gran_small/knap_exponent_0_50.dat
+max_err: 0.0059501673485
+avg_err: 0.0011725367021
+avg_time_bb: 0.0000030398171
+avg_time_dyn: 0.0023034971686
+avg_time_ratio: 0.0000000489186
+total_time_bb: 0.0001519908546
+total_time_dyn: 0.1151748584301
+total_time_ratio: 0.0000024459325
+
+input: ./knapgen/gran_small/knap_exponent_0_75.dat
+max_err: 0.0078028747433
+avg_err: 0.0014422329819
+avg_time_bb: 0.0000030979061
+avg_time_dyn: 0.0022348070824
+avg_time_ratio: 0.0000000480179
+total_time_bb: 0.0001548953038
+total_time_dyn: 0.1117403541200
+total_time_ratio: 0.0000024008969
+
+input: ./knapgen/gran_small/knap_exponent_1_00.dat
+max_err: 0.0052845528455
+avg_err: 0.0009801508561
+avg_time_bb: 0.0000029761509
+avg_time_dyn: 0.0022242930660
+avg_time_ratio: 0.0000000482685
+total_time_bb: 0.0001488075435
+total_time_dyn: 0.1112146533000
+total_time_ratio: 0.0000024134270
+
+input: ./knapgen/gran_small/knap_exponent_1_25.dat
+max_err: 0.0058004640371
+avg_err: 0.0009183363784
+avg_time_bb: 0.0000030378266
+avg_time_dyn: 0.0022240436568
+avg_time_ratio: 0.0000000481878
+total_time_bb: 0.0001518913308
+total_time_dyn: 0.1112021828400
+total_time_ratio: 0.0000024093881
+
+input: ./knapgen/gran_small/knap_exponent_1_50.dat
+max_err: 0.0079575596817
+avg_err: 0.0011081444856
+avg_time_bb: 0.0000029232283
+avg_time_dyn: 0.0021546286534
+avg_time_ratio: 0.0000000482362
+total_time_bb: 0.0001461614130
+total_time_dyn: 0.1077314326700
+total_time_ratio: 0.0000024118096
+
+input: ./knapgen/gran_small/knap_exponent_1_75.dat
+max_err: 0.0073649754501
+avg_err: 0.0010586211011
+avg_time_bb: 0.0000028907466
+avg_time_dyn: 0.0022203580862
+avg_time_ratio: 0.0000000480958
+total_time_bb: 0.0001445373311
+total_time_dyn: 0.1110179043100
+total_time_ratio: 0.0000024047879
+
+input: ./knapgen/gran_small/knap_exponent_2_00.dat
+max_err: 0.0058456742011
+avg_err: 0.0008916757965
+avg_time_bb: 0.0000027899653
+avg_time_dyn: 0.0021791395786
+avg_time_ratio: 0.0000000482429
+total_time_bb: 0.0001394982636
+total_time_dyn: 0.1089569789300
+total_time_ratio: 0.0000024121474
+
+input: ./knapgen/gran_small/knap_exponent_2_25.dat
+max_err: 0.0063503922301
+avg_err: 0.0010771881285
+avg_time_bb: 0.0000029678460
+avg_time_dyn: 0.0022552678100
+avg_time_ratio: 0.0000000479549
+total_time_bb: 0.0001483923006
+total_time_dyn: 0.1127633905000
+total_time_ratio: 0.0000023977435
+
+input: ./knapgen/gran_small/knap_exponent_2_50.dat
+max_err: 0.0046100653093
+avg_err: 0.0010959083215
+avg_time_bb: 0.0000029055680
+avg_time_dyn: 0.0022267732438
+avg_time_ratio: 0.0000000481354
+total_time_bb: 0.0001452783984
+total_time_dyn: 0.1113386621900
+total_time_ratio: 0.0000024067706
+
+input: ./knapgen/gran_small/knap_exponent_2_75.dat
+max_err: 0.0080249665626
+avg_err: 0.0013620914708
+avg_time_bb: 0.0000027290004
+avg_time_dyn: 0.0021565174936
+avg_time_ratio: 0.0000000481276
+total_time_bb: 0.0001364500188
+total_time_dyn: 0.1078258746800
+total_time_ratio: 0.0000024063817
+

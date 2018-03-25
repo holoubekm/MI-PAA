@@ -1,0 +1,89 @@
+[--------------------------------------------------]
+input: ./inst/knap_04.inst.dat
+max_err: 0.363636
+avg_err: 0.0217451
+avg_time_opt: 0.00000035028
+avg_time_apx: 0.00688804
+total_time_opt: 0.000017514
+total_time_apx: 0.344402
+
+[--------------------------------------------------]
+input: ./inst/knap_10.inst.dat
+max_err: 0.114801
+avg_err: 0.012862
+avg_time_opt: 0.00000597174
+avg_time_apx: 0.0136121
+total_time_opt: 0.000298587
+total_time_apx: 0.680607
+
+[--------------------------------------------------]
+input: ./inst/knap_15.inst.dat
+max_err: 0.0854271
+avg_err: 0.00475892
+avg_time_opt: 0.000117542
+avg_time_apx: 0.0202966
+total_time_opt: 0.00587708
+total_time_apx: 1.01483
+
+[--------------------------------------------------]
+input: ./inst/knap_20.inst.dat
+max_err: 0.0843373
+avg_err: 0.00600086
+avg_time_opt: 0.00379913
+avg_time_apx: 0.026485
+total_time_opt: 0.189957
+total_time_apx: 1.32425
+
+[--------------------------------------------------]
+input: ./inst/knap_22.inst.dat
+max_err: 0.0722892
+avg_err: 0.00686694
+avg_time_opt: 0.0155078
+avg_time_apx: 0.0290659
+total_time_opt: 0.775392
+total_time_apx: 1.4533
+
+[--------------------------------------------------]
+input: ./inst/knap_25.inst.dat
+max_err: 0.0367893
+avg_err: 0.00498356
+avg_time_opt: 0.124702
+avg_time_apx: 0.0328433
+total_time_opt: 6.23511
+total_time_apx: 1.64216
+
+[--------------------------------------------------]
+input: ./inst/knap_27.inst.dat
+max_err: 0.106017
+avg_err: 0.0050165
+avg_time_opt: 0.488236
+avg_time_apx: 0.0362715
+total_time_opt: 24.4118
+total_time_apx: 1.81357
+
+[--------------------------------------------------]
+input: ./inst/knap_30.inst.dat
+max_err: 0.0551378
+avg_err: 0.00507447
+avg_time_opt: 3.83782
+avg_time_apx: 0.039837
+total_time_opt: 191.891
+total_time_apx: 1.99185
+
+[--------------------------------------------------]
+input: ./inst/knap_32.inst.dat
+max_err: 0.0334076
+avg_err: 0.00341192
+avg_time_opt: 15.1258
+avg_time_apx: 0.0421461
+total_time_opt: 756.289
+total_time_apx: 2.1073
+
+[--------------------------------------------------]
+input: ./inst/knap_35.inst.dat
+max_err: 0.0460922
+avg_err: 0.00280185
+avg_time_opt: 120.387
+avg_time_apx: 0.0465075
+total_time_opt: 6019.35
+total_time_apx: 2.32538

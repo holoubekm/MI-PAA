@@ -1,0 +1,2404 @@
+Instances: 300, Iterations: 200, KeepBest: 30, KeepWorst: 21, Cross: 21, MutationFactor: 0.001, MaxClauses: 40
+Input file: instances/_uf250-00.cnf
+Gen: 0, BestSol: 1107, BestFeasibleSol: 1107, GenAvgValue: 1218.29
+Gen: 10, BestSol: 1107, BestFeasibleSol: 1107, GenAvgValue: 1097.55
+Gen: 20, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1154.78
+Gen: 30, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1197.99
+Gen: 40, BestSol: 1259, BestFeasibleSol: 1259, GenAvgValue: 1238.91
+Gen: 50, BestSol: 1327, BestFeasibleSol: 1327, GenAvgValue: 1302.06
+Gen: 60, BestSol: 1327, BestFeasibleSol: 1327, GenAvgValue: 1302.15
+Gen: 70, BestSol: 1357, BestFeasibleSol: 1357, GenAvgValue: 1329.94
+Gen: 80, BestSol: 1381, BestFeasibleSol: 1381, GenAvgValue: 1352.37
+Gen: 90, BestSol: 1426, BestFeasibleSol: 1426, GenAvgValue: 1393.5
+Gen: 100, BestSol: 1426, BestFeasibleSol: 1426, GenAvgValue: 1394.22
+Gen: 110, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1426
+Gen: 120, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1471.41
+Gen: 130, BestSol: 1554, BestFeasibleSol: 1554, GenAvgValue: 1513.26
+Gen: 140, BestSol: 1554, BestFeasibleSol: 1554, GenAvgValue: 1513.26
+Gen: 150, BestSol: 1597, BestFeasibleSol: 1597, GenAvgValue: 1553.25
+Gen: 160, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1553.29
+Gen: 170, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.41
+Gen: 180, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.41
+Gen: 190, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.41
+Total best: 1642
+FirstFeasibleIteration: 17
+Time: 0.096443
+Input file: instances/_uf250-01.cnf
+Gen: 0, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1190.59
+Gen: 10, BestSol: 1337, BestFeasibleSol: 1337, GenAvgValue: 1308.66
+Gen: 20, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1311.53
+Gen: 30, BestSol: 1393, BestFeasibleSol: 1393, GenAvgValue: 1360.74
+Gen: 40, BestSol: 1393, BestFeasibleSol: 1393, GenAvgValue: 1360.64
+Gen: 50, BestSol: 1393, BestFeasibleSol: 1393, GenAvgValue: 1360.74
+Gen: 60, BestSol: 1393, BestFeasibleSol: 1393, GenAvgValue: 1360.74
+Gen: 70, BestSol: 1393, BestFeasibleSol: 1393, GenAvgValue: 1360.74
+Gen: 80, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1362.6
+Gen: 90, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1362.6
+Gen: 100, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1362.6
+Gen: 110, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1362.6
+Gen: 120, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1405.38
+Gen: 130, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1405.38
+Gen: 140, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1405.38
+Gen: 150, BestSol: 1535, BestFeasibleSol: 1535, GenAvgValue: 1492.8
+Gen: 160, BestSol: 1583, BestFeasibleSol: 1583, GenAvgValue: 1519.83
+Gen: 170, BestSol: 1618, BestFeasibleSol: 1618, GenAvgValue: 1569.99
+Gen: 180, BestSol: 1618, BestFeasibleSol: 1618, GenAvgValue: 1569.99
+Gen: 190, BestSol: 1618, BestFeasibleSol: 1618, GenAvgValue: 1569.99
+Total best: 1621
+FirstFeasibleIteration: 1
+Time: 0.093557
+Input file: instances/_uf250-02.cnf
+Gen: 0, BestSol: 1867, BestFeasibleSol: 0, GenAvgValue: 1376.27
+Gen: 10, BestSol: 2089, BestFeasibleSol: 0, GenAvgValue: 2016.76
+Gen: 20, BestSol: 2089, BestFeasibleSol: 0, GenAvgValue: 2016.76
+Gen: 30, BestSol: 2089, BestFeasibleSol: 0, GenAvgValue: 2016.76
+Gen: 40, BestSol: 2116, BestFeasibleSol: 0, GenAvgValue: 2041.76
+Gen: 50, BestSol: 2134, BestFeasibleSol: 0, GenAvgValue: 2043.25
+Gen: 60, BestSol: 2163, BestFeasibleSol: 0, GenAvgValue: 2085.58
+Gen: 70, BestSol: 2231, BestFeasibleSol: 0, GenAvgValue: 2107.97
+Gen: 80, BestSol: 2231, BestFeasibleSol: 0, GenAvgValue: 2148.81
+Gen: 90, BestSol: 2231, BestFeasibleSol: 0, GenAvgValue: 2148.82
+Gen: 100, BestSol: 2231, BestFeasibleSol: 0, GenAvgValue: 2148.82
+Gen: 110, BestSol: 2232, BestFeasibleSol: 0, GenAvgValue: 2149.75
+Gen: 120, BestSol: 2232, BestFeasibleSol: 0, GenAvgValue: 2149.75
+Gen: 130, BestSol: 2232, BestFeasibleSol: 0, GenAvgValue: 2149.75
+Gen: 140, BestSol: 2232, BestFeasibleSol: 0, GenAvgValue: 2149.75
+Gen: 150, BestSol: 2260, BestFeasibleSol: 0, GenAvgValue: 2149.8
+Gen: 160, BestSol: 2260, BestFeasibleSol: 0, GenAvgValue: 2175.79
+Gen: 170, BestSol: 2260, BestFeasibleSol: 0, GenAvgValue: 2175.79
+Gen: 180, BestSol: 2295, BestFeasibleSol: 0, GenAvgValue: 2208.34
+Gen: 190, BestSol: 2313, BestFeasibleSol: 0, GenAvgValue: 2208.4
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.098051
+Input file: instances/_uf250-03.cnf
+Gen: 0, BestSol: 1466, BestFeasibleSol: 0, GenAvgValue: 1139.84
+Gen: 10, BestSol: 1848, BestFeasibleSol: 0, GenAvgValue: 1779.15
+Gen: 20, BestSol: 1848, BestFeasibleSol: 0, GenAvgValue: 1779.15
+Gen: 30, BestSol: 1855, BestFeasibleSol: 0, GenAvgValue: 1785.27
+Gen: 40, BestSol: 1855, BestFeasibleSol: 0, GenAvgValue: 1785.6
+Gen: 50, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1826.7
+Gen: 60, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1831.23
+Gen: 70, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1831.23
+Gen: 80, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1831.23
+Gen: 90, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1831.23
+Gen: 100, BestSol: 1904, BestFeasibleSol: 0, GenAvgValue: 1831.23
+Gen: 110, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1845.21
+Gen: 120, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1846
+Gen: 130, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1846.11
+Gen: 140, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1846.08
+Gen: 150, BestSol: 1950, BestFeasibleSol: 0, GenAvgValue: 1863.82
+Gen: 160, BestSol: 1950, BestFeasibleSol: 0, GenAvgValue: 1873.95
+Gen: 170, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1874.04
+Gen: 180, BestSol: 1980, BestFeasibleSol: 0, GenAvgValue: 1901.91
+Gen: 190, BestSol: 1991, BestFeasibleSol: 0, GenAvgValue: 1901.95
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.093936
+Input file: instances/_uf250-04.cnf
+Gen: 0, BestSol: 1207, BestFeasibleSol: 1207, GenAvgValue: 1161.01
+Gen: 10, BestSol: 1228, BestFeasibleSol: 1228, GenAvgValue: 1203.12
+Gen: 20, BestSol: 1229, BestFeasibleSol: 1229, GenAvgValue: 1204.05
+Gen: 30, BestSol: 1262, BestFeasibleSol: 1262, GenAvgValue: 1234.77
+Gen: 40, BestSol: 1262, BestFeasibleSol: 1262, GenAvgValue: 1234.74
+Gen: 50, BestSol: 1285, BestFeasibleSol: 1285, GenAvgValue: 1251.5
+Gen: 60, BestSol: 1285, BestFeasibleSol: 1285, GenAvgValue: 1256.13
+Gen: 70, BestSol: 1370, BestFeasibleSol: 1370, GenAvgValue: 1332.42
+Gen: 80, BestSol: 1370, BestFeasibleSol: 1370, GenAvgValue: 1335.18
+Gen: 90, BestSol: 1396, BestFeasibleSol: 1396, GenAvgValue: 1359.36
+Gen: 100, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1389.12
+Gen: 110, BestSol: 1447, BestFeasibleSol: 1447, GenAvgValue: 1406.79
+Gen: 120, BestSol: 1447, BestFeasibleSol: 1447, GenAvgValue: 1406.75
+Gen: 130, BestSol: 1501, BestFeasibleSol: 1501, GenAvgValue: 1456.87
+Gen: 140, BestSol: 1501, BestFeasibleSol: 1501, GenAvgValue: 1457.01
+Gen: 150, BestSol: 1549, BestFeasibleSol: 1549, GenAvgValue: 1501.65
+Gen: 160, BestSol: 1549, BestFeasibleSol: 1549, GenAvgValue: 1501.65
+Gen: 170, BestSol: 1549, BestFeasibleSol: 1549, GenAvgValue: 1501.65
+Gen: 180, BestSol: 1592, BestFeasibleSol: 1592, GenAvgValue: 1541.5
+Gen: 190, BestSol: 1592, BestFeasibleSol: 1592, GenAvgValue: 1541.64
+Total best: 1592
+FirstFeasibleIteration: 5
+Time: 0.098481
+Input file: instances/_uf250-05.cnf
+Gen: 0, BestSol: 1174, BestFeasibleSol: 1174, GenAvgValue: 1221.78
+Gen: 10, BestSol: 1175, BestFeasibleSol: 1175, GenAvgValue: 1158.29
+Gen: 20, BestSol: 1182, BestFeasibleSol: 1182, GenAvgValue: 1164.66
+Gen: 30, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1164.77
+Gen: 40, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1195.35
+Gen: 50, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1226.04
+Gen: 60, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1226.04
+Gen: 70, BestSol: 1266, BestFeasibleSol: 1266, GenAvgValue: 1242.51
+Gen: 80, BestSol: 1266, BestFeasibleSol: 1266, GenAvgValue: 1242.7
+Gen: 90, BestSol: 1308, BestFeasibleSol: 1308, GenAvgValue: 1242.92
+Gen: 100, BestSol: 1332, BestFeasibleSol: 1332, GenAvgValue: 1304.16
+Gen: 110, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1330.22
+Gen: 120, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1334.73
+Gen: 130, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1334.85
+Gen: 140, BestSol: 1366, BestFeasibleSol: 1366, GenAvgValue: 1334.71
+Gen: 150, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1343.13
+Gen: 160, BestSol: 1394, BestFeasibleSol: 1394, GenAvgValue: 1361.82
+Gen: 170, BestSol: 1397, BestFeasibleSol: 1397, GenAvgValue: 1364.61
+Gen: 180, BestSol: 1397, BestFeasibleSol: 1397, GenAvgValue: 1364.61
+Gen: 190, BestSol: 1410, BestFeasibleSol: 1410, GenAvgValue: 1376.7
+Total best: 1437
+FirstFeasibleIteration: 5
+Time: 0.097203
+Input file: instances/_uf250-06.cnf
+Gen: 0, BestSol: 958, BestFeasibleSol: 958, GenAvgValue: 1101.47
+Gen: 10, BestSol: 1021, BestFeasibleSol: 1021, GenAvgValue: 970.557
+Gen: 20, BestSol: 1021, BestFeasibleSol: 1021, GenAvgValue: 1008.4
+Gen: 30, BestSol: 1021, BestFeasibleSol: 1021, GenAvgValue: 1008.4
+Gen: 40, BestSol: 1021, BestFeasibleSol: 1021, GenAvgValue: 1008.4
+Gen: 50, BestSol: 1112, BestFeasibleSol: 1112, GenAvgValue: 1087.85
+Gen: 60, BestSol: 1117, BestFeasibleSol: 1117, GenAvgValue: 1097.68
+Gen: 70, BestSol: 1129, BestFeasibleSol: 1129, GenAvgValue: 1108.84
+Gen: 80, BestSol: 1138, BestFeasibleSol: 1138, GenAvgValue: 1108.87
+Gen: 90, BestSol: 1138, BestFeasibleSol: 1138, GenAvgValue: 1117.12
+Gen: 100, BestSol: 1138, BestFeasibleSol: 1138, GenAvgValue: 1117.21
+Gen: 110, BestSol: 1138, BestFeasibleSol: 1138, GenAvgValue: 1117.21
+Gen: 120, BestSol: 1146, BestFeasibleSol: 1146, GenAvgValue: 1124.65
+Gen: 130, BestSol: 1146, BestFeasibleSol: 1146, GenAvgValue: 1124.65
+Gen: 140, BestSol: 1188, BestFeasibleSol: 1188, GenAvgValue: 1163.71
+Gen: 150, BestSol: 1189, BestFeasibleSol: 1189, GenAvgValue: 1163.81
+Gen: 160, BestSol: 1231, BestFeasibleSol: 1231, GenAvgValue: 1203.7
+Gen: 170, BestSol: 1279, BestFeasibleSol: 1279, GenAvgValue: 1211.08
+Gen: 180, BestSol: 1323, BestFeasibleSol: 1323, GenAvgValue: 1273.5
+Gen: 190, BestSol: 1348, BestFeasibleSol: 1348, GenAvgValue: 1289.34
+Total best: 1389
+FirstFeasibleIteration: 7
+Time: 0.09387
+Input file: instances/_uf250-07.cnf
+Gen: 0, BestSol: 1231, BestFeasibleSol: 1231, GenAvgValue: 1223.03
+Gen: 10, BestSol: 1340, BestFeasibleSol: 1340, GenAvgValue: 1312.1
+Gen: 20, BestSol: 1342, BestFeasibleSol: 1342, GenAvgValue: 1313.96
+Gen: 30, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1343.72
+Gen: 40, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1343.72
+Gen: 50, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1343.72
+Gen: 60, BestSol: 1412, BestFeasibleSol: 1412, GenAvgValue: 1379.06
+Gen: 70, BestSol: 1412, BestFeasibleSol: 1412, GenAvgValue: 1379.06
+Gen: 80, BestSol: 1492, BestFeasibleSol: 1492, GenAvgValue: 1453.46
+Gen: 90, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1466.48
+Gen: 100, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1466.48
+Gen: 110, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1466.48
+Gen: 120, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1466.48
+Gen: 130, BestSol: 1545, BestFeasibleSol: 1545, GenAvgValue: 1495.88
+Gen: 140, BestSol: 1545, BestFeasibleSol: 1545, GenAvgValue: 1502.75
+Gen: 150, BestSol: 1571, BestFeasibleSol: 1571, GenAvgValue: 1526.86
+Gen: 160, BestSol: 1606, BestFeasibleSol: 1606, GenAvgValue: 1559.48
+Gen: 170, BestSol: 1653, BestFeasibleSol: 1653, GenAvgValue: 1603.19
+Gen: 180, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1603.14
+Gen: 190, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1604.12
+Total best: 1654
+FirstFeasibleIteration: 1
+Time: 0.09619
+Input file: instances/_uf250-08.cnf
+Gen: 0, BestSol: 1154, BestFeasibleSol: 1154, GenAvgValue: 1071.91
+Gen: 10, BestSol: 1185, BestFeasibleSol: 1185, GenAvgValue: 1147.65
+Gen: 20, BestSol: 1194, BestFeasibleSol: 1194, GenAvgValue: 1168.07
+Gen: 30, BestSol: 1194, BestFeasibleSol: 1194, GenAvgValue: 1168.07
+Gen: 40, BestSol: 1233, BestFeasibleSol: 1233, GenAvgValue: 1204.19
+Gen: 50, BestSol: 1279, BestFeasibleSol: 1279, GenAvgValue: 1247.12
+Gen: 60, BestSol: 1279, BestFeasibleSol: 1279, GenAvgValue: 1246.98
+Gen: 70, BestSol: 1279, BestFeasibleSol: 1279, GenAvgValue: 1247.12
+Gen: 80, BestSol: 1311, BestFeasibleSol: 1311, GenAvgValue: 1276.88
+Gen: 90, BestSol: 1330, BestFeasibleSol: 1330, GenAvgValue: 1294.55
+Gen: 100, BestSol: 1330, BestFeasibleSol: 1330, GenAvgValue: 1294.55
+Gen: 110, BestSol: 1330, BestFeasibleSol: 1330, GenAvgValue: 1294.55
+Gen: 120, BestSol: 1335, BestFeasibleSol: 1335, GenAvgValue: 1296.32
+Gen: 130, BestSol: 1335, BestFeasibleSol: 1335, GenAvgValue: 1299.2
+Gen: 140, BestSol: 1368, BestFeasibleSol: 1368, GenAvgValue: 1329.89
+Gen: 150, BestSol: 1386, BestFeasibleSol: 1386, GenAvgValue: 1346.63
+Gen: 160, BestSol: 1386, BestFeasibleSol: 1386, GenAvgValue: 1346.63
+Gen: 170, BestSol: 1386, BestFeasibleSol: 1386, GenAvgValue: 1346.63
+Gen: 180, BestSol: 1407, BestFeasibleSol: 1407, GenAvgValue: 1366.16
+Gen: 190, BestSol: 1407, BestFeasibleSol: 1407, GenAvgValue: 1366.16
+Total best: 1410
+FirstFeasibleIteration: 1
+Time: 0.094277
+Input file: instances/_uf250-09.cnf
+Gen: 0, BestSol: 1340, BestFeasibleSol: 1340, GenAvgValue: 1194.59
+Gen: 10, BestSol: 1462, BestFeasibleSol: 1462, GenAvgValue: 1423.95
+Gen: 20, BestSol: 1462, BestFeasibleSol: 1462, GenAvgValue: 1423.95
+Gen: 30, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1426.32
+Gen: 40, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1486.22
+Gen: 50, BestSol: 1579, BestFeasibleSol: 1579, GenAvgValue: 1505.26
+Gen: 60, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1556.01
+Gen: 70, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1556.01
+Gen: 80, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1556.01
+Gen: 90, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1556.01
+Gen: 100, BestSol: 1616, BestFeasibleSol: 1616, GenAvgValue: 1567.17
+Gen: 110, BestSol: 1659, BestFeasibleSol: 1659, GenAvgValue: 1570.47
+Gen: 120, BestSol: 1659, BestFeasibleSol: 1659, GenAvgValue: 1607.16
+Gen: 130, BestSol: 1659, BestFeasibleSol: 1659, GenAvgValue: 1607.16
+Gen: 140, BestSol: 1686, BestFeasibleSol: 1686, GenAvgValue: 1629.84
+Gen: 150, BestSol: 1713, BestFeasibleSol: 1713, GenAvgValue: 1657.38
+Gen: 160, BestSol: 1740, BestFeasibleSol: 1740, GenAvgValue: 1682.49
+Gen: 170, BestSol: 1756, BestFeasibleSol: 1756, GenAvgValue: 1696.72
+Gen: 180, BestSol: 1791, BestFeasibleSol: 1791, GenAvgValue: 1697.49
+Gen: 190, BestSol: 1791, BestFeasibleSol: 1791, GenAvgValue: 1729.92
+Total best: 1809
+FirstFeasibleIteration: 1
+Time: 0.094086
+Input file: instances/_uf250-010.cnf
+Gen: 0, BestSol: 1281, BestFeasibleSol: 1281, GenAvgValue: 1210.72
+Gen: 10, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1604.51
+Gen: 20, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1604.51
+Gen: 30, BestSol: 1699, BestFeasibleSol: 1699, GenAvgValue: 1641.86
+Gen: 40, BestSol: 1716, BestFeasibleSol: 1716, GenAvgValue: 1662.17
+Gen: 50, BestSol: 1716, BestFeasibleSol: 1716, GenAvgValue: 1662.17
+Gen: 60, BestSol: 1748, BestFeasibleSol: 1748, GenAvgValue: 1662.28
+Gen: 70, BestSol: 1805, BestFeasibleSol: 1805, GenAvgValue: 1711.58
+Gen: 80, BestSol: 1805, BestFeasibleSol: 1805, GenAvgValue: 1744.94
+Gen: 90, BestSol: 1805, BestFeasibleSol: 1805, GenAvgValue: 1744.94
+Gen: 100, BestSol: 1805, BestFeasibleSol: 1805, GenAvgValue: 1744.94
+Gen: 110, BestSol: 1805, BestFeasibleSol: 1805, GenAvgValue: 1744.94
+Gen: 120, BestSol: 1821, BestFeasibleSol: 1821, GenAvgValue: 1759.82
+Gen: 130, BestSol: 1821, BestFeasibleSol: 1821, GenAvgValue: 1759.82
+Gen: 140, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.4
+Gen: 150, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.36
+Gen: 160, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.4
+Gen: 170, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.4
+Gen: 180, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.4
+Gen: 190, BestSol: 1851, BestFeasibleSol: 1851, GenAvgValue: 1787.72
+Total best: 1851
+FirstFeasibleIteration: 1
+Time: 0.098924
+Input file: instances/_uf250-011.cnf
+Gen: 0, BestSol: 1604, BestFeasibleSol: 0, GenAvgValue: 1243.88
+Gen: 10, BestSol: 1912, BestFeasibleSol: 0, GenAvgValue: 1846.61
+Gen: 20, BestSol: 1938, BestFeasibleSol: 0, GenAvgValue: 1868.36
+Gen: 30, BestSol: 1971, BestFeasibleSol: 0, GenAvgValue: 1901.48
+Gen: 40, BestSol: 2015, BestFeasibleSol: 0, GenAvgValue: 1942.4
+Gen: 50, BestSol: 2015, BestFeasibleSol: 0, GenAvgValue: 1942.39
+Gen: 60, BestSol: 2044, BestFeasibleSol: 0, GenAvgValue: 1969.29
+Gen: 70, BestSol: 2085, BestFeasibleSol: 0, GenAvgValue: 1971.96
+Gen: 80, BestSol: 2158, BestFeasibleSol: 0, GenAvgValue: 2075.39
+Gen: 90, BestSol: 2158, BestFeasibleSol: 0, GenAvgValue: 2075.39
+Gen: 100, BestSol: 2158, BestFeasibleSol: 0, GenAvgValue: 2075.39
+Gen: 110, BestSol: 2183, BestFeasibleSol: 0, GenAvgValue: 2097.43
+Gen: 120, BestSol: 2183, BestFeasibleSol: 0, GenAvgValue: 2098.64
+Gen: 130, BestSol: 2183, BestFeasibleSol: 0, GenAvgValue: 2098.64
+Gen: 140, BestSol: 2183, BestFeasibleSol: 0, GenAvgValue: 2098.64
+Gen: 150, BestSol: 2209, BestFeasibleSol: 0, GenAvgValue: 2122.82
+Gen: 160, BestSol: 2209, BestFeasibleSol: 0, GenAvgValue: 2122.82
+Gen: 170, BestSol: 2209, BestFeasibleSol: 0, GenAvgValue: 2122.75
+Gen: 180, BestSol: 2216, BestFeasibleSol: 0, GenAvgValue: 2123.4
+Gen: 190, BestSol: 2262, BestFeasibleSol: 0, GenAvgValue: 2172.11
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097063
+Input file: instances/_uf250-012.cnf
+Gen: 0, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1262.41
+Gen: 10, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.27
+Gen: 20, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.27
+Gen: 30, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.22
+Gen: 40, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.27
+Gen: 50, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.27
+Gen: 60, BestSol: 1707, BestFeasibleSol: 1707, GenAvgValue: 1655.27
+Gen: 70, BestSol: 1727, BestFeasibleSol: 1727, GenAvgValue: 1657.01
+Gen: 80, BestSol: 1727, BestFeasibleSol: 1727, GenAvgValue: 1673.8
+Gen: 90, BestSol: 1727, BestFeasibleSol: 1727, GenAvgValue: 1673.87
+Gen: 100, BestSol: 1727, BestFeasibleSol: 1727, GenAvgValue: 1673.87
+Gen: 110, BestSol: 1780, BestFeasibleSol: 1780, GenAvgValue: 1721.26
+Gen: 120, BestSol: 1780, BestFeasibleSol: 1780, GenAvgValue: 1723.16
+Gen: 130, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1724.77
+Gen: 140, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1742.6
+Gen: 150, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1742.69
+Gen: 160, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1774.31
+Gen: 170, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1774.31
+Gen: 180, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1774.31
+Gen: 190, BestSol: 1883, BestFeasibleSol: 1883, GenAvgValue: 1818.95
+Total best: 1883
+FirstFeasibleIteration: 1
+Time: 0.096186
+Input file: instances/_uf250-013.cnf
+Gen: 0, BestSol: 940, BestFeasibleSol: 940, GenAvgValue: 1127.31
+Gen: 10, BestSol: 940, BestFeasibleSol: 940, GenAvgValue: 936.237
+Gen: 20, BestSol: 968, BestFeasibleSol: 968, GenAvgValue: 962.277
+Gen: 30, BestSol: 1123, BestFeasibleSol: 1123, GenAvgValue: 1071.62
+Gen: 40, BestSol: 1123, BestFeasibleSol: 1123, GenAvgValue: 1106.43
+Gen: 50, BestSol: 1123, BestFeasibleSol: 1123, GenAvgValue: 1106.43
+Gen: 60, BestSol: 1152, BestFeasibleSol: 1152, GenAvgValue: 1133.4
+Gen: 70, BestSol: 1228, BestFeasibleSol: 1228, GenAvgValue: 1168.99
+Gen: 80, BestSol: 1228, BestFeasibleSol: 1228, GenAvgValue: 1204.08
+Gen: 90, BestSol: 1228, BestFeasibleSol: 1228, GenAvgValue: 1204.08
+Gen: 100, BestSol: 1237, BestFeasibleSol: 1237, GenAvgValue: 1212.45
+Gen: 110, BestSol: 1259, BestFeasibleSol: 1259, GenAvgValue: 1232.83
+Gen: 120, BestSol: 1263, BestFeasibleSol: 1263, GenAvgValue: 1236.63
+Gen: 130, BestSol: 1263, BestFeasibleSol: 1263, GenAvgValue: 1236.6
+Gen: 140, BestSol: 1318, BestFeasibleSol: 1318, GenAvgValue: 1282.22
+Gen: 150, BestSol: 1318, BestFeasibleSol: 1318, GenAvgValue: 1287.75
+Gen: 160, BestSol: 1362, BestFeasibleSol: 1362, GenAvgValue: 1328.7
+Gen: 170, BestSol: 1411, BestFeasibleSol: 1411, GenAvgValue: 1374.27
+Gen: 180, BestSol: 1412, BestFeasibleSol: 1412, GenAvgValue: 1375.2
+Gen: 190, BestSol: 1434, BestFeasibleSol: 1434, GenAvgValue: 1395.66
+Total best: 1434
+FirstFeasibleIteration: 16
+Time: 0.092725
+Input file: instances/_uf250-014.cnf
+Gen: 0, BestSol: 1182, BestFeasibleSol: 1182, GenAvgValue: 1119.72
+Gen: 10, BestSol: 1182, BestFeasibleSol: 1182, GenAvgValue: 1159.23
+Gen: 20, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1160.16
+Gen: 30, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1160.16
+Gen: 40, BestSol: 1225, BestFeasibleSol: 1225, GenAvgValue: 1199.22
+Gen: 50, BestSol: 1225, BestFeasibleSol: 1225, GenAvgValue: 1199.16
+Gen: 60, BestSol: 1225, BestFeasibleSol: 1225, GenAvgValue: 1199.22
+Gen: 70, BestSol: 1274, BestFeasibleSol: 1274, GenAvgValue: 1242.1
+Gen: 80, BestSol: 1281, BestFeasibleSol: 1281, GenAvgValue: 1251.3
+Gen: 90, BestSol: 1288, BestFeasibleSol: 1288, GenAvgValue: 1251.33
+Gen: 100, BestSol: 1327, BestFeasibleSol: 1327, GenAvgValue: 1294.1
+Gen: 110, BestSol: 1362, BestFeasibleSol: 1362, GenAvgValue: 1325.58
+Gen: 120, BestSol: 1362, BestFeasibleSol: 1362, GenAvgValue: 1326.52
+Gen: 130, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1327.29
+Gen: 140, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1374.24
+Gen: 150, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1375.92
+Gen: 160, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1375.92
+Gen: 170, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1375.92
+Gen: 180, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1375.85
+Gen: 190, BestSol: 1443, BestFeasibleSol: 1443, GenAvgValue: 1401.98
+Total best: 1465
+FirstFeasibleIteration: 12
+Time: 0.092188
+Input file: instances/_uf250-015.cnf
+Gen: 0, BestSol: 1191, BestFeasibleSol: 1191, GenAvgValue: 1185.42
+Gen: 10, BestSol: 1221, BestFeasibleSol: 1221, GenAvgValue: 1193.85
+Gen: 20, BestSol: 1252, BestFeasibleSol: 1252, GenAvgValue: 1224.69
+Gen: 30, BestSol: 1298, BestFeasibleSol: 1298, GenAvgValue: 1269.46
+Gen: 40, BestSol: 1430, BestFeasibleSol: 1430, GenAvgValue: 1391.14
+Gen: 50, BestSol: 1430, BestFeasibleSol: 1430, GenAvgValue: 1392.22
+Gen: 60, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1415.47
+Gen: 70, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1415.47
+Gen: 80, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1415.47
+Gen: 90, BestSol: 1461, BestFeasibleSol: 1461, GenAvgValue: 1421.05
+Gen: 100, BestSol: 1461, BestFeasibleSol: 1461, GenAvgValue: 1421.02
+Gen: 110, BestSol: 1493, BestFeasibleSol: 1493, GenAvgValue: 1450.81
+Gen: 120, BestSol: 1531, BestFeasibleSol: 1531, GenAvgValue: 1486.15
+Gen: 130, BestSol: 1531, BestFeasibleSol: 1531, GenAvgValue: 1486.15
+Gen: 140, BestSol: 1531, BestFeasibleSol: 1531, GenAvgValue: 1486.15
+Gen: 150, BestSol: 1625, BestFeasibleSol: 1625, GenAvgValue: 1539.97
+Gen: 160, BestSol: 1625, BestFeasibleSol: 1625, GenAvgValue: 1573.57
+Gen: 170, BestSol: 1625, BestFeasibleSol: 1625, GenAvgValue: 1573.35
+Gen: 180, BestSol: 1645, BestFeasibleSol: 1645, GenAvgValue: 1575.17
+Gen: 190, BestSol: 1653, BestFeasibleSol: 1653, GenAvgValue: 1599.61
+Total best: 1687
+FirstFeasibleIteration: 8
+Time: 0.093001
+Input file: instances/_uf250-016.cnf
+Gen: 0, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1310.86
+Gen: 10, BestSol: 1688, BestFeasibleSol: 1688, GenAvgValue: 1641.43
+Gen: 20, BestSol: 1688, BestFeasibleSol: 1688, GenAvgValue: 1641.27
+Gen: 30, BestSol: 1751, BestFeasibleSol: 1751, GenAvgValue: 1699.86
+Gen: 40, BestSol: 1751, BestFeasibleSol: 1751, GenAvgValue: 1699.86
+Gen: 50, BestSol: 1760, BestFeasibleSol: 1760, GenAvgValue: 1699.75
+Gen: 60, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1776.74
+Gen: 70, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1777.98
+Gen: 80, BestSol: 1854, BestFeasibleSol: 1854, GenAvgValue: 1795.65
+Gen: 90, BestSol: 1907, BestFeasibleSol: 1907, GenAvgValue: 1843.79
+Gen: 100, BestSol: 1944, BestFeasibleSol: 1944, GenAvgValue: 1847.85
+Gen: 110, BestSol: 1992, BestFeasibleSol: 1992, GenAvgValue: 1923.99
+Gen: 120, BestSol: 1992, BestFeasibleSol: 1992, GenAvgValue: 1923.99
+Gen: 130, BestSol: 2017, BestFeasibleSol: 2017, GenAvgValue: 1947.24
+Gen: 140, BestSol: 2017, BestFeasibleSol: 2017, GenAvgValue: 1947.24
+Gen: 150, BestSol: 2051, BestFeasibleSol: 2051, GenAvgValue: 1978.86
+Gen: 160, BestSol: 2051, BestFeasibleSol: 2051, GenAvgValue: 1978.86
+Gen: 170, BestSol: 2051, BestFeasibleSol: 2051, GenAvgValue: 1978.86
+Gen: 180, BestSol: 2051, BestFeasibleSol: 2051, GenAvgValue: 1978.86
+Gen: 190, BestSol: 2088, BestFeasibleSol: 2088, GenAvgValue: 1978.98
+Total best: 2111
+FirstFeasibleIteration: 4
+Time: 0.093356
+Input file: instances/_uf250-017.cnf
+Gen: 0, BestSol: 1600, BestFeasibleSol: 0, GenAvgValue: 1193.74
+Gen: 10, BestSol: 1749, BestFeasibleSol: 0, GenAvgValue: 1688.63
+Gen: 20, BestSol: 1749, BestFeasibleSol: 0, GenAvgValue: 1688.63
+Gen: 30, BestSol: 1827, BestFeasibleSol: 0, GenAvgValue: 1747.36
+Gen: 40, BestSol: 1867, BestFeasibleSol: 0, GenAvgValue: 1798.37
+Gen: 50, BestSol: 1873, BestFeasibleSol: 0, GenAvgValue: 1803.95
+Gen: 60, BestSol: 1873, BestFeasibleSol: 0, GenAvgValue: 1803.95
+Gen: 70, BestSol: 1897, BestFeasibleSol: 0, GenAvgValue: 1825.61
+Gen: 80, BestSol: 1941, BestFeasibleSol: 0, GenAvgValue: 1867.17
+Gen: 90, BestSol: 1941, BestFeasibleSol: 0, GenAvgValue: 1867.19
+Gen: 100, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1883.93
+Gen: 110, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 120, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 130, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 140, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 150, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 160, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.58
+Gen: 170, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 180, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Gen: 190, BestSol: 2005, BestFeasibleSol: 0, GenAvgValue: 1926.71
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.09782
+Input file: instances/_uf250-018.cnf
+Gen: 0, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1260.2
+Gen: 10, BestSol: 1344, BestFeasibleSol: 1344, GenAvgValue: 1317.02
+Gen: 20, BestSol: 1355, BestFeasibleSol: 1355, GenAvgValue: 1327.25
+Gen: 30, BestSol: 1363, BestFeasibleSol: 1363, GenAvgValue: 1334.69
+Gen: 40, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1340.27
+Gen: 50, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1340.27
+Gen: 60, BestSol: 1381, BestFeasibleSol: 1381, GenAvgValue: 1351.43
+Gen: 70, BestSol: 1394, BestFeasibleSol: 1394, GenAvgValue: 1351.47
+Gen: 80, BestSol: 1394, BestFeasibleSol: 1394, GenAvgValue: 1363.52
+Gen: 90, BestSol: 1419, BestFeasibleSol: 1419, GenAvgValue: 1386.77
+Gen: 100, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1386.92
+Gen: 110, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1457.45
+Gen: 120, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1457.37
+Gen: 130, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1457.45
+Gen: 140, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1457.42
+Gen: 150, BestSol: 1522, BestFeasibleSol: 1522, GenAvgValue: 1482.56
+Gen: 160, BestSol: 1522, BestFeasibleSol: 1522, GenAvgValue: 1482.56
+Gen: 170, BestSol: 1522, BestFeasibleSol: 1522, GenAvgValue: 1482.69
+Gen: 180, BestSol: 1585, BestFeasibleSol: 1585, GenAvgValue: 1539.55
+Gen: 190, BestSol: 1614, BestFeasibleSol: 1614, GenAvgValue: 1566.67
+Total best: 1614
+FirstFeasibleIteration: 6
+Time: 0.099445
+Input file: instances/_uf250-019.cnf
+Gen: 0, BestSol: 1367, BestFeasibleSol: 1367, GenAvgValue: 1298.85
+Gen: 10, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1345.17
+Gen: 20, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1375.41
+Gen: 30, BestSol: 1430, BestFeasibleSol: 1430, GenAvgValue: 1399.83
+Gen: 40, BestSol: 1430, BestFeasibleSol: 1430, GenAvgValue: 1400.35
+Gen: 50, BestSol: 1501, BestFeasibleSol: 1501, GenAvgValue: 1447.09
+Gen: 60, BestSol: 1521, BestFeasibleSol: 1521, GenAvgValue: 1485.15
+Gen: 70, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1529.79
+Gen: 80, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1529.79
+Gen: 90, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1529.79
+Gen: 100, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1529.79
+Gen: 110, BestSol: 1620, BestFeasibleSol: 1620, GenAvgValue: 1577.22
+Gen: 120, BestSol: 1620, BestFeasibleSol: 1620, GenAvgValue: 1577.22
+Gen: 130, BestSol: 1620, BestFeasibleSol: 1620, GenAvgValue: 1577.22
+Gen: 140, BestSol: 1621, BestFeasibleSol: 1621, GenAvgValue: 1577.23
+Gen: 150, BestSol: 1621, BestFeasibleSol: 1621, GenAvgValue: 1578.15
+Gen: 160, BestSol: 1621, BestFeasibleSol: 1621, GenAvgValue: 1578.15
+Gen: 170, BestSol: 1656, BestFeasibleSol: 1656, GenAvgValue: 1578.27
+Gen: 180, BestSol: 1674, BestFeasibleSol: 1674, GenAvgValue: 1627.44
+Gen: 190, BestSol: 1694, BestFeasibleSol: 1694, GenAvgValue: 1646.04
+Total best: 1714
+FirstFeasibleIteration: 9
+Time: 0.095674
+Input file: instances/_uf250-020.cnf
+Gen: 0, BestSol: 1075, BestFeasibleSol: 1075, GenAvgValue: 1220.54
+Gen: 10, BestSol: 1127, BestFeasibleSol: 1127, GenAvgValue: 1115.84
+Gen: 20, BestSol: 1195, BestFeasibleSol: 1195, GenAvgValue: 1179.08
+Gen: 30, BestSol: 1230, BestFeasibleSol: 1230, GenAvgValue: 1211.63
+Gen: 40, BestSol: 1269, BestFeasibleSol: 1269, GenAvgValue: 1247.9
+Gen: 50, BestSol: 1269, BestFeasibleSol: 1269, GenAvgValue: 1247.9
+Gen: 60, BestSol: 1332, BestFeasibleSol: 1332, GenAvgValue: 1306.49
+Gen: 70, BestSol: 1332, BestFeasibleSol: 1332, GenAvgValue: 1306.63
+Gen: 80, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1337.18
+Gen: 90, BestSol: 1392, BestFeasibleSol: 1392, GenAvgValue: 1362.24
+Gen: 100, BestSol: 1426, BestFeasibleSol: 1426, GenAvgValue: 1393.91
+Gen: 110, BestSol: 1438, BestFeasibleSol: 1438, GenAvgValue: 1405.07
+Gen: 120, BestSol: 1438, BestFeasibleSol: 1438, GenAvgValue: 1404.96
+Gen: 130, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1414.51
+Gen: 140, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1415.3
+Gen: 150, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1415.3
+Gen: 160, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1415.3
+Gen: 170, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1415.19
+Gen: 180, BestSol: 1449, BestFeasibleSol: 1449, GenAvgValue: 1415.3
+Gen: 190, BestSol: 1458, BestFeasibleSol: 1458, GenAvgValue: 1423.67
+Total best: 1458
+FirstFeasibleIteration: 1
+Time: 0.092056
+Input file: instances/_uf250-021.cnf
+Gen: 0, BestSol: 863, BestFeasibleSol: 863, GenAvgValue: 974.917
+Gen: 10, BestSol: 982, BestFeasibleSol: 982, GenAvgValue: 962.153
+Gen: 20, BestSol: 982, BestFeasibleSol: 982, GenAvgValue: 962.153
+Gen: 30, BestSol: 989, BestFeasibleSol: 989, GenAvgValue: 968.663
+Gen: 40, BestSol: 1051, BestFeasibleSol: 1051, GenAvgValue: 1026.32
+Gen: 50, BestSol: 1074, BestFeasibleSol: 1074, GenAvgValue: 1047.71
+Gen: 60, BestSol: 1074, BestFeasibleSol: 1074, GenAvgValue: 1047.71
+Gen: 70, BestSol: 1126, BestFeasibleSol: 1126, GenAvgValue: 1094.84
+Gen: 80, BestSol: 1128, BestFeasibleSol: 1128, GenAvgValue: 1096.26
+Gen: 90, BestSol: 1166, BestFeasibleSol: 1166, GenAvgValue: 1133.27
+Gen: 100, BestSol: 1176, BestFeasibleSol: 1176, GenAvgValue: 1140.72
+Gen: 110, BestSol: 1176, BestFeasibleSol: 1176, GenAvgValue: 1142.57
+Gen: 120, BestSol: 1176, BestFeasibleSol: 1176, GenAvgValue: 1142.53
+Gen: 130, BestSol: 1176, BestFeasibleSol: 1176, GenAvgValue: 1142.57
+Gen: 140, BestSol: 1176, BestFeasibleSol: 1176, GenAvgValue: 1142.55
+Gen: 150, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1178.84
+Gen: 160, BestSol: 1229, BestFeasibleSol: 1229, GenAvgValue: 1191.86
+Gen: 170, BestSol: 1229, BestFeasibleSol: 1229, GenAvgValue: 1191.86
+Gen: 180, BestSol: 1245, BestFeasibleSol: 1245, GenAvgValue: 1206.7
+Gen: 190, BestSol: 1245, BestFeasibleSol: 1245, GenAvgValue: 1206.61
+Total best: 1258
+FirstFeasibleIteration: 2
+Time: 0.092105
+Input file: instances/_uf250-022.cnf
+Gen: 0, BestSol: 1431, BestFeasibleSol: 1431, GenAvgValue: 1265.83
+Gen: 10, BestSol: 1472, BestFeasibleSol: 1472, GenAvgValue: 1436.84
+Gen: 20, BestSol: 1472, BestFeasibleSol: 1472, GenAvgValue: 1436.84
+Gen: 30, BestSol: 1510, BestFeasibleSol: 1510, GenAvgValue: 1440.01
+Gen: 40, BestSol: 1510, BestFeasibleSol: 1510, GenAvgValue: 1472.18
+Gen: 50, BestSol: 1510, BestFeasibleSol: 1510, GenAvgValue: 1472.18
+Gen: 60, BestSol: 1510, BestFeasibleSol: 1510, GenAvgValue: 1472.18
+Gen: 70, BestSol: 1510, BestFeasibleSol: 1510, GenAvgValue: 1472.18
+Gen: 80, BestSol: 1571, BestFeasibleSol: 1571, GenAvgValue: 1488.75
+Gen: 90, BestSol: 1578, BestFeasibleSol: 1578, GenAvgValue: 1528.94
+Gen: 100, BestSol: 1578, BestFeasibleSol: 1578, GenAvgValue: 1535.42
+Gen: 110, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.25
+Gen: 120, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.25
+Gen: 130, BestSol: 1609, BestFeasibleSol: 1609, GenAvgValue: 1564.1
+Gen: 140, BestSol: 1615, BestFeasibleSol: 1615, GenAvgValue: 1569.83
+Gen: 150, BestSol: 1615, BestFeasibleSol: 1615, GenAvgValue: 1569.83
+Gen: 160, BestSol: 1615, BestFeasibleSol: 1615, GenAvgValue: 1569.82
+Gen: 170, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1572.52
+Gen: 180, BestSol: 1719, BestFeasibleSol: 1719, GenAvgValue: 1625.43
+Gen: 190, BestSol: 1719, BestFeasibleSol: 1719, GenAvgValue: 1666.55
+Total best: 1721
+FirstFeasibleIteration: 2
+Time: 0.095846
+Input file: instances/_uf250-023.cnf
+Gen: 0, BestSol: 1714, BestFeasibleSol: 0, GenAvgValue: 1275.83
+Gen: 10, BestSol: 1873, BestFeasibleSol: 0, GenAvgValue: 1808.96
+Gen: 20, BestSol: 1880, BestFeasibleSol: 0, GenAvgValue: 1814.72
+Gen: 30, BestSol: 1880, BestFeasibleSol: 0, GenAvgValue: 1815.47
+Gen: 40, BestSol: 1880, BestFeasibleSol: 0, GenAvgValue: 1815.47
+Gen: 50, BestSol: 1921, BestFeasibleSol: 0, GenAvgValue: 1853.6
+Gen: 60, BestSol: 1946, BestFeasibleSol: 0, GenAvgValue: 1856.46
+Gen: 70, BestSol: 1982, BestFeasibleSol: 0, GenAvgValue: 1910.33
+Gen: 80, BestSol: 1982, BestFeasibleSol: 0, GenAvgValue: 1910.33
+Gen: 90, BestSol: 1982, BestFeasibleSol: 0, GenAvgValue: 1910.33
+Gen: 100, BestSol: 2062, BestFeasibleSol: 0, GenAvgValue: 1943.61
+Gen: 110, BestSol: 2062, BestFeasibleSol: 0, GenAvgValue: 1984.46
+Gen: 120, BestSol: 2062, BestFeasibleSol: 0, GenAvgValue: 1984.73
+Gen: 130, BestSol: 2068, BestFeasibleSol: 0, GenAvgValue: 1989.91
+Gen: 140, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 1990.38
+Gen: 150, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 2010.77
+Gen: 160, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 2010.77
+Gen: 170, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 2010.77
+Gen: 180, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 2010.62
+Gen: 190, BestSol: 2090, BestFeasibleSol: 0, GenAvgValue: 2010.77
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097141
+Input file: instances/_uf250-024.cnf
+Gen: 0, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1258.72
+Gen: 10, BestSol: 1894, BestFeasibleSol: 0, GenAvgValue: 1830.7
+Gen: 20, BestSol: 1894, BestFeasibleSol: 0, GenAvgValue: 1830.7
+Gen: 30, BestSol: 1901, BestFeasibleSol: 0, GenAvgValue: 1837.21
+Gen: 40, BestSol: 1907, BestFeasibleSol: 0, GenAvgValue: 1842.79
+Gen: 50, BestSol: 1907, BestFeasibleSol: 0, GenAvgValue: 1842.79
+Gen: 60, BestSol: 1907, BestFeasibleSol: 0, GenAvgValue: 1842.79
+Gen: 70, BestSol: 1911, BestFeasibleSol: 0, GenAvgValue: 1843.1
+Gen: 80, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1891.15
+Gen: 90, BestSol: 1985, BestFeasibleSol: 0, GenAvgValue: 1913.77
+Gen: 100, BestSol: 1998, BestFeasibleSol: 0, GenAvgValue: 1916.33
+Gen: 110, BestSol: 1999, BestFeasibleSol: 0, GenAvgValue: 1928.35
+Gen: 120, BestSol: 1999, BestFeasibleSol: 0, GenAvgValue: 1928.35
+Gen: 130, BestSol: 1999, BestFeasibleSol: 0, GenAvgValue: 1928.35
+Gen: 140, BestSol: 2022, BestFeasibleSol: 0, GenAvgValue: 1949.74
+Gen: 150, BestSol: 2022, BestFeasibleSol: 0, GenAvgValue: 1949.74
+Gen: 160, BestSol: 2056, BestFeasibleSol: 0, GenAvgValue: 1973.95
+Gen: 170, BestSol: 2100, BestFeasibleSol: 0, GenAvgValue: 2022.28
+Gen: 180, BestSol: 2100, BestFeasibleSol: 0, GenAvgValue: 2022.28
+Gen: 190, BestSol: 2100, BestFeasibleSol: 0, GenAvgValue: 2022.28
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097379
+Input file: instances/_uf250-025.cnf
+Gen: 0, BestSol: 1825, BestFeasibleSol: 0, GenAvgValue: 1388.06
+Gen: 10, BestSol: 2040, BestFeasibleSol: 0, GenAvgValue: 1974.35
+Gen: 20, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1983.65
+Gen: 30, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1983.65
+Gen: 40, BestSol: 2082, BestFeasibleSol: 0, GenAvgValue: 2013.41
+Gen: 50, BestSol: 2082, BestFeasibleSol: 0, GenAvgValue: 2013.41
+Gen: 60, BestSol: 2082, BestFeasibleSol: 0, GenAvgValue: 2013.41
+Gen: 70, BestSol: 2082, BestFeasibleSol: 0, GenAvgValue: 2013.41
+Gen: 80, BestSol: 2107, BestFeasibleSol: 0, GenAvgValue: 2036.66
+Gen: 90, BestSol: 2130, BestFeasibleSol: 0, GenAvgValue: 2058.05
+Gen: 100, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.3
+Gen: 110, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.41
+Gen: 120, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.41
+Gen: 130, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.28
+Gen: 140, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.41
+Gen: 150, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.41
+Gen: 160, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.41
+Gen: 170, BestSol: 2182, BestFeasibleSol: 0, GenAvgValue: 2106.39
+Gen: 180, BestSol: 2210, BestFeasibleSol: 0, GenAvgValue: 2132.45
+Gen: 190, BestSol: 2210, BestFeasibleSol: 0, GenAvgValue: 2132.3
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095616
+Input file: instances/_uf250-026.cnf
+Gen: 0, BestSol: 1137, BestFeasibleSol: 1137, GenAvgValue: 1194.58
+Gen: 10, BestSol: 1312, BestFeasibleSol: 1312, GenAvgValue: 1286.12
+Gen: 20, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1341.79
+Gen: 30, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1342.92
+Gen: 40, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1342.93
+Gen: 50, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1342.93
+Gen: 60, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1342.93
+Gen: 70, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1342.93
+Gen: 80, BestSol: 1375, BestFeasibleSol: 1375, GenAvgValue: 1344.79
+Gen: 90, BestSol: 1399, BestFeasibleSol: 1399, GenAvgValue: 1367.11
+Gen: 100, BestSol: 1424, BestFeasibleSol: 1424, GenAvgValue: 1390.36
+Gen: 110, BestSol: 1424, BestFeasibleSol: 1424, GenAvgValue: 1390.36
+Gen: 120, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1412.68
+Gen: 130, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1412.68
+Gen: 140, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1412.68
+Gen: 150, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1412.68
+Gen: 160, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1412.68
+Gen: 170, BestSol: 1491, BestFeasibleSol: 1491, GenAvgValue: 1452.67
+Gen: 180, BestSol: 1491, BestFeasibleSol: 1491, GenAvgValue: 1452.67
+Gen: 190, BestSol: 1491, BestFeasibleSol: 1491, GenAvgValue: 1452.67
+Total best: 1527
+FirstFeasibleIteration: 2
+Time: 0.09165
+Input file: instances/_uf250-027.cnf
+Gen: 0, BestSol: 1019, BestFeasibleSol: 1019, GenAvgValue: 987.983
+Gen: 10, BestSol: 1128, BestFeasibleSol: 1128, GenAvgValue: 1102.16
+Gen: 20, BestSol: 1158, BestFeasibleSol: 1158, GenAvgValue: 1125.43
+Gen: 30, BestSol: 1158, BestFeasibleSol: 1158, GenAvgValue: 1130.06
+Gen: 40, BestSol: 1170, BestFeasibleSol: 1170, GenAvgValue: 1141.22
+Gen: 50, BestSol: 1197, BestFeasibleSol: 1197, GenAvgValue: 1142.84
+Gen: 60, BestSol: 1197, BestFeasibleSol: 1197, GenAvgValue: 1166.33
+Gen: 70, BestSol: 1197, BestFeasibleSol: 1197, GenAvgValue: 1166.33
+Gen: 80, BestSol: 1206, BestFeasibleSol: 1206, GenAvgValue: 1174.84
+Gen: 90, BestSol: 1206, BestFeasibleSol: 1206, GenAvgValue: 1174.7
+Gen: 100, BestSol: 1206, BestFeasibleSol: 1206, GenAvgValue: 1174.7
+Gen: 110, BestSol: 1206, BestFeasibleSol: 1206, GenAvgValue: 1174.7
+Gen: 120, BestSol: 1240, BestFeasibleSol: 1240, GenAvgValue: 1206.32
+Gen: 130, BestSol: 1245, BestFeasibleSol: 1245, GenAvgValue: 1210.97
+Gen: 140, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1220.13
+Gen: 150, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1220.27
+Gen: 160, BestSol: 1271, BestFeasibleSol: 1271, GenAvgValue: 1235.15
+Gen: 170, BestSol: 1271, BestFeasibleSol: 1271, GenAvgValue: 1235.04
+Gen: 180, BestSol: 1271, BestFeasibleSol: 1271, GenAvgValue: 1235.15
+Gen: 190, BestSol: 1271, BestFeasibleSol: 1271, GenAvgValue: 1235.15
+Total best: 1271
+FirstFeasibleIteration: 1
+Time: 0.093663
+Input file: instances/_uf250-028.cnf
+Gen: 0, BestSol: 1639, BestFeasibleSol: 0, GenAvgValue: 1200.49
+Gen: 10, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.06
+Gen: 20, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.62
+Gen: 30, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.63
+Gen: 40, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.63
+Gen: 50, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.63
+Gen: 60, BestSol: 1835, BestFeasibleSol: 0, GenAvgValue: 1767.89
+Gen: 70, BestSol: 1856, BestFeasibleSol: 0, GenAvgValue: 1789.76
+Gen: 80, BestSol: 1875, BestFeasibleSol: 0, GenAvgValue: 1807.43
+Gen: 90, BestSol: 1875, BestFeasibleSol: 0, GenAvgValue: 1807.43
+Gen: 100, BestSol: 1875, BestFeasibleSol: 0, GenAvgValue: 1807.43
+Gen: 110, BestSol: 1875, BestFeasibleSol: 0, GenAvgValue: 1807.43
+Gen: 120, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1848.38
+Gen: 130, BestSol: 1920, BestFeasibleSol: 0, GenAvgValue: 1849.28
+Gen: 140, BestSol: 1922, BestFeasibleSol: 0, GenAvgValue: 1851.14
+Gen: 150, BestSol: 1957, BestFeasibleSol: 0, GenAvgValue: 1854.64
+Gen: 160, BestSol: 1999, BestFeasibleSol: 0, GenAvgValue: 1921.91
+Gen: 170, BestSol: 2028, BestFeasibleSol: 0, GenAvgValue: 1949.23
+Gen: 180, BestSol: 2028, BestFeasibleSol: 0, GenAvgValue: 1949.72
+Gen: 190, BestSol: 2028, BestFeasibleSol: 0, GenAvgValue: 1949.57
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.099002
+Input file: instances/_uf250-029.cnf
+Gen: 0, BestSol: 1816, BestFeasibleSol: 0, GenAvgValue: 1410.31
+Gen: 10, BestSol: 2147, BestFeasibleSol: 0, GenAvgValue: 2075.21
+Gen: 20, BestSol: 2147, BestFeasibleSol: 0, GenAvgValue: 2075.21
+Gen: 30, BestSol: 2147, BestFeasibleSol: 0, GenAvgValue: 2075.21
+Gen: 40, BestSol: 2186, BestFeasibleSol: 0, GenAvgValue: 2111.48
+Gen: 50, BestSol: 2186, BestFeasibleSol: 0, GenAvgValue: 2111.48
+Gen: 60, BestSol: 2186, BestFeasibleSol: 0, GenAvgValue: 2111.48
+Gen: 70, BestSol: 2211, BestFeasibleSol: 0, GenAvgValue: 2134.73
+Gen: 80, BestSol: 2248, BestFeasibleSol: 0, GenAvgValue: 2169.14
+Gen: 90, BestSol: 2248, BestFeasibleSol: 0, GenAvgValue: 2169.14
+Gen: 100, BestSol: 2248, BestFeasibleSol: 0, GenAvgValue: 2169.02
+Gen: 110, BestSol: 2300, BestFeasibleSol: 0, GenAvgValue: 2217.39
+Gen: 120, BestSol: 2360, BestFeasibleSol: 0, GenAvgValue: 2255.99
+Gen: 130, BestSol: 2360, BestFeasibleSol: 0, GenAvgValue: 2273.3
+Gen: 140, BestSol: 2360, BestFeasibleSol: 0, GenAvgValue: 2273.3
+Gen: 150, BestSol: 2402, BestFeasibleSol: 0, GenAvgValue: 2277.64
+Gen: 160, BestSol: 2424, BestFeasibleSol: 0, GenAvgValue: 2332.74
+Gen: 170, BestSol: 2424, BestFeasibleSol: 0, GenAvgValue: 2332.82
+Gen: 180, BestSol: 2424, BestFeasibleSol: 0, GenAvgValue: 2332.82
+Gen: 190, BestSol: 2465, BestFeasibleSol: 0, GenAvgValue: 2332.95
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.098565
+Input file: instances/_uf250-030.cnf
+Gen: 0, BestSol: 987, BestFeasibleSol: 987, GenAvgValue: 1141.4
+Gen: 10, BestSol: 1021, BestFeasibleSol: 1021, GenAvgValue: 1011.17
+Gen: 20, BestSol: 1071, BestFeasibleSol: 1071, GenAvgValue: 1057.67
+Gen: 30, BestSol: 1104, BestFeasibleSol: 1104, GenAvgValue: 1067.36
+Gen: 40, BestSol: 1194, BestFeasibleSol: 1194, GenAvgValue: 1138.2
+Gen: 50, BestSol: 1260, BestFeasibleSol: 1260, GenAvgValue: 1205.34
+Gen: 60, BestSol: 1260, BestFeasibleSol: 1260, GenAvgValue: 1233.44
+Gen: 70, BestSol: 1260, BestFeasibleSol: 1260, GenAvgValue: 1233.44
+Gen: 80, BestSol: 1290, BestFeasibleSol: 1290, GenAvgValue: 1261.31
+Gen: 90, BestSol: 1290, BestFeasibleSol: 1290, GenAvgValue: 1261.34
+Gen: 100, BestSol: 1290, BestFeasibleSol: 1290, GenAvgValue: 1261.34
+Gen: 110, BestSol: 1290, BestFeasibleSol: 1290, GenAvgValue: 1261.34
+Gen: 120, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1310.45
+Gen: 130, BestSol: 1419, BestFeasibleSol: 1419, GenAvgValue: 1339.65
+Gen: 140, BestSol: 1420, BestFeasibleSol: 1420, GenAvgValue: 1382.24
+Gen: 150, BestSol: 1420, BestFeasibleSol: 1420, GenAvgValue: 1382.24
+Gen: 160, BestSol: 1436, BestFeasibleSol: 1436, GenAvgValue: 1397.12
+Gen: 170, BestSol: 1436, BestFeasibleSol: 1436, GenAvgValue: 1397.12
+Gen: 180, BestSol: 1474, BestFeasibleSol: 1474, GenAvgValue: 1432.46
+Gen: 190, BestSol: 1474, BestFeasibleSol: 1474, GenAvgValue: 1432.46
+Total best: 1500
+FirstFeasibleIteration: 2
+Time: 0.094752
+Input file: instances/_uf250-031.cnf
+Gen: 0, BestSol: 1160, BestFeasibleSol: 1160, GenAvgValue: 1132.97
+Gen: 10, BestSol: 1160, BestFeasibleSol: 1160, GenAvgValue: 1138.78
+Gen: 20, BestSol: 1160, BestFeasibleSol: 1160, GenAvgValue: 1138.71
+Gen: 30, BestSol: 1172, BestFeasibleSol: 1172, GenAvgValue: 1149.94
+Gen: 40, BestSol: 1172, BestFeasibleSol: 1172, GenAvgValue: 1149.94
+Gen: 50, BestSol: 1240, BestFeasibleSol: 1240, GenAvgValue: 1179.84
+Gen: 60, BestSol: 1256, BestFeasibleSol: 1256, GenAvgValue: 1228.06
+Gen: 70, BestSol: 1286, BestFeasibleSol: 1286, GenAvgValue: 1255.96
+Gen: 80, BestSol: 1291, BestFeasibleSol: 1291, GenAvgValue: 1260.61
+Gen: 90, BestSol: 1291, BestFeasibleSol: 1291, GenAvgValue: 1260.61
+Gen: 100, BestSol: 1301, BestFeasibleSol: 1301, GenAvgValue: 1260.64
+Gen: 110, BestSol: 1334, BestFeasibleSol: 1334, GenAvgValue: 1300.44
+Gen: 120, BestSol: 1334, BestFeasibleSol: 1334, GenAvgValue: 1300.56
+Gen: 130, BestSol: 1334, BestFeasibleSol: 1334, GenAvgValue: 1300.6
+Gen: 140, BestSol: 1334, BestFeasibleSol: 1334, GenAvgValue: 1300.6
+Gen: 150, BestSol: 1376, BestFeasibleSol: 1376, GenAvgValue: 1334.19
+Gen: 160, BestSol: 1376, BestFeasibleSol: 1376, GenAvgValue: 1339.66
+Gen: 170, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1352.68
+Gen: 180, BestSol: 1418, BestFeasibleSol: 1418, GenAvgValue: 1378.72
+Gen: 190, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1387.12
+Total best: 1463
+FirstFeasibleIteration: 25
+Time: 0.095039
+Input file: instances/_uf250-032.cnf
+Gen: 0, BestSol: 1112, BestFeasibleSol: 1112, GenAvgValue: 1258.43
+Gen: 10, BestSol: 1484, BestFeasibleSol: 1484, GenAvgValue: 1449.09
+Gen: 20, BestSol: 1552, BestFeasibleSol: 1552, GenAvgValue: 1510.75
+Gen: 30, BestSol: 1597, BestFeasibleSol: 1597, GenAvgValue: 1512.48
+Gen: 40, BestSol: 1597, BestFeasibleSol: 1597, GenAvgValue: 1554.18
+Gen: 50, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1560.69
+Gen: 60, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1560.69
+Gen: 70, BestSol: 1608, BestFeasibleSol: 1608, GenAvgValue: 1560.7
+Gen: 80, BestSol: 1657, BestFeasibleSol: 1657, GenAvgValue: 1607.04
+Gen: 90, BestSol: 1719, BestFeasibleSol: 1719, GenAvgValue: 1633.84
+Gen: 100, BestSol: 1734, BestFeasibleSol: 1734, GenAvgValue: 1681.59
+Gen: 110, BestSol: 1782, BestFeasibleSol: 1782, GenAvgValue: 1685.75
+Gen: 120, BestSol: 1808, BestFeasibleSol: 1808, GenAvgValue: 1726.31
+Gen: 130, BestSol: 1808, BestFeasibleSol: 1808, GenAvgValue: 1750.48
+Gen: 140, BestSol: 1817, BestFeasibleSol: 1817, GenAvgValue: 1758.78
+Gen: 150, BestSol: 1918, BestFeasibleSol: 1918, GenAvgValue: 1812.86
+Gen: 160, BestSol: 1918, BestFeasibleSol: 1918, GenAvgValue: 1852.71
+Gen: 170, BestSol: 1918, BestFeasibleSol: 1918, GenAvgValue: 1852.71
+Gen: 180, BestSol: 1963, BestFeasibleSol: 1963, GenAvgValue: 1894.67
+Gen: 190, BestSol: 1963, BestFeasibleSol: 1963, GenAvgValue: 1894.56
+Total best: 1963
+FirstFeasibleIteration: 1
+Time: 0.098673
+Input file: instances/_uf250-033.cnf
+Gen: 0, BestSol: 1149, BestFeasibleSol: 1149, GenAvgValue: 1078.55
+Gen: 10, BestSol: 1179, BestFeasibleSol: 1179, GenAvgValue: 1148.97
+Gen: 20, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1156.09
+Gen: 30, BestSol: 1189, BestFeasibleSol: 1189, GenAvgValue: 1161.67
+Gen: 40, BestSol: 1189, BestFeasibleSol: 1189, GenAvgValue: 1161.67
+Gen: 50, BestSol: 1236, BestFeasibleSol: 1236, GenAvgValue: 1205.38
+Gen: 60, BestSol: 1266, BestFeasibleSol: 1266, GenAvgValue: 1233.24
+Gen: 70, BestSol: 1266, BestFeasibleSol: 1266, GenAvgValue: 1233.25
+Gen: 80, BestSol: 1266, BestFeasibleSol: 1266, GenAvgValue: 1233.28
+Gen: 90, BestSol: 1301, BestFeasibleSol: 1301, GenAvgValue: 1265.83
+Gen: 100, BestSol: 1319, BestFeasibleSol: 1319, GenAvgValue: 1282.51
+Gen: 110, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1313.26
+Gen: 120, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1313.26
+Gen: 130, BestSol: 1378, BestFeasibleSol: 1378, GenAvgValue: 1313.35
+Gen: 140, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1360.69
+Gen: 150, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1360.57
+Gen: 160, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1360.69
+Gen: 170, BestSol: 1413, BestFeasibleSol: 1413, GenAvgValue: 1369.99
+Gen: 180, BestSol: 1429, BestFeasibleSol: 1429, GenAvgValue: 1383.59
+Gen: 190, BestSol: 1429, BestFeasibleSol: 1429, GenAvgValue: 1384.87
+Total best: 1429
+FirstFeasibleIteration: 8
+Time: 0.094289
+Input file: instances/_uf250-034.cnf
+Gen: 0, BestSol: 1098, BestFeasibleSol: 1098, GenAvgValue: 1211.3
+Gen: 10, BestSol: 1480, BestFeasibleSol: 1480, GenAvgValue: 1439.83
+Gen: 20, BestSol: 1512, BestFeasibleSol: 1512, GenAvgValue: 1467.87
+Gen: 30, BestSol: 1520, BestFeasibleSol: 1520, GenAvgValue: 1477.03
+Gen: 40, BestSol: 1571, BestFeasibleSol: 1571, GenAvgValue: 1524.46
+Gen: 50, BestSol: 1571, BestFeasibleSol: 1571, GenAvgValue: 1524.46
+Gen: 60, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1527.76
+Gen: 70, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1555.15
+Gen: 80, BestSol: 1604, BestFeasibleSol: 1604, GenAvgValue: 1555.04
+Gen: 90, BestSol: 1618, BestFeasibleSol: 1618, GenAvgValue: 1555.2
+Gen: 100, BestSol: 1756, BestFeasibleSol: 1756, GenAvgValue: 1657.59
+Gen: 110, BestSol: 1756, BestFeasibleSol: 1756, GenAvgValue: 1696.62
+Gen: 120, BestSol: 1776, BestFeasibleSol: 1776, GenAvgValue: 1698.9
+Gen: 130, BestSol: 1776, BestFeasibleSol: 1776, GenAvgValue: 1715.11
+Gen: 140, BestSol: 1776, BestFeasibleSol: 1776, GenAvgValue: 1715.11
+Gen: 150, BestSol: 1814, BestFeasibleSol: 1814, GenAvgValue: 1750.45
+Gen: 160, BestSol: 1814, BestFeasibleSol: 1814, GenAvgValue: 1750.45
+Gen: 170, BestSol: 1832, BestFeasibleSol: 1832, GenAvgValue: 1767.19
+Gen: 180, BestSol: 1832, BestFeasibleSol: 1832, GenAvgValue: 1767.19
+Gen: 190, BestSol: 1880, BestFeasibleSol: 1880, GenAvgValue: 1811.83
+Total best: 1880
+FirstFeasibleIteration: 1
+Time: 0.095144
+Input file: instances/_uf250-035.cnf
+Gen: 0, BestSol: 1714, BestFeasibleSol: 0, GenAvgValue: 1268.11
+Gen: 10, BestSol: 1824, BestFeasibleSol: 0, GenAvgValue: 1764.52
+Gen: 20, BestSol: 1866, BestFeasibleSol: 0, GenAvgValue: 1803.58
+Gen: 30, BestSol: 1910, BestFeasibleSol: 0, GenAvgValue: 1844.5
+Gen: 40, BestSol: 1938, BestFeasibleSol: 0, GenAvgValue: 1870.54
+Gen: 50, BestSol: 1963, BestFeasibleSol: 0, GenAvgValue: 1893.79
+Gen: 60, BestSol: 1963, BestFeasibleSol: 0, GenAvgValue: 1893.79
+Gen: 70, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1933.04
+Gen: 80, BestSol: 2016, BestFeasibleSol: 0, GenAvgValue: 1936.59
+Gen: 90, BestSol: 2016, BestFeasibleSol: 0, GenAvgValue: 1943.08
+Gen: 100, BestSol: 2029, BestFeasibleSol: 0, GenAvgValue: 1955.17
+Gen: 110, BestSol: 2029, BestFeasibleSol: 0, GenAvgValue: 1955.17
+Gen: 120, BestSol: 2124, BestFeasibleSol: 0, GenAvgValue: 2043.52
+Gen: 130, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2073.24
+Gen: 140, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.32
+Gen: 150, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.32
+Gen: 160, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.32
+Gen: 170, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.32
+Gen: 180, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.32
+Gen: 190, BestSol: 2184, BestFeasibleSol: 0, GenAvgValue: 2099.3
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097302
+Input file: instances/_uf250-036.cnf
+Gen: 0, BestSol: 1242, BestFeasibleSol: 1242, GenAvgValue: 1226.67
+Gen: 10, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1429.22
+Gen: 20, BestSol: 1514, BestFeasibleSol: 1514, GenAvgValue: 1467.38
+Gen: 30, BestSol: 1535, BestFeasibleSol: 1535, GenAvgValue: 1495.25
+Gen: 40, BestSol: 1545, BestFeasibleSol: 1545, GenAvgValue: 1504.45
+Gen: 50, BestSol: 1621, BestFeasibleSol: 1621, GenAvgValue: 1550.03
+Gen: 60, BestSol: 1701, BestFeasibleSol: 1701, GenAvgValue: 1649.52
+Gen: 70, BestSol: 1740, BestFeasibleSol: 1740, GenAvgValue: 1685.9
+Gen: 80, BestSol: 1749, BestFeasibleSol: 1749, GenAvgValue: 1694.27
+Gen: 90, BestSol: 1761, BestFeasibleSol: 1761, GenAvgValue: 1705.43
+Gen: 100, BestSol: 1761, BestFeasibleSol: 1761, GenAvgValue: 1705.43
+Gen: 110, BestSol: 1761, BestFeasibleSol: 1761, GenAvgValue: 1705.43
+Gen: 120, BestSol: 1761, BestFeasibleSol: 1761, GenAvgValue: 1705.43
+Gen: 130, BestSol: 1761, BestFeasibleSol: 1761, GenAvgValue: 1705.43
+Gen: 140, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1739.97
+Gen: 150, BestSol: 1835, BestFeasibleSol: 1835, GenAvgValue: 1774.25
+Gen: 160, BestSol: 1849, BestFeasibleSol: 1849, GenAvgValue: 1787.27
+Gen: 170, BestSol: 1854, BestFeasibleSol: 1854, GenAvgValue: 1791.56
+Gen: 180, BestSol: 1880, BestFeasibleSol: 1880, GenAvgValue: 1816.1
+Gen: 190, BestSol: 1880, BestFeasibleSol: 1880, GenAvgValue: 1816.06
+Total best: 1886
+FirstFeasibleIteration: 2
+Time: 0.097497
+Input file: instances/_uf250-037.cnf
+Gen: 0, BestSol: 1753, BestFeasibleSol: 0, GenAvgValue: 1219.98
+Gen: 10, BestSol: 1912, BestFeasibleSol: 0, GenAvgValue: 1843.43
+Gen: 20, BestSol: 1912, BestFeasibleSol: 0, GenAvgValue: 1843.3
+Gen: 30, BestSol: 1912, BestFeasibleSol: 0, GenAvgValue: 1843.43
+Gen: 40, BestSol: 1916, BestFeasibleSol: 0, GenAvgValue: 1847.15
+Gen: 50, BestSol: 1916, BestFeasibleSol: 0, GenAvgValue: 1847.15
+Gen: 60, BestSol: 1942, BestFeasibleSol: 0, GenAvgValue: 1871.33
+Gen: 70, BestSol: 1947, BestFeasibleSol: 0, GenAvgValue: 1875.98
+Gen: 80, BestSol: 1947, BestFeasibleSol: 0, GenAvgValue: 1875.98
+Gen: 90, BestSol: 1947, BestFeasibleSol: 0, GenAvgValue: 1875.98
+Gen: 100, BestSol: 1947, BestFeasibleSol: 0, GenAvgValue: 1875.98
+Gen: 110, BestSol: 1947, BestFeasibleSol: 0, GenAvgValue: 1875.98
+Gen: 120, BestSol: 1960, BestFeasibleSol: 0, GenAvgValue: 1888.07
+Gen: 130, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 140, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 150, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 160, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 170, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 180, BestSol: 2002, BestFeasibleSol: 0, GenAvgValue: 1927.13
+Gen: 190, BestSol: 2023, BestFeasibleSol: 0, GenAvgValue: 1927.2
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.100516
+Input file: instances/_uf250-038.cnf
+Gen: 0, BestSol: 1647, BestFeasibleSol: 0, GenAvgValue: 1278.28
+Gen: 10, BestSol: 1797, BestFeasibleSol: 0, GenAvgValue: 1740.44
+Gen: 20, BestSol: 1797, BestFeasibleSol: 0, GenAvgValue: 1740.52
+Gen: 30, BestSol: 1798, BestFeasibleSol: 0, GenAvgValue: 1741.35
+Gen: 40, BestSol: 1798, BestFeasibleSol: 0, GenAvgValue: 1741.45
+Gen: 50, BestSol: 1798, BestFeasibleSol: 0, GenAvgValue: 1741.45
+Gen: 60, BestSol: 1825, BestFeasibleSol: 0, GenAvgValue: 1752.91
+Gen: 70, BestSol: 1846, BestFeasibleSol: 0, GenAvgValue: 1766.63
+Gen: 80, BestSol: 1846, BestFeasibleSol: 0, GenAvgValue: 1786.09
+Gen: 90, BestSol: 1874, BestFeasibleSol: 0, GenAvgValue: 1812.13
+Gen: 100, BestSol: 1907, BestFeasibleSol: 0, GenAvgValue: 1842.82
+Gen: 110, BestSol: 1907, BestFeasibleSol: 0, GenAvgValue: 1842.82
+Gen: 120, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1870.79
+Gen: 130, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1891.18
+Gen: 140, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1891.18
+Gen: 150, BestSol: 2028, BestFeasibleSol: 0, GenAvgValue: 1952.63
+Gen: 160, BestSol: 2077, BestFeasibleSol: 0, GenAvgValue: 1973.51
+Gen: 170, BestSol: 2097, BestFeasibleSol: 0, GenAvgValue: 2019.52
+Gen: 180, BestSol: 2097, BestFeasibleSol: 0, GenAvgValue: 2019.52
+Gen: 190, BestSol: 2097, BestFeasibleSol: 0, GenAvgValue: 2019.52
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097364
+Input file: instances/_uf250-039.cnf
+Gen: 0, BestSol: 1157, BestFeasibleSol: 1157, GenAvgValue: 1065.16
+Gen: 10, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1336.1
+Gen: 20, BestSol: 1374, BestFeasibleSol: 1374, GenAvgValue: 1336.1
+Gen: 30, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1338.89
+Gen: 40, BestSol: 1398, BestFeasibleSol: 1398, GenAvgValue: 1358.3
+Gen: 50, BestSol: 1432, BestFeasibleSol: 1432, GenAvgValue: 1390.04
+Gen: 60, BestSol: 1432, BestFeasibleSol: 1432, GenAvgValue: 1390.04
+Gen: 70, BestSol: 1432, BestFeasibleSol: 1432, GenAvgValue: 1390.04
+Gen: 80, BestSol: 1432, BestFeasibleSol: 1432, GenAvgValue: 1390.04
+Gen: 90, BestSol: 1435, BestFeasibleSol: 1435, GenAvgValue: 1392.51
+Gen: 100, BestSol: 1454, BestFeasibleSol: 1454, GenAvgValue: 1394.35
+Gen: 110, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 120, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 130, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 140, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 150, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 160, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1428.17
+Gen: 170, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1428.25
+Gen: 180, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1448.63
+Gen: 190, BestSol: 1495, BestFeasibleSol: 1495, GenAvgValue: 1448.63
+Total best: 1511
+FirstFeasibleIteration: 1
+Time: 0.093955
+Input file: instances/_uf250-040.cnf
+Gen: 0, BestSol: 1023, BestFeasibleSol: 1023, GenAvgValue: 1270.6
+Gen: 10, BestSol: 1186, BestFeasibleSol: 1186, GenAvgValue: 1128.65
+Gen: 20, BestSol: 1235, BestFeasibleSol: 1235, GenAvgValue: 1175.73
+Gen: 30, BestSol: 1235, BestFeasibleSol: 1235, GenAvgValue: 1217.22
+Gen: 40, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1235.82
+Gen: 50, BestSol: 1292, BestFeasibleSol: 1292, GenAvgValue: 1270.23
+Gen: 60, BestSol: 1292, BestFeasibleSol: 1292, GenAvgValue: 1270.23
+Gen: 70, BestSol: 1292, BestFeasibleSol: 1292, GenAvgValue: 1270.23
+Gen: 80, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.66
+Gen: 90, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.76
+Gen: 100, BestSol: 1322, BestFeasibleSol: 1322, GenAvgValue: 1290.06
+Gen: 110, BestSol: 1363, BestFeasibleSol: 1363, GenAvgValue: 1335.58
+Gen: 120, BestSol: 1392, BestFeasibleSol: 1392, GenAvgValue: 1336.36
+Gen: 130, BestSol: 1392, BestFeasibleSol: 1392, GenAvgValue: 1363.23
+Gen: 140, BestSol: 1392, BestFeasibleSol: 1392, GenAvgValue: 1363.23
+Gen: 150, BestSol: 1412, BestFeasibleSol: 1412, GenAvgValue: 1381.75
+Gen: 160, BestSol: 1452, BestFeasibleSol: 1452, GenAvgValue: 1419.03
+Gen: 170, BestSol: 1525, BestFeasibleSol: 1525, GenAvgValue: 1461.08
+Gen: 180, BestSol: 1534, BestFeasibleSol: 1534, GenAvgValue: 1495.29
+Gen: 190, BestSol: 1534, BestFeasibleSol: 1534, GenAvgValue: 1495.22
+Total best: 1563
+FirstFeasibleIteration: 1
+Time: 0.095524
+Input file: instances/_uf250-041.cnf
+Gen: 0, BestSol: 994, BestFeasibleSol: 994, GenAvgValue: 998.64
+Gen: 10, BestSol: 1052, BestFeasibleSol: 1052, GenAvgValue: 1029.61
+Gen: 20, BestSol: 1052, BestFeasibleSol: 1052, GenAvgValue: 1032.7
+Gen: 30, BestSol: 1101, BestFeasibleSol: 1101, GenAvgValue: 1078.38
+Gen: 40, BestSol: 1135, BestFeasibleSol: 1135, GenAvgValue: 1080.36
+Gen: 50, BestSol: 1135, BestFeasibleSol: 1135, GenAvgValue: 1109.89
+Gen: 60, BestSol: 1135, BestFeasibleSol: 1135, GenAvgValue: 1110
+Gen: 70, BestSol: 1135, BestFeasibleSol: 1135, GenAvgValue: 1110
+Gen: 80, BestSol: 1135, BestFeasibleSol: 1135, GenAvgValue: 1110
+Gen: 90, BestSol: 1174, BestFeasibleSol: 1174, GenAvgValue: 1146.27
+Gen: 100, BestSol: 1174, BestFeasibleSol: 1174, GenAvgValue: 1146.27
+Gen: 110, BestSol: 1193, BestFeasibleSol: 1193, GenAvgValue: 1146.36
+Gen: 120, BestSol: 1231, BestFeasibleSol: 1231, GenAvgValue: 1198.41
+Gen: 130, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1221.6
+Gen: 140, BestSol: 1298, BestFeasibleSol: 1298, GenAvgValue: 1261.59
+Gen: 150, BestSol: 1298, BestFeasibleSol: 1298, GenAvgValue: 1261.59
+Gen: 160, BestSol: 1355, BestFeasibleSol: 1355, GenAvgValue: 1293.52
+Gen: 170, BestSol: 1355, BestFeasibleSol: 1355, GenAvgValue: 1314.6
+Gen: 180, BestSol: 1362, BestFeasibleSol: 1362, GenAvgValue: 1314.62
+Gen: 190, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1327.58
+Total best: 1373
+FirstFeasibleIteration: 3
+Time: 0.091127
+Input file: instances/_uf250-042.cnf
+Gen: 0, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1270.42
+Gen: 10, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1399.71
+Gen: 20, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1399.71
+Gen: 30, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1399.67
+Gen: 40, BestSol: 1468, BestFeasibleSol: 1468, GenAvgValue: 1399.84
+Gen: 50, BestSol: 1490, BestFeasibleSol: 1490, GenAvgValue: 1457.37
+Gen: 60, BestSol: 1526, BestFeasibleSol: 1526, GenAvgValue: 1490.85
+Gen: 70, BestSol: 1538, BestFeasibleSol: 1538, GenAvgValue: 1502.01
+Gen: 80, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1534.53
+Gen: 90, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1555.95
+Gen: 100, BestSol: 1645, BestFeasibleSol: 1645, GenAvgValue: 1601.52
+Gen: 110, BestSol: 1678, BestFeasibleSol: 1678, GenAvgValue: 1605.15
+Gen: 120, BestSol: 1728, BestFeasibleSol: 1728, GenAvgValue: 1678.58
+Gen: 130, BestSol: 1728, BestFeasibleSol: 1728, GenAvgValue: 1678.71
+Gen: 140, BestSol: 1728, BestFeasibleSol: 1728, GenAvgValue: 1678.71
+Gen: 150, BestSol: 1779, BestFeasibleSol: 1779, GenAvgValue: 1682.58
+Gen: 160, BestSol: 1796, BestFeasibleSol: 1796, GenAvgValue: 1741.95
+Gen: 170, BestSol: 1796, BestFeasibleSol: 1796, GenAvgValue: 1741.95
+Gen: 180, BestSol: 1796, BestFeasibleSol: 1796, GenAvgValue: 1741.81
+Gen: 190, BestSol: 1796, BestFeasibleSol: 1796, GenAvgValue: 1741.95
+Total best: 1834
+FirstFeasibleIteration: 2
+Time: 0.098687
+Input file: instances/_uf250-043.cnf
+Gen: 0, BestSol: 1405, BestFeasibleSol: 0, GenAvgValue: 1086.63
+Gen: 10, BestSol: 1586, BestFeasibleSol: 0, GenAvgValue: 1533.98
+Gen: 20, BestSol: 1619, BestFeasibleSol: 0, GenAvgValue: 1534.09
+Gen: 30, BestSol: 1642, BestFeasibleSol: 0, GenAvgValue: 1586.06
+Gen: 40, BestSol: 1642, BestFeasibleSol: 0, GenAvgValue: 1586.06
+Gen: 50, BestSol: 1642, BestFeasibleSol: 0, GenAvgValue: 1586.06
+Gen: 60, BestSol: 1665, BestFeasibleSol: 0, GenAvgValue: 1597.26
+Gen: 70, BestSol: 1665, BestFeasibleSol: 0, GenAvgValue: 1607.45
+Gen: 80, BestSol: 1665, BestFeasibleSol: 0, GenAvgValue: 1607.45
+Gen: 90, BestSol: 1702, BestFeasibleSol: 0, GenAvgValue: 1607.58
+Gen: 100, BestSol: 1702, BestFeasibleSol: 0, GenAvgValue: 1641.86
+Gen: 110, BestSol: 1702, BestFeasibleSol: 0, GenAvgValue: 1641.86
+Gen: 120, BestSol: 1722, BestFeasibleSol: 0, GenAvgValue: 1660.46
+Gen: 130, BestSol: 1743, BestFeasibleSol: 0, GenAvgValue: 1679.88
+Gen: 140, BestSol: 1743, BestFeasibleSol: 0, GenAvgValue: 1679.99
+Gen: 150, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1680.12
+Gen: 160, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1716.26
+Gen: 170, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1716.26
+Gen: 180, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1716.22
+Gen: 190, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1716.26
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095812
+Input file: instances/_uf250-044.cnf
+Gen: 0, BestSol: 1499, BestFeasibleSol: 0, GenAvgValue: 1119.31
+Gen: 10, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1640.42
+Gen: 20, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1640.42
+Gen: 30, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1640.42
+Gen: 40, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1640.42
+Gen: 50, BestSol: 1700, BestFeasibleSol: 0, GenAvgValue: 1640.36
+Gen: 60, BestSol: 1714, BestFeasibleSol: 0, GenAvgValue: 1653.44
+Gen: 70, BestSol: 1714, BestFeasibleSol: 0, GenAvgValue: 1653.44
+Gen: 80, BestSol: 1728, BestFeasibleSol: 0, GenAvgValue: 1654.75
+Gen: 90, BestSol: 1728, BestFeasibleSol: 0, GenAvgValue: 1666.46
+Gen: 100, BestSol: 1728, BestFeasibleSol: 0, GenAvgValue: 1666.46
+Gen: 110, BestSol: 1728, BestFeasibleSol: 0, GenAvgValue: 1666.46
+Gen: 120, BestSol: 1728, BestFeasibleSol: 0, GenAvgValue: 1666.46
+Gen: 130, BestSol: 1768, BestFeasibleSol: 0, GenAvgValue: 1703.66
+Gen: 140, BestSol: 1768, BestFeasibleSol: 0, GenAvgValue: 1703.66
+Gen: 150, BestSol: 1779, BestFeasibleSol: 0, GenAvgValue: 1703.51
+Gen: 160, BestSol: 1779, BestFeasibleSol: 0, GenAvgValue: 1713.89
+Gen: 170, BestSol: 1785, BestFeasibleSol: 0, GenAvgValue: 1719.03
+Gen: 180, BestSol: 1798, BestFeasibleSol: 0, GenAvgValue: 1731.34
+Gen: 190, BestSol: 1881, BestFeasibleSol: 0, GenAvgValue: 1806.11
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.096243
+Input file: instances/_uf250-045.cnf
+Gen: 0, BestSol: 1401, BestFeasibleSol: 1401, GenAvgValue: 1209.75
+Gen: 10, BestSol: 1487, BestFeasibleSol: 1487, GenAvgValue: 1449.38
+Gen: 20, BestSol: 1518, BestFeasibleSol: 1518, GenAvgValue: 1478.21
+Gen: 30, BestSol: 1534, BestFeasibleSol: 1534, GenAvgValue: 1493.09
+Gen: 40, BestSol: 1534, BestFeasibleSol: 1534, GenAvgValue: 1493.09
+Gen: 50, BestSol: 1534, BestFeasibleSol: 1534, GenAvgValue: 1493.09
+Gen: 60, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1494.95
+Gen: 70, BestSol: 1552, BestFeasibleSol: 1552, GenAvgValue: 1495
+Gen: 80, BestSol: 1589, BestFeasibleSol: 1589, GenAvgValue: 1544.24
+Gen: 90, BestSol: 1589, BestFeasibleSol: 1589, GenAvgValue: 1544.24
+Gen: 100, BestSol: 1614, BestFeasibleSol: 1614, GenAvgValue: 1567.49
+Gen: 110, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1600.97
+Gen: 120, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1600.97
+Gen: 130, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1600.97
+Gen: 140, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1600.97
+Gen: 150, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1600.97
+Gen: 160, BestSol: 1695, BestFeasibleSol: 1695, GenAvgValue: 1630.73
+Gen: 170, BestSol: 1695, BestFeasibleSol: 1695, GenAvgValue: 1642.82
+Gen: 180, BestSol: 1714, BestFeasibleSol: 1714, GenAvgValue: 1660.49
+Gen: 190, BestSol: 1714, BestFeasibleSol: 1714, GenAvgValue: 1660.49
+Total best: 1714
+FirstFeasibleIteration: 1
+Time: 0.095585
+Input file: instances/_uf250-046.cnf
+Gen: 0, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1200.41
+Gen: 10, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1344.6
+Gen: 20, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1344.6
+Gen: 30, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1344.6
+Gen: 40, BestSol: 1377, BestFeasibleSol: 1377, GenAvgValue: 1344.47
+Gen: 50, BestSol: 1378, BestFeasibleSol: 1378, GenAvgValue: 1344.69
+Gen: 60, BestSol: 1385, BestFeasibleSol: 1385, GenAvgValue: 1351.91
+Gen: 70, BestSol: 1385, BestFeasibleSol: 1385, GenAvgValue: 1352.04
+Gen: 80, BestSol: 1413, BestFeasibleSol: 1413, GenAvgValue: 1375.1
+Gen: 90, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1398.31
+Gen: 100, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1404.12
+Gen: 110, BestSol: 1441, BestFeasibleSol: 1441, GenAvgValue: 1404.12
+Gen: 120, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1410.63
+Gen: 130, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1410.52
+Gen: 140, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1410.63
+Gen: 150, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1410.63
+Gen: 160, BestSol: 1448, BestFeasibleSol: 1448, GenAvgValue: 1410.63
+Gen: 170, BestSol: 1454, BestFeasibleSol: 1454, GenAvgValue: 1416.21
+Gen: 180, BestSol: 1472, BestFeasibleSol: 1472, GenAvgValue: 1432.95
+Gen: 190, BestSol: 1539, BestFeasibleSol: 1539, GenAvgValue: 1494.22
+Total best: 1539
+FirstFeasibleIteration: 49
+Time: 0.096256
+Input file: instances/_uf250-047.cnf
+Gen: 0, BestSol: 1054, BestFeasibleSol: 1054, GenAvgValue: 1124.36
+Gen: 10, BestSol: 1218, BestFeasibleSol: 1218, GenAvgValue: 1191.66
+Gen: 20, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1219.94
+Gen: 30, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1220.84
+Gen: 40, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1220.84
+Gen: 50, BestSol: 1248, BestFeasibleSol: 1248, GenAvgValue: 1220.84
+Gen: 60, BestSol: 1259, BestFeasibleSol: 1259, GenAvgValue: 1231.07
+Gen: 70, BestSol: 1259, BestFeasibleSol: 1259, GenAvgValue: 1231.07
+Gen: 80, BestSol: 1270, BestFeasibleSol: 1270, GenAvgValue: 1241.3
+Gen: 90, BestSol: 1270, BestFeasibleSol: 1270, GenAvgValue: 1241.3
+Gen: 100, BestSol: 1272, BestFeasibleSol: 1272, GenAvgValue: 1241.48
+Gen: 110, BestSol: 1272, BestFeasibleSol: 1272, GenAvgValue: 1243.16
+Gen: 120, BestSol: 1282, BestFeasibleSol: 1282, GenAvgValue: 1251.33
+Gen: 130, BestSol: 1369, BestFeasibleSol: 1369, GenAvgValue: 1333.37
+Gen: 140, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1364.06
+Gen: 150, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1364.06
+Gen: 160, BestSol: 1423, BestFeasibleSol: 1423, GenAvgValue: 1365.95
+Gen: 170, BestSol: 1444, BestFeasibleSol: 1444, GenAvgValue: 1403.12
+Gen: 180, BestSol: 1444, BestFeasibleSol: 1444, GenAvgValue: 1403.12
+Gen: 190, BestSol: 1444, BestFeasibleSol: 1444, GenAvgValue: 1403.12
+Total best: 1444
+FirstFeasibleIteration: 1
+Time: 0.094137
+Input file: instances/_uf250-048.cnf
+Gen: 0, BestSol: 1362, BestFeasibleSol: 0, GenAvgValue: 1042.77
+Gen: 10, BestSol: 1503, BestFeasibleSol: 0, GenAvgValue: 1453.02
+Gen: 20, BestSol: 1542, BestFeasibleSol: 0, GenAvgValue: 1489.29
+Gen: 30, BestSol: 1542, BestFeasibleSol: 0, GenAvgValue: 1489.29
+Gen: 40, BestSol: 1542, BestFeasibleSol: 0, GenAvgValue: 1489.29
+Gen: 50, BestSol: 1542, BestFeasibleSol: 0, GenAvgValue: 1489.29
+Gen: 60, BestSol: 1581, BestFeasibleSol: 0, GenAvgValue: 1525.56
+Gen: 70, BestSol: 1593, BestFeasibleSol: 0, GenAvgValue: 1536.72
+Gen: 80, BestSol: 1624, BestFeasibleSol: 0, GenAvgValue: 1543.32
+Gen: 90, BestSol: 1624, BestFeasibleSol: 0, GenAvgValue: 1565.55
+Gen: 100, BestSol: 1624, BestFeasibleSol: 0, GenAvgValue: 1565.55
+Gen: 110, BestSol: 1717, BestFeasibleSol: 0, GenAvgValue: 1652.04
+Gen: 120, BestSol: 1717, BestFeasibleSol: 0, GenAvgValue: 1652.04
+Gen: 130, BestSol: 1718, BestFeasibleSol: 0, GenAvgValue: 1652.15
+Gen: 140, BestSol: 1718, BestFeasibleSol: 0, GenAvgValue: 1652.97
+Gen: 150, BestSol: 1736, BestFeasibleSol: 0, GenAvgValue: 1669.71
+Gen: 160, BestSol: 1736, BestFeasibleSol: 0, GenAvgValue: 1669.71
+Gen: 170, BestSol: 1737, BestFeasibleSol: 0, GenAvgValue: 1669.7
+Gen: 180, BestSol: 1749, BestFeasibleSol: 0, GenAvgValue: 1681.8
+Gen: 190, BestSol: 1749, BestFeasibleSol: 0, GenAvgValue: 1681.8
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095381
+Input file: instances/_uf250-049.cnf
+Gen: 0, BestSol: 1227, BestFeasibleSol: 1227, GenAvgValue: 1117.69
+Gen: 10, BestSol: 1297, BestFeasibleSol: 1297, GenAvgValue: 1266.19
+Gen: 20, BestSol: 1322, BestFeasibleSol: 1322, GenAvgValue: 1268.44
+Gen: 30, BestSol: 1396, BestFeasibleSol: 1396, GenAvgValue: 1358.26
+Gen: 40, BestSol: 1396, BestFeasibleSol: 1396, GenAvgValue: 1358.26
+Gen: 50, BestSol: 1396, BestFeasibleSol: 1396, GenAvgValue: 1358.26
+Gen: 60, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1399.95
+Gen: 70, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1401.04
+Gen: 80, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1401.04
+Gen: 90, BestSol: 1467, BestFeasibleSol: 1467, GenAvgValue: 1424.28
+Gen: 100, BestSol: 1467, BestFeasibleSol: 1467, GenAvgValue: 1424.29
+Gen: 110, BestSol: 1467, BestFeasibleSol: 1467, GenAvgValue: 1424.29
+Gen: 120, BestSol: 1474, BestFeasibleSol: 1474, GenAvgValue: 1430.84
+Gen: 130, BestSol: 1514, BestFeasibleSol: 1514, GenAvgValue: 1430.79
+Gen: 140, BestSol: 1561, BestFeasibleSol: 1561, GenAvgValue: 1472.55
+Gen: 150, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1521.94
+Gen: 160, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1521.94
+Gen: 170, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1521.94
+Gen: 180, BestSol: 1585, BestFeasibleSol: 1585, GenAvgValue: 1534.03
+Gen: 190, BestSol: 1605, BestFeasibleSol: 1605, GenAvgValue: 1534.1
+Total best: 1605
+FirstFeasibleIteration: 5
+Time: 0.094897
+Input file: instances/_uf250-050.cnf
+Gen: 0, BestSol: 1324, BestFeasibleSol: 1324, GenAvgValue: 1227.42
+Gen: 10, BestSol: 1324, BestFeasibleSol: 1324, GenAvgValue: 1296.65
+Gen: 20, BestSol: 1324, BestFeasibleSol: 1324, GenAvgValue: 1296.65
+Gen: 30, BestSol: 1360, BestFeasibleSol: 1360, GenAvgValue: 1308.67
+Gen: 40, BestSol: 1360, BestFeasibleSol: 1360, GenAvgValue: 1330.13
+Gen: 50, BestSol: 1364, BestFeasibleSol: 1364, GenAvgValue: 1333.85
+Gen: 60, BestSol: 1364, BestFeasibleSol: 1364, GenAvgValue: 1333.85
+Gen: 70, BestSol: 1383, BestFeasibleSol: 1383, GenAvgValue: 1349.37
+Gen: 80, BestSol: 1418, BestFeasibleSol: 1418, GenAvgValue: 1384.07
+Gen: 90, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1426.74
+Gen: 100, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1426.74
+Gen: 110, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1426.77
+Gen: 120, BestSol: 1464, BestFeasibleSol: 1464, GenAvgValue: 1426.77
+Gen: 130, BestSol: 1491, BestFeasibleSol: 1491, GenAvgValue: 1451.96
+Gen: 140, BestSol: 1492, BestFeasibleSol: 1492, GenAvgValue: 1452.89
+Gen: 150, BestSol: 1492, BestFeasibleSol: 1492, GenAvgValue: 1452.85
+Gen: 160, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1487.3
+Gen: 170, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1487.3
+Gen: 180, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1487.3
+Gen: 190, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1487.19
+Total best: 1529
+FirstFeasibleIteration: 25
+Time: 0.094662
+Input file: instances/_uf250-051.cnf
+Gen: 0, BestSol: 1504, BestFeasibleSol: 0, GenAvgValue: 1109.66
+Gen: 10, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1735.34
+Gen: 20, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1736.81
+Gen: 30, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1736.81
+Gen: 40, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 50, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 60, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 70, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 80, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 90, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 100, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 110, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 120, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 130, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.94
+Gen: 140, BestSol: 1863, BestFeasibleSol: 0, GenAvgValue: 1792.55
+Gen: 150, BestSol: 1863, BestFeasibleSol: 0, GenAvgValue: 1792.61
+Gen: 160, BestSol: 1911, BestFeasibleSol: 0, GenAvgValue: 1837.25
+Gen: 170, BestSol: 1952, BestFeasibleSol: 0, GenAvgValue: 1875.38
+Gen: 180, BestSol: 1952, BestFeasibleSol: 0, GenAvgValue: 1875.23
+Gen: 190, BestSol: 1952, BestFeasibleSol: 0, GenAvgValue: 1875.38
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095387
+Input file: instances/_uf250-052.cnf
+Gen: 0, BestSol: 1347, BestFeasibleSol: 1347, GenAvgValue: 1243.83
+Gen: 10, BestSol: 1632, BestFeasibleSol: 1632, GenAvgValue: 1584.37
+Gen: 20, BestSol: 1681, BestFeasibleSol: 1681, GenAvgValue: 1629.94
+Gen: 30, BestSol: 1712, BestFeasibleSol: 1712, GenAvgValue: 1658.85
+Gen: 40, BestSol: 1748, BestFeasibleSol: 1748, GenAvgValue: 1658.89
+Gen: 50, BestSol: 1793, BestFeasibleSol: 1793, GenAvgValue: 1734.1
+Gen: 60, BestSol: 1795, BestFeasibleSol: 1795, GenAvgValue: 1735.96
+Gen: 70, BestSol: 1821, BestFeasibleSol: 1821, GenAvgValue: 1760.14
+Gen: 80, BestSol: 1821, BestFeasibleSol: 1821, GenAvgValue: 1759.99
+Gen: 90, BestSol: 1827, BestFeasibleSol: 1827, GenAvgValue: 1765.72
+Gen: 100, BestSol: 1837, BestFeasibleSol: 1837, GenAvgValue: 1775.02
+Gen: 110, BestSol: 1905, BestFeasibleSol: 1905, GenAvgValue: 1833.42
+Gen: 120, BestSol: 1944, BestFeasibleSol: 1944, GenAvgValue: 1874.31
+Gen: 130, BestSol: 1944, BestFeasibleSol: 1944, GenAvgValue: 1874.53
+Gen: 140, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Gen: 150, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Gen: 160, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Gen: 170, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Gen: 180, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Gen: 190, BestSol: 1979, BestFeasibleSol: 1979, GenAvgValue: 1907.08
+Total best: 1995
+FirstFeasibleIteration: 1
+Time: 0.093709
+Input file: instances/_uf250-053.cnf
+Gen: 0, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1242.11
+Gen: 10, BestSol: 1462, BestFeasibleSol: 1462, GenAvgValue: 1424.76
+Gen: 20, BestSol: 1488, BestFeasibleSol: 1488, GenAvgValue: 1449.02
+Gen: 30, BestSol: 1501, BestFeasibleSol: 1501, GenAvgValue: 1461.11
+Gen: 40, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1468.55
+Gen: 50, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1468.54
+Gen: 60, BestSol: 1591, BestFeasibleSol: 1591, GenAvgValue: 1505.48
+Gen: 70, BestSol: 1651, BestFeasibleSol: 1651, GenAvgValue: 1565.55
+Gen: 80, BestSol: 1679, BestFeasibleSol: 1679, GenAvgValue: 1606.33
+Gen: 90, BestSol: 1679, BestFeasibleSol: 1679, GenAvgValue: 1626.56
+Gen: 100, BestSol: 1705, BestFeasibleSol: 1705, GenAvgValue: 1650.83
+Gen: 110, BestSol: 1742, BestFeasibleSol: 1742, GenAvgValue: 1683.26
+Gen: 120, BestSol: 1776, BestFeasibleSol: 1776, GenAvgValue: 1716.12
+Gen: 130, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1740.11
+Gen: 140, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1740.11
+Gen: 150, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1740.08
+Gen: 160, BestSol: 1801, BestFeasibleSol: 1801, GenAvgValue: 1740.11
+Gen: 170, BestSol: 1813, BestFeasibleSol: 1813, GenAvgValue: 1751.27
+Gen: 180, BestSol: 1813, BestFeasibleSol: 1813, GenAvgValue: 1751.27
+Gen: 190, BestSol: 1813, BestFeasibleSol: 1813, GenAvgValue: 1751.27
+Total best: 1895
+FirstFeasibleIteration: 2
+Time: 0.097892
+Input file: instances/_uf250-054.cnf
+Gen: 0, BestSol: 1081, BestFeasibleSol: 1081, GenAvgValue: 1262.79
+Gen: 10, BestSol: 1274, BestFeasibleSol: 1274, GenAvgValue: 1252.95
+Gen: 20, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 30, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 40, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 50, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 60, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 70, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 80, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 90, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1289.22
+Gen: 100, BestSol: 1333, BestFeasibleSol: 1333, GenAvgValue: 1290.6
+Gen: 110, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1337.45
+Gen: 120, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1337.45
+Gen: 130, BestSol: 1409, BestFeasibleSol: 1409, GenAvgValue: 1340.95
+Gen: 140, BestSol: 1411, BestFeasibleSol: 1411, GenAvgValue: 1380.36
+Gen: 150, BestSol: 1440, BestFeasibleSol: 1440, GenAvgValue: 1407.33
+Gen: 160, BestSol: 1481, BestFeasibleSol: 1481, GenAvgValue: 1410.33
+Gen: 170, BestSol: 1481, BestFeasibleSol: 1481, GenAvgValue: 1445.46
+Gen: 180, BestSol: 1514, BestFeasibleSol: 1514, GenAvgValue: 1476.15
+Gen: 190, BestSol: 1514, BestFeasibleSol: 1514, GenAvgValue: 1476.15
+Total best: 1563
+FirstFeasibleIteration: 1
+Time: 0.09551
+Input file: instances/_uf250-055.cnf
+Gen: 0, BestSol: 1627, BestFeasibleSol: 0, GenAvgValue: 1240.07
+Gen: 10, BestSol: 1782, BestFeasibleSol: 0, GenAvgValue: 1723.43
+Gen: 20, BestSol: 1832, BestFeasibleSol: 0, GenAvgValue: 1769.93
+Gen: 30, BestSol: 1878, BestFeasibleSol: 0, GenAvgValue: 1812.71
+Gen: 40, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1860.98
+Gen: 50, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1860.97
+Gen: 60, BestSol: 1960, BestFeasibleSol: 0, GenAvgValue: 1888.97
+Gen: 70, BestSol: 1968, BestFeasibleSol: 0, GenAvgValue: 1896.41
+Gen: 80, BestSol: 1977, BestFeasibleSol: 0, GenAvgValue: 1903.09
+Gen: 90, BestSol: 1977, BestFeasibleSol: 0, GenAvgValue: 1904.78
+Gen: 100, BestSol: 1977, BestFeasibleSol: 0, GenAvgValue: 1904.78
+Gen: 110, BestSol: 1977, BestFeasibleSol: 0, GenAvgValue: 1904.78
+Gen: 120, BestSol: 2012, BestFeasibleSol: 0, GenAvgValue: 1907.7
+Gen: 130, BestSol: 2012, BestFeasibleSol: 0, GenAvgValue: 1937.33
+Gen: 140, BestSol: 2054, BestFeasibleSol: 0, GenAvgValue: 1976.39
+Gen: 150, BestSol: 2054, BestFeasibleSol: 0, GenAvgValue: 1976.39
+Gen: 160, BestSol: 2054, BestFeasibleSol: 0, GenAvgValue: 1976.32
+Gen: 170, BestSol: 2054, BestFeasibleSol: 0, GenAvgValue: 1976.39
+Gen: 180, BestSol: 2054, BestFeasibleSol: 0, GenAvgValue: 1976.28
+Gen: 190, BestSol: 2075, BestFeasibleSol: 0, GenAvgValue: 1995.92
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097322
+Input file: instances/_uf250-056.cnf
+Gen: 0, BestSol: 1647, BestFeasibleSol: 1647, GenAvgValue: 1368.67
+Gen: 10, BestSol: 1681, BestFeasibleSol: 1681, GenAvgValue: 1637.36
+Gen: 20, BestSol: 1689, BestFeasibleSol: 1689, GenAvgValue: 1638.08
+Gen: 30, BestSol: 1716, BestFeasibleSol: 1716, GenAvgValue: 1669.91
+Gen: 40, BestSol: 1762, BestFeasibleSol: 1762, GenAvgValue: 1706.47
+Gen: 50, BestSol: 1797, BestFeasibleSol: 1797, GenAvgValue: 1745.24
+Gen: 60, BestSol: 1840, BestFeasibleSol: 1840, GenAvgValue: 1785.23
+Gen: 70, BestSol: 1868, BestFeasibleSol: 1868, GenAvgValue: 1785.33
+Gen: 80, BestSol: 1868, BestFeasibleSol: 1868, GenAvgValue: 1811.27
+Gen: 90, BestSol: 1868, BestFeasibleSol: 1868, GenAvgValue: 1811.27
+Gen: 100, BestSol: 1868, BestFeasibleSol: 1868, GenAvgValue: 1811.27
+Gen: 110, BestSol: 1868, BestFeasibleSol: 1868, GenAvgValue: 1811.27
+Gen: 120, BestSol: 1908, BestFeasibleSol: 1908, GenAvgValue: 1848.47
+Gen: 130, BestSol: 1908, BestFeasibleSol: 1908, GenAvgValue: 1848.47
+Gen: 140, BestSol: 1931, BestFeasibleSol: 1931, GenAvgValue: 1869.7
+Gen: 150, BestSol: 1931, BestFeasibleSol: 1931, GenAvgValue: 1869.86
+Gen: 160, BestSol: 1975, BestFeasibleSol: 1975, GenAvgValue: 1910.72
+Gen: 170, BestSol: 1975, BestFeasibleSol: 1975, GenAvgValue: 1910.78
+Gen: 180, BestSol: 1991, BestFeasibleSol: 1991, GenAvgValue: 1925.66
+Gen: 190, BestSol: 2009, BestFeasibleSol: 2009, GenAvgValue: 1927.28
+Total best: 2009
+FirstFeasibleIteration: 6
+Time: 0.098706
+Input file: instances/_uf250-057.cnf
+Gen: 0, BestSol: 1581, BestFeasibleSol: 0, GenAvgValue: 1144.11
+Gen: 10, BestSol: 1648, BestFeasibleSol: 0, GenAvgValue: 1593.27
+Gen: 20, BestSol: 1651, BestFeasibleSol: 0, GenAvgValue: 1596.06
+Gen: 30, BestSol: 1680, BestFeasibleSol: 0, GenAvgValue: 1623.03
+Gen: 40, BestSol: 1680, BestFeasibleSol: 0, GenAvgValue: 1623.03
+Gen: 50, BestSol: 1696, BestFeasibleSol: 0, GenAvgValue: 1637.91
+Gen: 60, BestSol: 1736, BestFeasibleSol: 0, GenAvgValue: 1666.33
+Gen: 70, BestSol: 1761, BestFeasibleSol: 0, GenAvgValue: 1698.36
+Gen: 80, BestSol: 1777, BestFeasibleSol: 0, GenAvgValue: 1699.64
+Gen: 90, BestSol: 1780, BestFeasibleSol: 0, GenAvgValue: 1716.03
+Gen: 100, BestSol: 1812, BestFeasibleSol: 0, GenAvgValue: 1718.47
+Gen: 110, BestSol: 1812, BestFeasibleSol: 0, GenAvgValue: 1745.79
+Gen: 120, BestSol: 1828, BestFeasibleSol: 0, GenAvgValue: 1759.77
+Gen: 130, BestSol: 1878, BestFeasibleSol: 0, GenAvgValue: 1807.17
+Gen: 140, BestSol: 1878, BestFeasibleSol: 0, GenAvgValue: 1807.17
+Gen: 150, BestSol: 1878, BestFeasibleSol: 0, GenAvgValue: 1807.17
+Gen: 160, BestSol: 1878, BestFeasibleSol: 0, GenAvgValue: 1807.17
+Gen: 170, BestSol: 1885, BestFeasibleSol: 0, GenAvgValue: 1807.2
+Gen: 180, BestSol: 1919, BestFeasibleSol: 0, GenAvgValue: 1845.3
+Gen: 190, BestSol: 1921, BestFeasibleSol: 0, GenAvgValue: 1845.22
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097544
+Input file: instances/_uf250-058.cnf
+Gen: 0, BestSol: 923, BestFeasibleSol: 923, GenAvgValue: 1166.05
+Gen: 10, BestSol: 923, BestFeasibleSol: 923, GenAvgValue: 921.54
+Gen: 20, BestSol: 998, BestFeasibleSol: 998, GenAvgValue: 991.243
+Gen: 30, BestSol: 998, BestFeasibleSol: 998, GenAvgValue: 991.243
+Gen: 40, BestSol: 998, BestFeasibleSol: 998, GenAvgValue: 991.243
+Gen: 50, BestSol: 1017, BestFeasibleSol: 1017, GenAvgValue: 1008.8
+Gen: 60, BestSol: 1017, BestFeasibleSol: 1017, GenAvgValue: 1008.91
+Gen: 70, BestSol: 1050, BestFeasibleSol: 1050, GenAvgValue: 1039.6
+Gen: 80, BestSol: 1050, BestFeasibleSol: 1050, GenAvgValue: 1039.6
+Gen: 90, BestSol: 1077, BestFeasibleSol: 1077, GenAvgValue: 1064.71
+Gen: 100, BestSol: 1153, BestFeasibleSol: 1153, GenAvgValue: 1104.81
+Gen: 110, BestSol: 1156, BestFeasibleSol: 1156, GenAvgValue: 1138.18
+Gen: 120, BestSol: 1156, BestFeasibleSol: 1156, GenAvgValue: 1138.18
+Gen: 130, BestSol: 1156, BestFeasibleSol: 1156, GenAvgValue: 1138.18
+Gen: 140, BestSol: 1206, BestFeasibleSol: 1206, GenAvgValue: 1184.68
+Gen: 150, BestSol: 1231, BestFeasibleSol: 1231, GenAvgValue: 1207.93
+Gen: 160, BestSol: 1242, BestFeasibleSol: 1242, GenAvgValue: 1218.16
+Gen: 170, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1242.87
+Gen: 180, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1284.19
+Gen: 190, BestSol: 1383, BestFeasibleSol: 1383, GenAvgValue: 1349.29
+Total best: 1383
+FirstFeasibleIteration: 15
+Time: 0.094983
+Input file: instances/_uf250-059.cnf
+Gen: 0, BestSol: 1533, BestFeasibleSol: 0, GenAvgValue: 1104.56
+Gen: 10, BestSol: 1712, BestFeasibleSol: 0, GenAvgValue: 1638.65
+Gen: 20, BestSol: 1712, BestFeasibleSol: 0, GenAvgValue: 1652.04
+Gen: 30, BestSol: 1724, BestFeasibleSol: 0, GenAvgValue: 1652.18
+Gen: 40, BestSol: 1724, BestFeasibleSol: 0, GenAvgValue: 1663.3
+Gen: 50, BestSol: 1741, BestFeasibleSol: 0, GenAvgValue: 1679.11
+Gen: 60, BestSol: 1741, BestFeasibleSol: 0, GenAvgValue: 1679.11
+Gen: 70, BestSol: 1741, BestFeasibleSol: 0, GenAvgValue: 1679.11
+Gen: 80, BestSol: 1741, BestFeasibleSol: 0, GenAvgValue: 1679.02
+Gen: 90, BestSol: 1741, BestFeasibleSol: 0, GenAvgValue: 1679.11
+Gen: 100, BestSol: 1751, BestFeasibleSol: 0, GenAvgValue: 1688.41
+Gen: 110, BestSol: 1816, BestFeasibleSol: 0, GenAvgValue: 1748.33
+Gen: 120, BestSol: 1816, BestFeasibleSol: 0, GenAvgValue: 1748.86
+Gen: 130, BestSol: 1816, BestFeasibleSol: 0, GenAvgValue: 1748.86
+Gen: 140, BestSol: 1843, BestFeasibleSol: 0, GenAvgValue: 1773.97
+Gen: 150, BestSol: 1843, BestFeasibleSol: 0, GenAvgValue: 1773.97
+Gen: 160, BestSol: 1843, BestFeasibleSol: 0, GenAvgValue: 1773.97
+Gen: 170, BestSol: 1844, BestFeasibleSol: 0, GenAvgValue: 1774.08
+Gen: 180, BestSol: 1861, BestFeasibleSol: 0, GenAvgValue: 1790.71
+Gen: 190, BestSol: 1875, BestFeasibleSol: 0, GenAvgValue: 1803.73
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.09288
+Input file: instances/_uf250-060.cnf
+Gen: 0, BestSol: 1457, BestFeasibleSol: 0, GenAvgValue: 1128.04
+Gen: 10, BestSol: 1695, BestFeasibleSol: 0, GenAvgValue: 1636.76
+Gen: 20, BestSol: 1695, BestFeasibleSol: 0, GenAvgValue: 1636.76
+Gen: 30, BestSol: 1695, BestFeasibleSol: 0, GenAvgValue: 1636.76
+Gen: 40, BestSol: 1734, BestFeasibleSol: 0, GenAvgValue: 1673
+Gen: 50, BestSol: 1734, BestFeasibleSol: 0, GenAvgValue: 1673.03
+Gen: 60, BestSol: 1750, BestFeasibleSol: 0, GenAvgValue: 1687.91
+Gen: 70, BestSol: 1754, BestFeasibleSol: 0, GenAvgValue: 1691.29
+Gen: 80, BestSol: 1780, BestFeasibleSol: 0, GenAvgValue: 1715.81
+Gen: 90, BestSol: 1780, BestFeasibleSol: 0, GenAvgValue: 1715.81
+Gen: 100, BestSol: 1780, BestFeasibleSol: 0, GenAvgValue: 1715.81
+Gen: 110, BestSol: 1780, BestFeasibleSol: 0, GenAvgValue: 1715.81
+Gen: 120, BestSol: 1789, BestFeasibleSol: 0, GenAvgValue: 1724.18
+Gen: 130, BestSol: 1828, BestFeasibleSol: 0, GenAvgValue: 1760.45
+Gen: 140, BestSol: 1828, BestFeasibleSol: 0, GenAvgValue: 1760.45
+Gen: 150, BestSol: 1854, BestFeasibleSol: 0, GenAvgValue: 1784.63
+Gen: 160, BestSol: 1854, BestFeasibleSol: 0, GenAvgValue: 1784.63
+Gen: 170, BestSol: 1854, BestFeasibleSol: 0, GenAvgValue: 1784.63
+Gen: 180, BestSol: 1908, BestFeasibleSol: 0, GenAvgValue: 1820.03
+Gen: 190, BestSol: 1932, BestFeasibleSol: 0, GenAvgValue: 1857.17
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.096945
+Input file: instances/_uf250-061.cnf
+Gen: 0, BestSol: 1364, BestFeasibleSol: 1364, GenAvgValue: 1329.58
+Gen: 10, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1371.24
+Gen: 20, BestSol: 1395, BestFeasibleSol: 1395, GenAvgValue: 1371.1
+Gen: 30, BestSol: 1429, BestFeasibleSol: 1429, GenAvgValue: 1402.82
+Gen: 40, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1426.89
+Gen: 50, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1427.04
+Gen: 60, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.56
+Gen: 70, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.56
+Gen: 80, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.56
+Gen: 90, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.42
+Gen: 100, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.45
+Gen: 110, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.56
+Gen: 120, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.42
+Gen: 130, BestSol: 1519, BestFeasibleSol: 1519, GenAvgValue: 1486.56
+Gen: 140, BestSol: 1568, BestFeasibleSol: 1568, GenAvgValue: 1486.73
+Gen: 150, BestSol: 1575, BestFeasibleSol: 1575, GenAvgValue: 1538.64
+Gen: 160, BestSol: 1625, BestFeasibleSol: 1625, GenAvgValue: 1578.81
+Gen: 170, BestSol: 1689, BestFeasibleSol: 1689, GenAvgValue: 1644.66
+Gen: 180, BestSol: 1689, BestFeasibleSol: 1689, GenAvgValue: 1644.65
+Gen: 190, BestSol: 1728, BestFeasibleSol: 1728, GenAvgValue: 1680.93
+Total best: 1728
+FirstFeasibleIteration: 5
+Time: 0.096664
+Input file: instances/_uf250-062.cnf
+Gen: 0, BestSol: 1426, BestFeasibleSol: 0, GenAvgValue: 1115.4
+Gen: 10, BestSol: 1590, BestFeasibleSol: 0, GenAvgValue: 1525.24
+Gen: 20, BestSol: 1590, BestFeasibleSol: 0, GenAvgValue: 1540.06
+Gen: 30, BestSol: 1590, BestFeasibleSol: 0, GenAvgValue: 1540.06
+Gen: 40, BestSol: 1611, BestFeasibleSol: 0, GenAvgValue: 1559.59
+Gen: 50, BestSol: 1627, BestFeasibleSol: 0, GenAvgValue: 1574.47
+Gen: 60, BestSol: 1669, BestFeasibleSol: 0, GenAvgValue: 1609.87
+Gen: 70, BestSol: 1669, BestFeasibleSol: 0, GenAvgValue: 1613.53
+Gen: 80, BestSol: 1669, BestFeasibleSol: 0, GenAvgValue: 1613.53
+Gen: 90, BestSol: 1685, BestFeasibleSol: 0, GenAvgValue: 1628.41
+Gen: 100, BestSol: 1701, BestFeasibleSol: 0, GenAvgValue: 1643.29
+Gen: 110, BestSol: 1701, BestFeasibleSol: 0, GenAvgValue: 1643.29
+Gen: 120, BestSol: 1701, BestFeasibleSol: 0, GenAvgValue: 1643.29
+Gen: 130, BestSol: 1767, BestFeasibleSol: 0, GenAvgValue: 1704.62
+Gen: 140, BestSol: 1767, BestFeasibleSol: 0, GenAvgValue: 1704.51
+Gen: 150, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1738.1
+Gen: 160, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1738.15
+Gen: 170, BestSol: 1803, BestFeasibleSol: 0, GenAvgValue: 1738.15
+Gen: 180, BestSol: 1809, BestFeasibleSol: 0, GenAvgValue: 1743.73
+Gen: 190, BestSol: 1850, BestFeasibleSol: 0, GenAvgValue: 1775.89
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095193
+Input file: instances/_uf250-063.cnf
+Gen: 0, BestSol: 1424, BestFeasibleSol: 1424, GenAvgValue: 1296.2
+Gen: 10, BestSol: 1574, BestFeasibleSol: 1574, GenAvgValue: 1534.65
+Gen: 20, BestSol: 1574, BestFeasibleSol: 1574, GenAvgValue: 1534.65
+Gen: 30, BestSol: 1574, BestFeasibleSol: 1574, GenAvgValue: 1534.65
+Gen: 40, BestSol: 1621, BestFeasibleSol: 1621, GenAvgValue: 1578.36
+Gen: 50, BestSol: 1663, BestFeasibleSol: 1663, GenAvgValue: 1617.42
+Gen: 60, BestSol: 1663, BestFeasibleSol: 1663, GenAvgValue: 1617.42
+Gen: 70, BestSol: 1663, BestFeasibleSol: 1663, GenAvgValue: 1617.42
+Gen: 80, BestSol: 1663, BestFeasibleSol: 1663, GenAvgValue: 1617.42
+Gen: 90, BestSol: 1667, BestFeasibleSol: 1667, GenAvgValue: 1621.14
+Gen: 100, BestSol: 1714, BestFeasibleSol: 1714, GenAvgValue: 1664.85
+Gen: 110, BestSol: 1714, BestFeasibleSol: 1714, GenAvgValue: 1664.85
+Gen: 120, BestSol: 1760, BestFeasibleSol: 1760, GenAvgValue: 1707.61
+Gen: 130, BestSol: 1760, BestFeasibleSol: 1760, GenAvgValue: 1707.63
+Gen: 140, BestSol: 1760, BestFeasibleSol: 1760, GenAvgValue: 1707.63
+Gen: 150, BestSol: 1760, BestFeasibleSol: 1760, GenAvgValue: 1707.63
+Gen: 160, BestSol: 1807, BestFeasibleSol: 1807, GenAvgValue: 1751.34
+Gen: 170, BestSol: 1807, BestFeasibleSol: 1807, GenAvgValue: 1751.34
+Gen: 180, BestSol: 1819, BestFeasibleSol: 1819, GenAvgValue: 1762.03
+Gen: 190, BestSol: 1819, BestFeasibleSol: 1819, GenAvgValue: 1762.5
+Total best: 1823
+FirstFeasibleIteration: 1
+Time: 0.098557
+Input file: instances/_uf250-064.cnf
+Gen: 0, BestSol: 1335, BestFeasibleSol: 1335, GenAvgValue: 1182.75
+Gen: 10, BestSol: 1462, BestFeasibleSol: 1462, GenAvgValue: 1424.54
+Gen: 20, BestSol: 1462, BestFeasibleSol: 1462, GenAvgValue: 1424.54
+Gen: 30, BestSol: 1502, BestFeasibleSol: 1502, GenAvgValue: 1461.74
+Gen: 40, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.36
+Gen: 50, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.33
+Gen: 60, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.36
+Gen: 70, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.36
+Gen: 80, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.26
+Gen: 90, BestSol: 1536, BestFeasibleSol: 1536, GenAvgValue: 1493.22
+Gen: 100, BestSol: 1568, BestFeasibleSol: 1568, GenAvgValue: 1521.41
+Gen: 110, BestSol: 1641, BestFeasibleSol: 1641, GenAvgValue: 1551.08
+Gen: 120, BestSol: 1641, BestFeasibleSol: 1641, GenAvgValue: 1591.01
+Gen: 130, BestSol: 1643, BestFeasibleSol: 1643, GenAvgValue: 1592.87
+Gen: 140, BestSol: 1691, BestFeasibleSol: 1691, GenAvgValue: 1593.03
+Gen: 150, BestSol: 1693, BestFeasibleSol: 1693, GenAvgValue: 1637.63
+Gen: 160, BestSol: 1693, BestFeasibleSol: 1693, GenAvgValue: 1639.37
+Gen: 170, BestSol: 1693, BestFeasibleSol: 1693, GenAvgValue: 1639.3
+Gen: 180, BestSol: 1693, BestFeasibleSol: 1693, GenAvgValue: 1639.37
+Gen: 190, BestSol: 1693, BestFeasibleSol: 1693, GenAvgValue: 1639.37
+Total best: 1732
+FirstFeasibleIteration: 1
+Time: 0.094549
+Input file: instances/_uf250-065.cnf
+Gen: 0, BestSol: 1735, BestFeasibleSol: 0, GenAvgValue: 1191.69
+Gen: 10, BestSol: 1918, BestFeasibleSol: 0, GenAvgValue: 1848.27
+Gen: 20, BestSol: 1943, BestFeasibleSol: 0, GenAvgValue: 1871.43
+Gen: 30, BestSol: 1965, BestFeasibleSol: 0, GenAvgValue: 1891.98
+Gen: 40, BestSol: 1965, BestFeasibleSol: 0, GenAvgValue: 1891.81
+Gen: 50, BestSol: 1965, BestFeasibleSol: 0, GenAvgValue: 1891.98
+Gen: 60, BestSol: 1985, BestFeasibleSol: 0, GenAvgValue: 1908.91
+Gen: 70, BestSol: 1985, BestFeasibleSol: 0, GenAvgValue: 1910.58
+Gen: 80, BestSol: 1985, BestFeasibleSol: 0, GenAvgValue: 1910.58
+Gen: 90, BestSol: 1985, BestFeasibleSol: 0, GenAvgValue: 1910.58
+Gen: 100, BestSol: 2004, BestFeasibleSol: 0, GenAvgValue: 1912.22
+Gen: 110, BestSol: 2004, BestFeasibleSol: 0, GenAvgValue: 1928.25
+Gen: 120, BestSol: 2004, BestFeasibleSol: 0, GenAvgValue: 1928.25
+Gen: 130, BestSol: 2012, BestFeasibleSol: 0, GenAvgValue: 1934.94
+Gen: 140, BestSol: 2038, BestFeasibleSol: 0, GenAvgValue: 1959.87
+Gen: 150, BestSol: 2038, BestFeasibleSol: 0, GenAvgValue: 1959.87
+Gen: 160, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1971.02
+Gen: 170, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1971.03
+Gen: 180, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1971.03
+Gen: 190, BestSol: 2050, BestFeasibleSol: 0, GenAvgValue: 1970.89
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.094947
+Input file: instances/_uf250-066.cnf
+Gen: 0, BestSol: 1623, BestFeasibleSol: 1623, GenAvgValue: 1230.58
+Gen: 10, BestSol: 1782, BestFeasibleSol: 1782, GenAvgValue: 1724.95
+Gen: 20, BestSol: 1782, BestFeasibleSol: 1782, GenAvgValue: 1724.95
+Gen: 30, BestSol: 1806, BestFeasibleSol: 1806, GenAvgValue: 1739.86
+Gen: 40, BestSol: 1808, BestFeasibleSol: 1808, GenAvgValue: 1749.13
+Gen: 50, BestSol: 1808, BestFeasibleSol: 1808, GenAvgValue: 1749.02
+Gen: 60, BestSol: 1846, BestFeasibleSol: 1846, GenAvgValue: 1784.47
+Gen: 70, BestSol: 1846, BestFeasibleSol: 1846, GenAvgValue: 1784.47
+Gen: 80, BestSol: 1876, BestFeasibleSol: 1876, GenAvgValue: 1812.37
+Gen: 90, BestSol: 1878, BestFeasibleSol: 1878, GenAvgValue: 1814.23
+Gen: 100, BestSol: 1916, BestFeasibleSol: 1916, GenAvgValue: 1849.57
+Gen: 110, BestSol: 1932, BestFeasibleSol: 1932, GenAvgValue: 1864.45
+Gen: 120, BestSol: 1967, BestFeasibleSol: 1967, GenAvgValue: 1884.03
+Gen: 130, BestSol: 1967, BestFeasibleSol: 1967, GenAvgValue: 1896.94
+Gen: 140, BestSol: 1967, BestFeasibleSol: 1967, GenAvgValue: 1897
+Gen: 150, BestSol: 1967, BestFeasibleSol: 1967, GenAvgValue: 1897
+Gen: 160, BestSol: 1991, BestFeasibleSol: 1991, GenAvgValue: 1919.32
+Gen: 170, BestSol: 1991, BestFeasibleSol: 1991, GenAvgValue: 1919.32
+Gen: 180, BestSol: 1991, BestFeasibleSol: 1991, GenAvgValue: 1919.32
+Gen: 190, BestSol: 1991, BestFeasibleSol: 1991, GenAvgValue: 1919.32
+Total best: 2014
+FirstFeasibleIteration: 1
+Time: 0.096342
+Input file: instances/_uf250-067.cnf
+Gen: 0, BestSol: 1232, BestFeasibleSol: 1232, GenAvgValue: 1168.48
+Gen: 10, BestSol: 1269, BestFeasibleSol: 1269, GenAvgValue: 1240.58
+Gen: 20, BestSol: 1293, BestFeasibleSol: 1293, GenAvgValue: 1262.95
+Gen: 30, BestSol: 1293, BestFeasibleSol: 1293, GenAvgValue: 1262.95
+Gen: 40, BestSol: 1293, BestFeasibleSol: 1293, GenAvgValue: 1262.89
+Gen: 50, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 60, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 70, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 80, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.15
+Gen: 90, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 100, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 110, BestSol: 1331, BestFeasibleSol: 1331, GenAvgValue: 1298.29
+Gen: 120, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1337.35
+Gen: 130, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1337.35
+Gen: 140, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1337.35
+Gen: 150, BestSol: 1424, BestFeasibleSol: 1424, GenAvgValue: 1382.12
+Gen: 160, BestSol: 1472, BestFeasibleSol: 1472, GenAvgValue: 1429.42
+Gen: 170, BestSol: 1505, BestFeasibleSol: 1505, GenAvgValue: 1460.11
+Gen: 180, BestSol: 1505, BestFeasibleSol: 1505, GenAvgValue: 1460.11
+Gen: 190, BestSol: 1523, BestFeasibleSol: 1523, GenAvgValue: 1475.35
+Total best: 1523
+FirstFeasibleIteration: 5
+Time: 0.094889
+Input file: instances/_uf250-068.cnf
+Gen: 0, BestSol: 1318, BestFeasibleSol: 1318, GenAvgValue: 1284.8
+Gen: 10, BestSol: 1553, BestFeasibleSol: 1553, GenAvgValue: 1514.17
+Gen: 20, BestSol: 1553, BestFeasibleSol: 1553, GenAvgValue: 1514.17
+Gen: 30, BestSol: 1598, BestFeasibleSol: 1598, GenAvgValue: 1556.02
+Gen: 40, BestSol: 1628, BestFeasibleSol: 1628, GenAvgValue: 1583.92
+Gen: 50, BestSol: 1628, BestFeasibleSol: 1628, GenAvgValue: 1583.92
+Gen: 60, BestSol: 1647, BestFeasibleSol: 1647, GenAvgValue: 1583.98
+Gen: 70, BestSol: 1704, BestFeasibleSol: 1704, GenAvgValue: 1620.44
+Gen: 80, BestSol: 1704, BestFeasibleSol: 1704, GenAvgValue: 1654.6
+Gen: 90, BestSol: 1704, BestFeasibleSol: 1704, GenAvgValue: 1654.68
+Gen: 100, BestSol: 1704, BestFeasibleSol: 1704, GenAvgValue: 1654.6
+Gen: 110, BestSol: 1704, BestFeasibleSol: 1704, GenAvgValue: 1654.6
+Gen: 120, BestSol: 1766, BestFeasibleSol: 1766, GenAvgValue: 1710.7
+Gen: 130, BestSol: 1766, BestFeasibleSol: 1766, GenAvgValue: 1712.26
+Gen: 140, BestSol: 1766, BestFeasibleSol: 1766, GenAvgValue: 1712.26
+Gen: 150, BestSol: 1766, BestFeasibleSol: 1766, GenAvgValue: 1712.26
+Gen: 160, BestSol: 1786, BestFeasibleSol: 1786, GenAvgValue: 1730.86
+Gen: 170, BestSol: 1832, BestFeasibleSol: 1832, GenAvgValue: 1773.49
+Gen: 180, BestSol: 1832, BestFeasibleSol: 1832, GenAvgValue: 1773.64
+Gen: 190, BestSol: 1866, BestFeasibleSol: 1866, GenAvgValue: 1773.75
+Total best: 1869
+FirstFeasibleIteration: 1
+Time: 0.0944
+Input file: instances/_uf250-069.cnf
+Gen: 0, BestSol: 1151, BestFeasibleSol: 1151, GenAvgValue: 1138.16
+Gen: 10, BestSol: 1330, BestFeasibleSol: 1330, GenAvgValue: 1297.41
+Gen: 20, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1329.96
+Gen: 30, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1329.96
+Gen: 40, BestSol: 1365, BestFeasibleSol: 1365, GenAvgValue: 1329.96
+Gen: 50, BestSol: 1381, BestFeasibleSol: 1381, GenAvgValue: 1343.51
+Gen: 60, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1344.91
+Gen: 70, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1364.37
+Gen: 80, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1364.37
+Gen: 90, BestSol: 1452, BestFeasibleSol: 1452, GenAvgValue: 1410.87
+Gen: 100, BestSol: 1516, BestFeasibleSol: 1516, GenAvgValue: 1470.39
+Gen: 110, BestSol: 1554, BestFeasibleSol: 1554, GenAvgValue: 1505.73
+Gen: 120, BestSol: 1554, BestFeasibleSol: 1554, GenAvgValue: 1505.73
+Gen: 130, BestSol: 1601, BestFeasibleSol: 1601, GenAvgValue: 1549.47
+Gen: 140, BestSol: 1601, BestFeasibleSol: 1601, GenAvgValue: 1549.44
+Gen: 150, BestSol: 1601, BestFeasibleSol: 1601, GenAvgValue: 1549.44
+Gen: 160, BestSol: 1601, BestFeasibleSol: 1601, GenAvgValue: 1549.37
+Gen: 170, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1581.99
+Gen: 180, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1581.99
+Gen: 190, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1581.84
+Total best: 1636
+FirstFeasibleIteration: 1
+Time: 0.093464
+Input file: instances/_uf250-070.cnf
+Gen: 0, BestSol: 1402, BestFeasibleSol: 1402, GenAvgValue: 1262.47
+Gen: 10, BestSol: 1486, BestFeasibleSol: 1486, GenAvgValue: 1449.53
+Gen: 20, BestSol: 1486, BestFeasibleSol: 1486, GenAvgValue: 1449.68
+Gen: 30, BestSol: 1486, BestFeasibleSol: 1486, GenAvgValue: 1449.68
+Gen: 40, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1470.08
+Gen: 50, BestSol: 1509, BestFeasibleSol: 1509, GenAvgValue: 1471.07
+Gen: 60, BestSol: 1542, BestFeasibleSol: 1542, GenAvgValue: 1472.72
+Gen: 70, BestSol: 1542, BestFeasibleSol: 1542, GenAvgValue: 1501.76
+Gen: 80, BestSol: 1557, BestFeasibleSol: 1557, GenAvgValue: 1515.71
+Gen: 90, BestSol: 1565, BestFeasibleSol: 1565, GenAvgValue: 1523.15
+Gen: 100, BestSol: 1575, BestFeasibleSol: 1575, GenAvgValue: 1532.39
+Gen: 110, BestSol: 1638, BestFeasibleSol: 1638, GenAvgValue: 1570.88
+Gen: 120, BestSol: 1674, BestFeasibleSol: 1674, GenAvgValue: 1624.62
+Gen: 130, BestSol: 1674, BestFeasibleSol: 1674, GenAvgValue: 1624.52
+Gen: 140, BestSol: 1674, BestFeasibleSol: 1674, GenAvgValue: 1624.52
+Gen: 150, BestSol: 1745, BestFeasibleSol: 1745, GenAvgValue: 1658.61
+Gen: 160, BestSol: 1745, BestFeasibleSol: 1745, GenAvgValue: 1690.55
+Gen: 170, BestSol: 1820, BestFeasibleSol: 1820, GenAvgValue: 1760.3
+Gen: 180, BestSol: 1820, BestFeasibleSol: 1820, GenAvgValue: 1760.3
+Gen: 190, BestSol: 1843, BestFeasibleSol: 1843, GenAvgValue: 1779.25
+Total best: 1876
+FirstFeasibleIteration: 2
+Time: 0.095888
+Input file: instances/_uf250-071.cnf
+Gen: 0, BestSol: 1367, BestFeasibleSol: 1367, GenAvgValue: 1164.5
+Gen: 10, BestSol: 1503, BestFeasibleSol: 1503, GenAvgValue: 1462.06
+Gen: 20, BestSol: 1503, BestFeasibleSol: 1503, GenAvgValue: 1462.06
+Gen: 30, BestSol: 1503, BestFeasibleSol: 1503, GenAvgValue: 1462.06
+Gen: 40, BestSol: 1566, BestFeasibleSol: 1566, GenAvgValue: 1520.65
+Gen: 50, BestSol: 1591, BestFeasibleSol: 1591, GenAvgValue: 1543.9
+Gen: 60, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1570.42
+Gen: 70, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1585.6
+Gen: 80, BestSol: 1636, BestFeasibleSol: 1636, GenAvgValue: 1585.75
+Gen: 90, BestSol: 1676, BestFeasibleSol: 1676, GenAvgValue: 1621.74
+Gen: 100, BestSol: 1676, BestFeasibleSol: 1676, GenAvgValue: 1622.95
+Gen: 110, BestSol: 1676, BestFeasibleSol: 1676, GenAvgValue: 1622.95
+Gen: 120, BestSol: 1676, BestFeasibleSol: 1676, GenAvgValue: 1622.95
+Gen: 130, BestSol: 1681, BestFeasibleSol: 1681, GenAvgValue: 1627.6
+Gen: 140, BestSol: 1681, BestFeasibleSol: 1681, GenAvgValue: 1627.6
+Gen: 150, BestSol: 1694, BestFeasibleSol: 1694, GenAvgValue: 1628.81
+Gen: 160, BestSol: 1694, BestFeasibleSol: 1694, GenAvgValue: 1639.69
+Gen: 170, BestSol: 1694, BestFeasibleSol: 1694, GenAvgValue: 1639.69
+Gen: 180, BestSol: 1706, BestFeasibleSol: 1706, GenAvgValue: 1650.29
+Gen: 190, BestSol: 1706, BestFeasibleSol: 1706, GenAvgValue: 1650.7
+Total best: 1724
+FirstFeasibleIteration: 1
+Time: 0.09616
+Input file: instances/_uf250-072.cnf
+Gen: 0, BestSol: 1562, BestFeasibleSol: 0, GenAvgValue: 1215.6
+Gen: 10, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 20, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 30, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 40, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 50, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 60, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 70, BestSol: 1551, BestFeasibleSol: 1551, GenAvgValue: 1509.3
+Gen: 80, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1528.83
+Gen: 90, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1528.83
+Gen: 100, BestSol: 1617, BestFeasibleSol: 1617, GenAvgValue: 1570.68
+Gen: 110, BestSol: 1644, BestFeasibleSol: 1644, GenAvgValue: 1592.7
+Gen: 120, BestSol: 1644, BestFeasibleSol: 1644, GenAvgValue: 1595.69
+Gen: 130, BestSol: 1644, BestFeasibleSol: 1644, GenAvgValue: 1595.79
+Gen: 140, BestSol: 1644, BestFeasibleSol: 1644, GenAvgValue: 1595.79
+Gen: 150, BestSol: 1644, BestFeasibleSol: 1644, GenAvgValue: 1595.79
+Gen: 160, BestSol: 1672, BestFeasibleSol: 1672, GenAvgValue: 1621.83
+Gen: 170, BestSol: 1735, BestFeasibleSol: 1735, GenAvgValue: 1680.42
+Gen: 180, BestSol: 1770, BestFeasibleSol: 1770, GenAvgValue: 1712.87
+Gen: 190, BestSol: 1804, BestFeasibleSol: 1804, GenAvgValue: 1742.75
+Total best: 1804
+FirstFeasibleIteration: 1
+Time: 0.094249
+Input file: instances/_uf250-073.cnf
+Gen: 0, BestSol: 1148, BestFeasibleSol: 1148, GenAvgValue: 1080.85
+Gen: 10, BestSol: 1166, BestFeasibleSol: 1166, GenAvgValue: 1144.12
+Gen: 20, BestSol: 1189, BestFeasibleSol: 1189, GenAvgValue: 1162.29
+Gen: 30, BestSol: 1189, BestFeasibleSol: 1189, GenAvgValue: 1165.46
+Gen: 40, BestSol: 1205, BestFeasibleSol: 1205, GenAvgValue: 1180.39
+Gen: 50, BestSol: 1233, BestFeasibleSol: 1233, GenAvgValue: 1206.29
+Gen: 60, BestSol: 1233, BestFeasibleSol: 1233, GenAvgValue: 1206.43
+Gen: 70, BestSol: 1315, BestFeasibleSol: 1315, GenAvgValue: 1255.6
+Gen: 80, BestSol: 1324, BestFeasibleSol: 1324, GenAvgValue: 1291.06
+Gen: 90, BestSol: 1344, BestFeasibleSol: 1344, GenAvgValue: 1309.66
+Gen: 100, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1317.1
+Gen: 110, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1317.1
+Gen: 120, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1317.08
+Gen: 130, BestSol: 1352, BestFeasibleSol: 1352, GenAvgValue: 1317.1
+Gen: 140, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1352.3
+Gen: 150, BestSol: 1410, BestFeasibleSol: 1410, GenAvgValue: 1371.04
+Gen: 160, BestSol: 1416, BestFeasibleSol: 1416, GenAvgValue: 1376.62
+Gen: 170, BestSol: 1416, BestFeasibleSol: 1416, GenAvgValue: 1376.62
+Gen: 180, BestSol: 1453, BestFeasibleSol: 1453, GenAvgValue: 1379.95
+Gen: 190, BestSol: 1453, BestFeasibleSol: 1453, GenAvgValue: 1411.03
+Total best: 1453
+FirstFeasibleIteration: 3
+Time: 0.095089
+Input file: instances/_uf250-074.cnf
+Gen: 0, BestSol: 1269, BestFeasibleSol: 1269, GenAvgValue: 1328.25
+Gen: 10, BestSol: 1428, BestFeasibleSol: 1428, GenAvgValue: 1371.42
+Gen: 20, BestSol: 1470, BestFeasibleSol: 1470, GenAvgValue: 1440.13
+Gen: 30, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1490.07
+Gen: 40, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1495
+Gen: 50, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1495
+Gen: 60, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1495
+Gen: 70, BestSol: 1550, BestFeasibleSol: 1550, GenAvgValue: 1514.53
+Gen: 80, BestSol: 1597, BestFeasibleSol: 1597, GenAvgValue: 1558.24
+Gen: 90, BestSol: 1630, BestFeasibleSol: 1630, GenAvgValue: 1588.84
+Gen: 100, BestSol: 1678, BestFeasibleSol: 1678, GenAvgValue: 1633.57
+Gen: 110, BestSol: 1678, BestFeasibleSol: 1678, GenAvgValue: 1633.57
+Gen: 120, BestSol: 1716, BestFeasibleSol: 1716, GenAvgValue: 1668.91
+Gen: 130, BestSol: 1777, BestFeasibleSol: 1777, GenAvgValue: 1725.64
+Gen: 140, BestSol: 1777, BestFeasibleSol: 1777, GenAvgValue: 1725.64
+Gen: 150, BestSol: 1791, BestFeasibleSol: 1791, GenAvgValue: 1738.66
+Gen: 160, BestSol: 1804, BestFeasibleSol: 1804, GenAvgValue: 1750.75
+Gen: 170, BestSol: 1804, BestFeasibleSol: 1804, GenAvgValue: 1750.75
+Gen: 180, BestSol: 1833, BestFeasibleSol: 1833, GenAvgValue: 1777.72
+Gen: 190, BestSol: 1833, BestFeasibleSol: 1833, GenAvgValue: 1777.72
+Total best: 1833
+FirstFeasibleIteration: 2
+Time: 0.101331
+Input file: instances/_uf250-075.cnf
+Gen: 0, BestSol: 937, BestFeasibleSol: 937, GenAvgValue: 1165.3
+Gen: 10, BestSol: 1438, BestFeasibleSol: 1438, GenAvgValue: 1401.27
+Gen: 20, BestSol: 1471, BestFeasibleSol: 1471, GenAvgValue: 1431.96
+Gen: 30, BestSol: 1523, BestFeasibleSol: 1523, GenAvgValue: 1458
+Gen: 40, BestSol: 1550, BestFeasibleSol: 1550, GenAvgValue: 1505.43
+Gen: 50, BestSol: 1550, BestFeasibleSol: 1550, GenAvgValue: 1505.43
+Gen: 60, BestSol: 1550, BestFeasibleSol: 1550, GenAvgValue: 1505.29
+Gen: 70, BestSol: 1550, BestFeasibleSol: 1550, GenAvgValue: 1505.43
+Gen: 80, BestSol: 1578, BestFeasibleSol: 1578, GenAvgValue: 1528.76
+Gen: 90, BestSol: 1612, BestFeasibleSol: 1612, GenAvgValue: 1563.09
+Gen: 100, BestSol: 1612, BestFeasibleSol: 1612, GenAvgValue: 1563.09
+Gen: 110, BestSol: 1612, BestFeasibleSol: 1612, GenAvgValue: 1563.12
+Gen: 120, BestSol: 1634, BestFeasibleSol: 1634, GenAvgValue: 1565.65
+Gen: 130, BestSol: 1634, BestFeasibleSol: 1634, GenAvgValue: 1583.55
+Gen: 140, BestSol: 1650, BestFeasibleSol: 1650, GenAvgValue: 1598.43
+Gen: 150, BestSol: 1736, BestFeasibleSol: 1736, GenAvgValue: 1642.98
+Gen: 160, BestSol: 1736, BestFeasibleSol: 1736, GenAvgValue: 1678.28
+Gen: 170, BestSol: 1736, BestFeasibleSol: 1736, GenAvgValue: 1678.41
+Gen: 180, BestSol: 1755, BestFeasibleSol: 1755, GenAvgValue: 1696.08
+Gen: 190, BestSol: 1790, BestFeasibleSol: 1790, GenAvgValue: 1723.61
+Total best: 1790
+FirstFeasibleIteration: 2
+Time: 0.094107
+Input file: instances/_uf250-076.cnf
+Gen: 0, BestSol: 1652, BestFeasibleSol: 0, GenAvgValue: 1246.04
+Gen: 10, BestSol: 2018, BestFeasibleSol: 0, GenAvgValue: 1943.58
+Gen: 20, BestSol: 2018, BestFeasibleSol: 0, GenAvgValue: 1943.58
+Gen: 30, BestSol: 2018, BestFeasibleSol: 0, GenAvgValue: 1943.58
+Gen: 40, BestSol: 2022, BestFeasibleSol: 0, GenAvgValue: 1947.3
+Gen: 50, BestSol: 2040, BestFeasibleSol: 0, GenAvgValue: 1964.04
+Gen: 60, BestSol: 2072, BestFeasibleSol: 0, GenAvgValue: 1993.8
+Gen: 70, BestSol: 2072, BestFeasibleSol: 0, GenAvgValue: 1993.73
+Gen: 80, BestSol: 2101, BestFeasibleSol: 0, GenAvgValue: 2020.77
+Gen: 90, BestSol: 2109, BestFeasibleSol: 0, GenAvgValue: 2020.79
+Gen: 100, BestSol: 2109, BestFeasibleSol: 0, GenAvgValue: 2028.21
+Gen: 110, BestSol: 2109, BestFeasibleSol: 0, GenAvgValue: 2028.21
+Gen: 120, BestSol: 2143, BestFeasibleSol: 0, GenAvgValue: 2034.81
+Gen: 130, BestSol: 2143, BestFeasibleSol: 0, GenAvgValue: 2059.83
+Gen: 140, BestSol: 2148, BestFeasibleSol: 0, GenAvgValue: 2064.29
+Gen: 150, BestSol: 2148, BestFeasibleSol: 0, GenAvgValue: 2064.48
+Gen: 160, BestSol: 2148, BestFeasibleSol: 0, GenAvgValue: 2064.36
+Gen: 170, BestSol: 2148, BestFeasibleSol: 0, GenAvgValue: 2064.48
+Gen: 180, BestSol: 2170, BestFeasibleSol: 0, GenAvgValue: 2084.94
+Gen: 190, BestSol: 2170, BestFeasibleSol: 0, GenAvgValue: 2084.94
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.098455
+Input file: instances/_uf250-077.cnf
+Gen: 0, BestSol: 1178, BestFeasibleSol: 1178, GenAvgValue: 1133.37
+Gen: 10, BestSol: 1178, BestFeasibleSol: 1178, GenAvgValue: 1157.16
+Gen: 20, BestSol: 1178, BestFeasibleSol: 1178, GenAvgValue: 1157.16
+Gen: 30, BestSol: 1178, BestFeasibleSol: 1178, GenAvgValue: 1157.16
+Gen: 40, BestSol: 1215, BestFeasibleSol: 1215, GenAvgValue: 1191.57
+Gen: 50, BestSol: 1278, BestFeasibleSol: 1278, GenAvgValue: 1250.16
+Gen: 60, BestSol: 1278, BestFeasibleSol: 1278, GenAvgValue: 1250.16
+Gen: 70, BestSol: 1278, BestFeasibleSol: 1278, GenAvgValue: 1250.16
+Gen: 80, BestSol: 1297, BestFeasibleSol: 1297, GenAvgValue: 1267.83
+Gen: 90, BestSol: 1344, BestFeasibleSol: 1344, GenAvgValue: 1311.5
+Gen: 100, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1332.16
+Gen: 110, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1377.57
+Gen: 120, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1377.57
+Gen: 130, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1377.4
+Gen: 140, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1377.51
+Gen: 150, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1453.69
+Gen: 160, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1481.22
+Gen: 170, BestSol: 1529, BestFeasibleSol: 1529, GenAvgValue: 1483.59
+Gen: 180, BestSol: 1573, BestFeasibleSol: 1573, GenAvgValue: 1524.36
+Gen: 190, BestSol: 1612, BestFeasibleSol: 1612, GenAvgValue: 1560.7
+Total best: 1612
+FirstFeasibleIteration: 34
+Time: 0.094805
+Input file: instances/_uf250-078.cnf
+Gen: 0, BestSol: 1002, BestFeasibleSol: 1002, GenAvgValue: 1085.78
+Gen: 10, BestSol: 1131, BestFeasibleSol: 1131, GenAvgValue: 1107.85
+Gen: 20, BestSol: 1222, BestFeasibleSol: 1222, GenAvgValue: 1172.93
+Gen: 30, BestSol: 1239, BestFeasibleSol: 1239, GenAvgValue: 1208.29
+Gen: 40, BestSol: 1239, BestFeasibleSol: 1239, GenAvgValue: 1208.29
+Gen: 50, BestSol: 1263, BestFeasibleSol: 1263, GenAvgValue: 1230.61
+Gen: 60, BestSol: 1312, BestFeasibleSol: 1312, GenAvgValue: 1276.18
+Gen: 70, BestSol: 1339, BestFeasibleSol: 1339, GenAvgValue: 1301.29
+Gen: 80, BestSol: 1356, BestFeasibleSol: 1356, GenAvgValue: 1305.98
+Gen: 90, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1317.06
+Gen: 100, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1348.72
+Gen: 110, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1348.72
+Gen: 120, BestSol: 1416, BestFeasibleSol: 1416, GenAvgValue: 1350.3
+Gen: 130, BestSol: 1416, BestFeasibleSol: 1416, GenAvgValue: 1372.9
+Gen: 140, BestSol: 1436, BestFeasibleSol: 1436, GenAvgValue: 1391.5
+Gen: 150, BestSol: 1436, BestFeasibleSol: 1436, GenAvgValue: 1391.5
+Gen: 160, BestSol: 1436, BestFeasibleSol: 1436, GenAvgValue: 1391.5
+Gen: 170, BestSol: 1454, BestFeasibleSol: 1454, GenAvgValue: 1408.24
+Gen: 180, BestSol: 1454, BestFeasibleSol: 1454, GenAvgValue: 1408.19
+Gen: 190, BestSol: 1454, BestFeasibleSol: 1454, GenAvgValue: 1408.14
+Total best: 1454
+FirstFeasibleIteration: 2
+Time: 0.089161
+Input file: instances/_uf250-079.cnf
+Gen: 0, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1197.95
+Gen: 10, BestSol: 1471, BestFeasibleSol: 1471, GenAvgValue: 1433.37
+Gen: 20, BestSol: 1489, BestFeasibleSol: 1489, GenAvgValue: 1450.11
+Gen: 30, BestSol: 1535, BestFeasibleSol: 1535, GenAvgValue: 1492.89
+Gen: 40, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1527.3
+Gen: 50, BestSol: 1572, BestFeasibleSol: 1572, GenAvgValue: 1527.3
+Gen: 60, BestSol: 1573, BestFeasibleSol: 1573, GenAvgValue: 1528.16
+Gen: 70, BestSol: 1579, BestFeasibleSol: 1579, GenAvgValue: 1533.81
+Gen: 80, BestSol: 1579, BestFeasibleSol: 1579, GenAvgValue: 1533.81
+Gen: 90, BestSol: 1579, BestFeasibleSol: 1579, GenAvgValue: 1533.81
+Gen: 100, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1549.54
+Gen: 110, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1549.62
+Gen: 120, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1549.62
+Gen: 130, BestSol: 1596, BestFeasibleSol: 1596, GenAvgValue: 1549.71
+Gen: 140, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1571.65
+Gen: 150, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1613.79
+Gen: 160, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1613.79
+Gen: 170, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1613.79
+Gen: 180, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1613.79
+Gen: 190, BestSol: 1665, BestFeasibleSol: 1665, GenAvgValue: 1613.79
+Total best: 1665
+FirstFeasibleIteration: 1
+Time: 0.091419
+Input file: instances/_uf250-080.cnf
+Gen: 0, BestSol: 1870, BestFeasibleSol: 0, GenAvgValue: 1315.52
+Gen: 10, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1940.22
+Gen: 20, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1940.22
+Gen: 30, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1940.22
+Gen: 40, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1940.22
+Gen: 50, BestSol: 2009, BestFeasibleSol: 0, GenAvgValue: 1940.22
+Gen: 60, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 70, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 80, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 90, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 100, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 110, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 120, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.86
+Gen: 130, BestSol: 2057, BestFeasibleSol: 0, GenAvgValue: 1984.82
+Gen: 140, BestSol: 2106, BestFeasibleSol: 0, GenAvgValue: 1993.36
+Gen: 150, BestSol: 2115, BestFeasibleSol: 0, GenAvgValue: 2038.8
+Gen: 160, BestSol: 2115, BestFeasibleSol: 0, GenAvgValue: 2038.8
+Gen: 170, BestSol: 2115, BestFeasibleSol: 0, GenAvgValue: 2038.8
+Gen: 180, BestSol: 2130, BestFeasibleSol: 0, GenAvgValue: 2040.25
+Gen: 190, BestSol: 2130, BestFeasibleSol: 0, GenAvgValue: 2052.75
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.098855
+Input file: instances/_uf250-081.cnf
+Gen: 0, BestSol: 1310, BestFeasibleSol: 1310, GenAvgValue: 1131.28
+Gen: 10, BestSol: 1364, BestFeasibleSol: 1364, GenAvgValue: 1328.37
+Gen: 20, BestSol: 1364, BestFeasibleSol: 1364, GenAvgValue: 1328.37
+Gen: 30, BestSol: 1403, BestFeasibleSol: 1403, GenAvgValue: 1364.64
+Gen: 40, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1399.2
+Gen: 50, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1400.91
+Gen: 60, BestSol: 1467, BestFeasibleSol: 1467, GenAvgValue: 1403.49
+Gen: 70, BestSol: 1467, BestFeasibleSol: 1467, GenAvgValue: 1424.16
+Gen: 80, BestSol: 1506, BestFeasibleSol: 1506, GenAvgValue: 1460.43
+Gen: 90, BestSol: 1541, BestFeasibleSol: 1541, GenAvgValue: 1492.81
+Gen: 100, BestSol: 1543, BestFeasibleSol: 1543, GenAvgValue: 1493.1
+Gen: 110, BestSol: 1543, BestFeasibleSol: 1543, GenAvgValue: 1494.84
+Gen: 120, BestSol: 1543, BestFeasibleSol: 1543, GenAvgValue: 1494.84
+Gen: 130, BestSol: 1543, BestFeasibleSol: 1543, GenAvgValue: 1494.75
+Gen: 140, BestSol: 1543, BestFeasibleSol: 1543, GenAvgValue: 1494.84
+Gen: 150, BestSol: 1584, BestFeasibleSol: 1584, GenAvgValue: 1532.97
+Gen: 160, BestSol: 1640, BestFeasibleSol: 1640, GenAvgValue: 1567.44
+Gen: 170, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1598.07
+Gen: 180, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1598.07
+Gen: 190, BestSol: 1654, BestFeasibleSol: 1654, GenAvgValue: 1598.07
+Total best: 1654
+FirstFeasibleIteration: 1
+Time: 0.096407
+Input file: instances/_uf250-082.cnf
+Gen: 0, BestSol: 1675, BestFeasibleSol: 0, GenAvgValue: 1200.44
+Gen: 10, BestSol: 1759, BestFeasibleSol: 0, GenAvgValue: 1699.66
+Gen: 20, BestSol: 1765, BestFeasibleSol: 0, GenAvgValue: 1705.13
+Gen: 30, BestSol: 1784, BestFeasibleSol: 0, GenAvgValue: 1722.8
+Gen: 40, BestSol: 1784, BestFeasibleSol: 0, GenAvgValue: 1722.91
+Gen: 50, BestSol: 1784, BestFeasibleSol: 0, GenAvgValue: 1722.91
+Gen: 60, BestSol: 1784, BestFeasibleSol: 0, GenAvgValue: 1722.91
+Gen: 70, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.31
+Gen: 80, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1751.71
+Gen: 90, BestSol: 1865, BestFeasibleSol: 0, GenAvgValue: 1798.24
+Gen: 100, BestSol: 1865, BestFeasibleSol: 0, GenAvgValue: 1798.24
+Gen: 110, BestSol: 1865, BestFeasibleSol: 0, GenAvgValue: 1798.24
+Gen: 120, BestSol: 1865, BestFeasibleSol: 0, GenAvgValue: 1798.24
+Gen: 130, BestSol: 1901, BestFeasibleSol: 0, GenAvgValue: 1831.56
+Gen: 140, BestSol: 1901, BestFeasibleSol: 0, GenAvgValue: 1831.72
+Gen: 150, BestSol: 1918, BestFeasibleSol: 0, GenAvgValue: 1831.78
+Gen: 160, BestSol: 1926, BestFeasibleSol: 0, GenAvgValue: 1848.23
+Gen: 170, BestSol: 1988, BestFeasibleSol: 0, GenAvgValue: 1912.63
+Gen: 180, BestSol: 1999, BestFeasibleSol: 0, GenAvgValue: 1922.84
+Gen: 190, BestSol: 2000, BestFeasibleSol: 0, GenAvgValue: 1923.74
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.095656
+Input file: instances/_uf250-083.cnf
+Gen: 0, BestSol: 1191, BestFeasibleSol: 1191, GenAvgValue: 1156.63
+Gen: 10, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1419.81
+Gen: 20, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1432.81
+Gen: 30, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1432.81
+Gen: 40, BestSol: 1473, BestFeasibleSol: 1473, GenAvgValue: 1432.81
+Gen: 50, BestSol: 1513, BestFeasibleSol: 1513, GenAvgValue: 1470.01
+Gen: 60, BestSol: 1528, BestFeasibleSol: 1528, GenAvgValue: 1483.56
+Gen: 70, BestSol: 1528, BestFeasibleSol: 1528, GenAvgValue: 1483.96
+Gen: 80, BestSol: 1547, BestFeasibleSol: 1547, GenAvgValue: 1501.63
+Gen: 90, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1503.53
+Gen: 100, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1522.01
+Gen: 110, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1522.09
+Gen: 120, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1522.09
+Gen: 130, BestSol: 1569, BestFeasibleSol: 1569, GenAvgValue: 1521.94
+Gen: 140, BestSol: 1640, BestFeasibleSol: 1640, GenAvgValue: 1558.99
+Gen: 150, BestSol: 1640, BestFeasibleSol: 1640, GenAvgValue: 1588.12
+Gen: 160, BestSol: 1721, BestFeasibleSol: 1721, GenAvgValue: 1663.45
+Gen: 170, BestSol: 1737, BestFeasibleSol: 1737, GenAvgValue: 1678.33
+Gen: 180, BestSol: 1756, BestFeasibleSol: 1756, GenAvgValue: 1696
+Gen: 190, BestSol: 1786, BestFeasibleSol: 1786, GenAvgValue: 1723.9
+Total best: 1786
+FirstFeasibleIteration: 1
+Time: 0.097727
+Input file: instances/_uf250-084.cnf
+Gen: 0, BestSol: 1516, BestFeasibleSol: 0, GenAvgValue: 1155.45
+Gen: 10, BestSol: 1819, BestFeasibleSol: 0, GenAvgValue: 1733.85
+Gen: 20, BestSol: 1819, BestFeasibleSol: 0, GenAvgValue: 1755.16
+Gen: 30, BestSol: 1837, BestFeasibleSol: 0, GenAvgValue: 1771.9
+Gen: 40, BestSol: 1837, BestFeasibleSol: 0, GenAvgValue: 1771.9
+Gen: 50, BestSol: 1870, BestFeasibleSol: 0, GenAvgValue: 1801.82
+Gen: 60, BestSol: 1870, BestFeasibleSol: 0, GenAvgValue: 1802.59
+Gen: 70, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 80, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 90, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 100, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 110, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.91
+Gen: 120, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 130, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 140, BestSol: 1879, BestFeasibleSol: 0, GenAvgValue: 1810.96
+Gen: 150, BestSol: 1898, BestFeasibleSol: 0, GenAvgValue: 1828.63
+Gen: 160, BestSol: 1898, BestFeasibleSol: 0, GenAvgValue: 1828.63
+Gen: 170, BestSol: 1911, BestFeasibleSol: 0, GenAvgValue: 1840.72
+Gen: 180, BestSol: 1911, BestFeasibleSol: 0, GenAvgValue: 1840.72
+Gen: 190, BestSol: 1911, BestFeasibleSol: 0, GenAvgValue: 1840.72
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.093877
+Input file: instances/_uf250-085.cnf
+Gen: 0, BestSol: 1751, BestFeasibleSol: 0, GenAvgValue: 1351.45
+Gen: 10, BestSol: 2084, BestFeasibleSol: 0, GenAvgValue: 2012.68
+Gen: 20, BestSol: 2084, BestFeasibleSol: 0, GenAvgValue: 2012.68
+Gen: 30, BestSol: 2084, BestFeasibleSol: 0, GenAvgValue: 2012.68
+Gen: 40, BestSol: 2084, BestFeasibleSol: 0, GenAvgValue: 2012.68
+Gen: 50, BestSol: 2084, BestFeasibleSol: 0, GenAvgValue: 2012.68
+Gen: 60, BestSol: 2147, BestFeasibleSol: 0, GenAvgValue: 2071.27
+Gen: 70, BestSol: 2147, BestFeasibleSol: 0, GenAvgValue: 2071.27
+Gen: 80, BestSol: 2195, BestFeasibleSol: 0, GenAvgValue: 2074.27
+Gen: 90, BestSol: 2195, BestFeasibleSol: 0, GenAvgValue: 2115.91
+Gen: 100, BestSol: 2195, BestFeasibleSol: 0, GenAvgValue: 2115.91
+Gen: 110, BestSol: 2215, BestFeasibleSol: 0, GenAvgValue: 2134.51
+Gen: 120, BestSol: 2215, BestFeasibleSol: 0, GenAvgValue: 2134.51
+Gen: 130, BestSol: 2216, BestFeasibleSol: 0, GenAvgValue: 2134.52
+Gen: 140, BestSol: 2216, BestFeasibleSol: 0, GenAvgValue: 2135.44
+Gen: 150, BestSol: 2251, BestFeasibleSol: 0, GenAvgValue: 2167.99
+Gen: 160, BestSol: 2251, BestFeasibleSol: 0, GenAvgValue: 2167.99
+Gen: 170, BestSol: 2251, BestFeasibleSol: 0, GenAvgValue: 2167.99
+Gen: 180, BestSol: 2268, BestFeasibleSol: 0, GenAvgValue: 2183.8
+Gen: 190, BestSol: 2292, BestFeasibleSol: 0, GenAvgValue: 2183.88
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.098851
+Input file: instances/_uf250-086.cnf
+Gen: 0, BestSol: 1033, BestFeasibleSol: 1033, GenAvgValue: 1100.92
+Gen: 10, BestSol: 1254, BestFeasibleSol: 1254, GenAvgValue: 1224.46
+Gen: 20, BestSol: 1255, BestFeasibleSol: 1255, GenAvgValue: 1225.39
+Gen: 30, BestSol: 1296, BestFeasibleSol: 1296, GenAvgValue: 1225.43
+Gen: 40, BestSol: 1296, BestFeasibleSol: 1296, GenAvgValue: 1263.52
+Gen: 50, BestSol: 1296, BestFeasibleSol: 1296, GenAvgValue: 1263.52
+Gen: 60, BestSol: 1297, BestFeasibleSol: 1297, GenAvgValue: 1263.62
+Gen: 70, BestSol: 1308, BestFeasibleSol: 1308, GenAvgValue: 1274.68
+Gen: 80, BestSol: 1308, BestFeasibleSol: 1308, GenAvgValue: 1274.68
+Gen: 90, BestSol: 1311, BestFeasibleSol: 1311, GenAvgValue: 1274.86
+Gen: 100, BestSol: 1311, BestFeasibleSol: 1311, GenAvgValue: 1277.43
+Gen: 110, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1277.47
+Gen: 120, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1279.33
+Gen: 130, BestSol: 1345, BestFeasibleSol: 1345, GenAvgValue: 1309.05
+Gen: 140, BestSol: 1345, BestFeasibleSol: 1345, GenAvgValue: 1309.03
+Gen: 150, BestSol: 1373, BestFeasibleSol: 1373, GenAvgValue: 1335.08
+Gen: 160, BestSol: 1411, BestFeasibleSol: 1411, GenAvgValue: 1370.47
+Gen: 170, BestSol: 1411, BestFeasibleSol: 1411, GenAvgValue: 1370.46
+Gen: 180, BestSol: 1411, BestFeasibleSol: 1411, GenAvgValue: 1370.47
+Gen: 190, BestSol: 1423, BestFeasibleSol: 1423, GenAvgValue: 1381.63
+Total best: 1423
+FirstFeasibleIteration: 1
+Time: 0.097067
+Input file: instances/_uf250-087.cnf
+Gen: 0, BestSol: 1360, BestFeasibleSol: 0, GenAvgValue: 952.827
+Gen: 10, BestSol: 1375, BestFeasibleSol: 0, GenAvgValue: 1322.99
+Gen: 20, BestSol: 1375, BestFeasibleSol: 0, GenAvgValue: 1329.48
+Gen: 30, BestSol: 1375, BestFeasibleSol: 0, GenAvgValue: 1329.48
+Gen: 40, BestSol: 1385, BestFeasibleSol: 0, GenAvgValue: 1338.68
+Gen: 50, BestSol: 1385, BestFeasibleSol: 0, GenAvgValue: 1338.78
+Gen: 60, BestSol: 1385, BestFeasibleSol: 0, GenAvgValue: 1338.78
+Gen: 70, BestSol: 1397, BestFeasibleSol: 0, GenAvgValue: 1349.94
+Gen: 80, BestSol: 1410, BestFeasibleSol: 0, GenAvgValue: 1361.94
+Gen: 90, BestSol: 1410, BestFeasibleSol: 0, GenAvgValue: 1362.03
+Gen: 100, BestSol: 1410, BestFeasibleSol: 0, GenAvgValue: 1362.03
+Gen: 110, BestSol: 1410, BestFeasibleSol: 0, GenAvgValue: 1361.94
+Gen: 120, BestSol: 1410, BestFeasibleSol: 0, GenAvgValue: 1362.03
+Gen: 130, BestSol: 1429, BestFeasibleSol: 0, GenAvgValue: 1363.68
+Gen: 140, BestSol: 1429, BestFeasibleSol: 0, GenAvgValue: 1379.7
+Gen: 150, BestSol: 1429, BestFeasibleSol: 0, GenAvgValue: 1379.7
+Gen: 160, BestSol: 1450, BestFeasibleSol: 0, GenAvgValue: 1399.23
+Gen: 170, BestSol: 1450, BestFeasibleSol: 0, GenAvgValue: 1399.23
+Gen: 180, BestSol: 1450, BestFeasibleSol: 0, GenAvgValue: 1399.23
+Gen: 190, BestSol: 1459, BestFeasibleSol: 0, GenAvgValue: 1407.54
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.092085
+Input file: instances/_uf250-088.cnf
+Gen: 0, BestSol: 1596, BestFeasibleSol: 0, GenAvgValue: 1242.83
+Gen: 10, BestSol: 1849, BestFeasibleSol: 0, GenAvgValue: 1786.44
+Gen: 20, BestSol: 1866, BestFeasibleSol: 0, GenAvgValue: 1788.08
+Gen: 30, BestSol: 1866, BestFeasibleSol: 0, GenAvgValue: 1802.18
+Gen: 40, BestSol: 1888, BestFeasibleSol: 0, GenAvgValue: 1804.08
+Gen: 50, BestSol: 1934, BestFeasibleSol: 0, GenAvgValue: 1865.49
+Gen: 60, BestSol: 1935, BestFeasibleSol: 0, GenAvgValue: 1866.42
+Gen: 70, BestSol: 1935, BestFeasibleSol: 0, GenAvgValue: 1866.42
+Gen: 80, BestSol: 1935, BestFeasibleSol: 0, GenAvgValue: 1866.42
+Gen: 90, BestSol: 1967, BestFeasibleSol: 0, GenAvgValue: 1896.18
+Gen: 100, BestSol: 1971, BestFeasibleSol: 0, GenAvgValue: 1899.39
+Gen: 110, BestSol: 2014, BestFeasibleSol: 0, GenAvgValue: 1938.22
+Gen: 120, BestSol: 2041, BestFeasibleSol: 0, GenAvgValue: 1965
+Gen: 130, BestSol: 2041, BestFeasibleSol: 0, GenAvgValue: 1965
+Gen: 140, BestSol: 2041, BestFeasibleSol: 0, GenAvgValue: 1965
+Gen: 150, BestSol: 2041, BestFeasibleSol: 0, GenAvgValue: 1965
+Gen: 160, BestSol: 2041, BestFeasibleSol: 0, GenAvgValue: 1964.85
+Gen: 170, BestSol: 2055, BestFeasibleSol: 0, GenAvgValue: 1978.02
+Gen: 180, BestSol: 2055, BestFeasibleSol: 0, GenAvgValue: 1978.02
+Gen: 190, BestSol: 2055, BestFeasibleSol: 0, GenAvgValue: 1978.02
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.099357
+Input file: instances/_uf250-089.cnf
+Gen: 0, BestSol: 1299, BestFeasibleSol: 1299, GenAvgValue: 1086.55
+Gen: 10, BestSol: 1299, BestFeasibleSol: 1299, GenAvgValue: 1266.13
+Gen: 20, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1285.49
+Gen: 30, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1286.48
+Gen: 40, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1286.46
+Gen: 50, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1286.59
+Gen: 60, BestSol: 1323, BestFeasibleSol: 1323, GenAvgValue: 1288.44
+Gen: 70, BestSol: 1323, BestFeasibleSol: 1323, GenAvgValue: 1288.45
+Gen: 80, BestSol: 1340, BestFeasibleSol: 1340, GenAvgValue: 1304.26
+Gen: 90, BestSol: 1417, BestFeasibleSol: 1417, GenAvgValue: 1343.89
+Gen: 100, BestSol: 1417, BestFeasibleSol: 1417, GenAvgValue: 1375.87
+Gen: 110, BestSol: 1423, BestFeasibleSol: 1423, GenAvgValue: 1376.49
+Gen: 120, BestSol: 1463, BestFeasibleSol: 1463, GenAvgValue: 1418.65
+Gen: 130, BestSol: 1463, BestFeasibleSol: 1463, GenAvgValue: 1418.65
+Gen: 140, BestSol: 1463, BestFeasibleSol: 1463, GenAvgValue: 1418.65
+Gen: 150, BestSol: 1512, BestFeasibleSol: 1512, GenAvgValue: 1422.73
+Gen: 160, BestSol: 1540, BestFeasibleSol: 1540, GenAvgValue: 1490.26
+Gen: 170, BestSol: 1582, BestFeasibleSol: 1582, GenAvgValue: 1519.8
+Gen: 180, BestSol: 1639, BestFeasibleSol: 1639, GenAvgValue: 1581.65
+Gen: 190, BestSol: 1639, BestFeasibleSol: 1639, GenAvgValue: 1582.33
+Total best: 1662
+FirstFeasibleIteration: 18
+Time: 0.091342
+Input file: instances/_uf250-090.cnf
+Gen: 0, BestSol: 1173, BestFeasibleSol: 1173, GenAvgValue: 1220.03
+Gen: 10, BestSol: 1173, BestFeasibleSol: 1173, GenAvgValue: 1159.76
+Gen: 20, BestSol: 1271, BestFeasibleSol: 1271, GenAvgValue: 1234.83
+Gen: 30, BestSol: 1309, BestFeasibleSol: 1309, GenAvgValue: 1286.3
+Gen: 40, BestSol: 1351, BestFeasibleSol: 1351, GenAvgValue: 1286.54
+Gen: 50, BestSol: 1351, BestFeasibleSol: 1351, GenAvgValue: 1325.31
+Gen: 60, BestSol: 1409, BestFeasibleSol: 1409, GenAvgValue: 1379.35
+Gen: 70, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1384.98
+Gen: 80, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1384.98
+Gen: 90, BestSol: 1415, BestFeasibleSol: 1415, GenAvgValue: 1384.98
+Gen: 100, BestSol: 1446, BestFeasibleSol: 1446, GenAvgValue: 1413.81
+Gen: 110, BestSol: 1469, BestFeasibleSol: 1469, GenAvgValue: 1416.72
+Gen: 120, BestSol: 1469, BestFeasibleSol: 1469, GenAvgValue: 1435.2
+Gen: 130, BestSol: 1469, BestFeasibleSol: 1469, GenAvgValue: 1435.2
+Gen: 140, BestSol: 1469, BestFeasibleSol: 1469, GenAvgValue: 1435.2
+Gen: 150, BestSol: 1481, BestFeasibleSol: 1481, GenAvgValue: 1446.21
+Gen: 160, BestSol: 1505, BestFeasibleSol: 1505, GenAvgValue: 1448.84
+Gen: 170, BestSol: 1515, BestFeasibleSol: 1515, GenAvgValue: 1477.98
+Gen: 180, BestSol: 1515, BestFeasibleSol: 1515, GenAvgValue: 1477.98
+Gen: 190, BestSol: 1515, BestFeasibleSol: 1515, GenAvgValue: 1477.98
+Total best: 1515
+FirstFeasibleIteration: 13
+Time: 0.094377
+Input file: instances/_uf250-091.cnf
+Gen: 0, BestSol: 973, BestFeasibleSol: 973, GenAvgValue: 1153.16
+Gen: 10, BestSol: 1046, BestFeasibleSol: 1046, GenAvgValue: 1035.89
+Gen: 20, BestSol: 1096, BestFeasibleSol: 1096, GenAvgValue: 1082.47
+Gen: 30, BestSol: 1096, BestFeasibleSol: 1096, GenAvgValue: 1082.47
+Gen: 40, BestSol: 1096, BestFeasibleSol: 1096, GenAvgValue: 1082.47
+Gen: 50, BestSol: 1102, BestFeasibleSol: 1102, GenAvgValue: 1087.98
+Gen: 60, BestSol: 1102, BestFeasibleSol: 1102, GenAvgValue: 1088.05
+Gen: 70, BestSol: 1102, BestFeasibleSol: 1102, GenAvgValue: 1088.05
+Gen: 80, BestSol: 1120, BestFeasibleSol: 1120, GenAvgValue: 1104.79
+Gen: 90, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1163.38
+Gen: 100, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1197.79
+Gen: 110, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1197.79
+Gen: 120, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1197.79
+Gen: 130, BestSol: 1220, BestFeasibleSol: 1220, GenAvgValue: 1197.79
+Gen: 140, BestSol: 1268, BestFeasibleSol: 1268, GenAvgValue: 1242.43
+Gen: 150, BestSol: 1268, BestFeasibleSol: 1268, GenAvgValue: 1242.37
+Gen: 160, BestSol: 1269, BestFeasibleSol: 1269, GenAvgValue: 1243.36
+Gen: 170, BestSol: 1273, BestFeasibleSol: 1273, GenAvgValue: 1243.75
+Gen: 180, BestSol: 1273, BestFeasibleSol: 1273, GenAvgValue: 1247.08
+Gen: 190, BestSol: 1273, BestFeasibleSol: 1273, GenAvgValue: 1247.08
+Total best: 1273
+FirstFeasibleIteration: 1
+Time: 0.095073
+Input file: instances/_uf250-092.cnf
+Gen: 0, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1118.23
+Gen: 10, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1290.48
+Gen: 20, BestSol: 1321, BestFeasibleSol: 1321, GenAvgValue: 1290.48
+Gen: 30, BestSol: 1375, BestFeasibleSol: 1375, GenAvgValue: 1304.44
+Gen: 40, BestSol: 1375, BestFeasibleSol: 1375, GenAvgValue: 1340.7
+Gen: 50, BestSol: 1385, BestFeasibleSol: 1385, GenAvgValue: 1340.73
+Gen: 60, BestSol: 1385, BestFeasibleSol: 1385, GenAvgValue: 1350
+Gen: 70, BestSol: 1385, BestFeasibleSol: 1385, GenAvgValue: 1350
+Gen: 80, BestSol: 1407, BestFeasibleSol: 1407, GenAvgValue: 1370.32
+Gen: 90, BestSol: 1407, BestFeasibleSol: 1407, GenAvgValue: 1370.46
+Gen: 100, BestSol: 1498, BestFeasibleSol: 1498, GenAvgValue: 1416.99
+Gen: 110, BestSol: 1498, BestFeasibleSol: 1498, GenAvgValue: 1455.09
+Gen: 120, BestSol: 1498, BestFeasibleSol: 1498, GenAvgValue: 1455.09
+Gen: 130, BestSol: 1498, BestFeasibleSol: 1498, GenAvgValue: 1455.09
+Gen: 140, BestSol: 1498, BestFeasibleSol: 1498, GenAvgValue: 1455.09
+Gen: 150, BestSol: 1525, BestFeasibleSol: 1525, GenAvgValue: 1476.87
+Gen: 160, BestSol: 1570, BestFeasibleSol: 1570, GenAvgValue: 1522.05
+Gen: 170, BestSol: 1570, BestFeasibleSol: 1570, GenAvgValue: 1522.05
+Gen: 180, BestSol: 1570, BestFeasibleSol: 1570, GenAvgValue: 1522.05
+Gen: 190, BestSol: 1612, BestFeasibleSol: 1612, GenAvgValue: 1522.19
+Total best: 1661
+FirstFeasibleIteration: 26
+Time: 0.091015
+Input file: instances/_uf250-093.cnf
+Gen: 0, BestSol: 944, BestFeasibleSol: 944, GenAvgValue: 1086.45
+Gen: 10, BestSol: 944, BestFeasibleSol: 944, GenAvgValue: 934.033
+Gen: 20, BestSol: 954, BestFeasibleSol: 954, GenAvgValue: 934.9
+Gen: 30, BestSol: 998, BestFeasibleSol: 998, GenAvgValue: 984.253
+Gen: 40, BestSol: 1046, BestFeasibleSol: 1046, GenAvgValue: 1027.21
+Gen: 50, BestSol: 1069, BestFeasibleSol: 1069, GenAvgValue: 1050.28
+Gen: 60, BestSol: 1069, BestFeasibleSol: 1069, GenAvgValue: 1050.28
+Gen: 70, BestSol: 1069, BestFeasibleSol: 1069, GenAvgValue: 1050.14
+Gen: 80, BestSol: 1107, BestFeasibleSol: 1107, GenAvgValue: 1085.68
+Gen: 90, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1156.3
+Gen: 100, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1156.3
+Gen: 110, BestSol: 1183, BestFeasibleSol: 1183, GenAvgValue: 1156.3
+Gen: 120, BestSol: 1192, BestFeasibleSol: 1192, GenAvgValue: 1164.67
+Gen: 130, BestSol: 1192, BestFeasibleSol: 1192, GenAvgValue: 1164.67
+Gen: 140, BestSol: 1192, BestFeasibleSol: 1192, GenAvgValue: 1164.67
+Gen: 150, BestSol: 1192, BestFeasibleSol: 1192, GenAvgValue: 1164.67
+Gen: 160, BestSol: 1238, BestFeasibleSol: 1238, GenAvgValue: 1207.31
+Gen: 170, BestSol: 1238, BestFeasibleSol: 1238, GenAvgValue: 1207.45
+Gen: 180, BestSol: 1238, BestFeasibleSol: 1238, GenAvgValue: 1207.31
+Gen: 190, BestSol: 1277, BestFeasibleSol: 1277, GenAvgValue: 1242.68
+Total best: 1300
+FirstFeasibleIteration: 19
+Time: 0.095524
+Input file: instances/_uf250-094.cnf
+Gen: 0, BestSol: 1572, BestFeasibleSol: 0, GenAvgValue: 1132.63
+Gen: 10, BestSol: 1708, BestFeasibleSol: 0, GenAvgValue: 1649.68
+Gen: 20, BestSol: 1708, BestFeasibleSol: 0, GenAvgValue: 1649.68
+Gen: 30, BestSol: 1709, BestFeasibleSol: 0, GenAvgValue: 1649.78
+Gen: 40, BestSol: 1729, BestFeasibleSol: 0, GenAvgValue: 1669.21
+Gen: 50, BestSol: 1750, BestFeasibleSol: 0, GenAvgValue: 1688.64
+Gen: 60, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1728.81
+Gen: 70, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 80, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 90, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.16
+Gen: 100, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 110, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 120, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 130, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 140, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 150, BestSol: 1815, BestFeasibleSol: 0, GenAvgValue: 1749.19
+Gen: 160, BestSol: 1849, BestFeasibleSol: 0, GenAvgValue: 1780.79
+Gen: 170, BestSol: 1853, BestFeasibleSol: 0, GenAvgValue: 1784.53
+Gen: 180, BestSol: 1853, BestFeasibleSol: 0, GenAvgValue: 1784.53
+Gen: 190, BestSol: 1853, BestFeasibleSol: 0, GenAvgValue: 1784.53
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.094547
+Input file: instances/_uf250-095.cnf
+Gen: 0, BestSol: 1575, BestFeasibleSol: 0, GenAvgValue: 1192.55
+Gen: 10, BestSol: 1779, BestFeasibleSol: 0, GenAvgValue: 1718.35
+Gen: 20, BestSol: 1779, BestFeasibleSol: 0, GenAvgValue: 1718.35
+Gen: 30, BestSol: 1792, BestFeasibleSol: 0, GenAvgValue: 1730.44
+Gen: 40, BestSol: 1835, BestFeasibleSol: 0, GenAvgValue: 1767.43
+Gen: 50, BestSol: 1869, BestFeasibleSol: 0, GenAvgValue: 1772.81
+Gen: 60, BestSol: 1915, BestFeasibleSol: 0, GenAvgValue: 1805.88
+Gen: 70, BestSol: 1915, BestFeasibleSol: 0, GenAvgValue: 1844.83
+Gen: 80, BestSol: 1953, BestFeasibleSol: 0, GenAvgValue: 1880.17
+Gen: 90, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1885.75
+Gen: 100, BestSol: 1959, BestFeasibleSol: 0, GenAvgValue: 1885.75
+Gen: 110, BestSol: 1986, BestFeasibleSol: 0, GenAvgValue: 1910.86
+Gen: 120, BestSol: 1986, BestFeasibleSol: 0, GenAvgValue: 1910.86
+Gen: 130, BestSol: 2018, BestFeasibleSol: 0, GenAvgValue: 1939.66
+Gen: 140, BestSol: 2018, BestFeasibleSol: 0, GenAvgValue: 1940.5
+Gen: 150, BestSol: 2037, BestFeasibleSol: 0, GenAvgValue: 1958.29
+Gen: 160, BestSol: 2120, BestFeasibleSol: 0, GenAvgValue: 2032.28
+Gen: 170, BestSol: 2123, BestFeasibleSol: 0, GenAvgValue: 2035.49
+Gen: 180, BestSol: 2136, BestFeasibleSol: 0, GenAvgValue: 2049.8
+Gen: 190, BestSol: 2136, BestFeasibleSol: 0, GenAvgValue: 2050.36
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.099258
+Input file: instances/_uf250-096.cnf
+Gen: 0, BestSol: 1196, BestFeasibleSol: 1196, GenAvgValue: 1286.37
+Gen: 10, BestSol: 1196, BestFeasibleSol: 1196, GenAvgValue: 1182.38
+Gen: 20, BestSol: 1203, BestFeasibleSol: 1203, GenAvgValue: 1188.89
+Gen: 30, BestSol: 1228, BestFeasibleSol: 1228, GenAvgValue: 1212.14
+Gen: 40, BestSol: 1263, BestFeasibleSol: 1263, GenAvgValue: 1244.69
+Gen: 50, BestSol: 1263, BestFeasibleSol: 1263, GenAvgValue: 1244.69
+Gen: 60, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1291.19
+Gen: 70, BestSol: 1313, BestFeasibleSol: 1313, GenAvgValue: 1291.12
+Gen: 80, BestSol: 1356, BestFeasibleSol: 1356, GenAvgValue: 1329.02
+Gen: 90, BestSol: 1390, BestFeasibleSol: 1390, GenAvgValue: 1331.29
+Gen: 100, BestSol: 1434, BestFeasibleSol: 1434, GenAvgValue: 1362.95
+Gen: 110, BestSol: 1483, BestFeasibleSol: 1483, GenAvgValue: 1449.29
+Gen: 120, BestSol: 1526, BestFeasibleSol: 1526, GenAvgValue: 1489.28
+Gen: 130, BestSol: 1567, BestFeasibleSol: 1567, GenAvgValue: 1523.31
+Gen: 140, BestSol: 1575, BestFeasibleSol: 1575, GenAvgValue: 1534.85
+Gen: 150, BestSol: 1575, BestFeasibleSol: 1575, GenAvgValue: 1534.85
+Gen: 160, BestSol: 1658, BestFeasibleSol: 1658, GenAvgValue: 1612.04
+Gen: 170, BestSol: 1658, BestFeasibleSol: 1658, GenAvgValue: 1612.04
+Gen: 180, BestSol: 1658, BestFeasibleSol: 1658, GenAvgValue: 1612.04
+Gen: 190, BestSol: 1661, BestFeasibleSol: 1661, GenAvgValue: 1614.83
+Total best: 1661
+FirstFeasibleIteration: 14
+Time: 0.095525
+Input file: instances/_uf250-097.cnf
+Gen: 0, BestSol: 1519, BestFeasibleSol: 0, GenAvgValue: 1130.5
+Gen: 10, BestSol: 1765, BestFeasibleSol: 0, GenAvgValue: 1703.39
+Gen: 20, BestSol: 1765, BestFeasibleSol: 0, GenAvgValue: 1703.39
+Gen: 30, BestSol: 1765, BestFeasibleSol: 0, GenAvgValue: 1703.39
+Gen: 40, BestSol: 1771, BestFeasibleSol: 0, GenAvgValue: 1708.79
+Gen: 50, BestSol: 1819, BestFeasibleSol: 0, GenAvgValue: 1739.89
+Gen: 60, BestSol: 1853, BestFeasibleSol: 0, GenAvgValue: 1753.72
+Gen: 70, BestSol: 1853, BestFeasibleSol: 0, GenAvgValue: 1785.23
+Gen: 80, BestSol: 1887, BestFeasibleSol: 0, GenAvgValue: 1816.85
+Gen: 90, BestSol: 1924, BestFeasibleSol: 0, GenAvgValue: 1816.97
+Gen: 100, BestSol: 1924, BestFeasibleSol: 0, GenAvgValue: 1851.26
+Gen: 110, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1856.84
+Gen: 120, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1856.84
+Gen: 130, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1856.84
+Gen: 140, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1856.84
+Gen: 150, BestSol: 1930, BestFeasibleSol: 0, GenAvgValue: 1856.84
+Gen: 160, BestSol: 1932, BestFeasibleSol: 0, GenAvgValue: 1858.7
+Gen: 170, BestSol: 1948, BestFeasibleSol: 0, GenAvgValue: 1872.78
+Gen: 180, BestSol: 1952, BestFeasibleSol: 0, GenAvgValue: 1877.3
+Gen: 190, BestSol: 1974, BestFeasibleSol: 0, GenAvgValue: 1895.49
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.094403
+Input file: instances/_uf250-098.cnf
+Gen: 0, BestSol: 1768, BestFeasibleSol: 0, GenAvgValue: 1305.36
+Gen: 10, BestSol: 1850, BestFeasibleSol: 0, GenAvgValue: 1791.97
+Gen: 20, BestSol: 1871, BestFeasibleSol: 0, GenAvgValue: 1811.5
+Gen: 30, BestSol: 1894, BestFeasibleSol: 0, GenAvgValue: 1813.34
+Gen: 40, BestSol: 1894, BestFeasibleSol: 0, GenAvgValue: 1832.89
+Gen: 50, BestSol: 1927, BestFeasibleSol: 0, GenAvgValue: 1863.57
+Gen: 60, BestSol: 1943, BestFeasibleSol: 0, GenAvgValue: 1865.82
+Gen: 70, BestSol: 1943, BestFeasibleSol: 0, GenAvgValue: 1878.46
+Gen: 80, BestSol: 1943, BestFeasibleSol: 0, GenAvgValue: 1878.33
+Gen: 90, BestSol: 1943, BestFeasibleSol: 0, GenAvgValue: 1878.46
+Gen: 100, BestSol: 1983, BestFeasibleSol: 0, GenAvgValue: 1915.66
+Gen: 110, BestSol: 2027, BestFeasibleSol: 0, GenAvgValue: 1956.58
+Gen: 120, BestSol: 2036, BestFeasibleSol: 0, GenAvgValue: 1964.95
+Gen: 130, BestSol: 2036, BestFeasibleSol: 0, GenAvgValue: 1964.95
+Gen: 140, BestSol: 2059, BestFeasibleSol: 0, GenAvgValue: 1985.51
+Gen: 150, BestSol: 2059, BestFeasibleSol: 0, GenAvgValue: 1986.34
+Gen: 160, BestSol: 2059, BestFeasibleSol: 0, GenAvgValue: 1986.21
+Gen: 170, BestSol: 2083, BestFeasibleSol: 0, GenAvgValue: 2008.66
+Gen: 180, BestSol: 2083, BestFeasibleSol: 0, GenAvgValue: 2008.66
+Gen: 190, BestSol: 2124, BestFeasibleSol: 0, GenAvgValue: 2046.7
+Total best: 0
+FirstFeasibleIteration: 0
+Time: 0.097051
+Input file: instances/_uf250-099.cnf
+Gen: 0, BestSol: 1170, BestFeasibleSol: 1170, GenAvgValue: 1154.03
+Gen: 10, BestSol: 1254, BestFeasibleSol: 1254, GenAvgValue: 1229.68
+Gen: 20, BestSol: 1254, BestFeasibleSol: 1254, GenAvgValue: 1229.68
+Gen: 30, BestSol: 1292, BestFeasibleSol: 1292, GenAvgValue: 1263.37
+Gen: 40, BestSol: 1305, BestFeasibleSol: 1305, GenAvgValue: 1266.53
+Gen: 50, BestSol: 1355, BestFeasibleSol: 1355, GenAvgValue: 1323.61
+Gen: 60, BestSol: 1356, BestFeasibleSol: 1356, GenAvgValue: 1324.54
+Gen: 70, BestSol: 1356, BestFeasibleSol: 1356, GenAvgValue: 1324.54
+Gen: 80, BestSol: 1356, BestFeasibleSol: 1356, GenAvgValue: 1324.54
+Gen: 90, BestSol: 1397, BestFeasibleSol: 1397, GenAvgValue: 1362.67
+Gen: 100, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1404.52
+Gen: 110, BestSol: 1442, BestFeasibleSol: 1442, GenAvgValue: 1404.52
+Gen: 120, BestSol: 1453, BestFeasibleSol: 1453, GenAvgValue: 1414.75
+Gen: 130, BestSol: 1453, BestFeasibleSol: 1453, GenAvgValue: 1414.56
+Gen: 140, BestSol: 1453, BestFeasibleSol: 1453, GenAvgValue: 1414.75
+Gen: 150, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1416.41
+Gen: 160, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1416.45
+Gen: 170, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1416.61
+Gen: 180, BestSol: 1455, BestFeasibleSol: 1455, GenAvgValue: 1416.61
+Gen: 190, BestSol: 1466, BestFeasibleSol: 1466, GenAvgValue: 1426.84
+Total best: 1466
+FirstFeasibleIteration: 1
+Time: 0.094635
+Avg. bestSol: 1635.27
+Avg. fstFeasible: 6.16418
+Avg. time: 0.0956152

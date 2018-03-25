@@ -1,0 +1,5004 @@
+Input file: knap_500.inst.dat, solution file: knap_500.sol.dat
+Instances: 300, Iterations: 1500, KeepBest: 30, KeepWorst: 21, Cross: 21, MutationFactor: 0.05
+Gen: 0
+BestSol: 4303
+GenAvgPrice: 2309.59
+GenAvgWeight: 87.4967
+GenError: 36.9431
+
+Gen: 99
+BestSol: 6634
+GenAvgPrice: 3575.66
+GenAvgWeight: 80.2367
+GenError: 2.78429
+
+Gen: 198
+BestSol: 6794
+GenAvgPrice: 3909.32
+GenAvgWeight: 79.78
+GenError: 0.439625
+
+Gen: 297
+BestSol: 6794
+GenAvgPrice: 3473.78
+GenAvgWeight: 79.8167
+GenError: 0.439625
+
+Gen: 396
+BestSol: 6794
+GenAvgPrice: 3857.78
+GenAvgWeight: 79.57
+GenError: 0.439625
+
+Gen: 495
+BestSol: 6794
+GenAvgPrice: 3815.45
+GenAvgWeight: 79.9733
+GenError: 0.439625
+
+Gen: 594
+BestSol: 6794
+GenAvgPrice: 3640.38
+GenAvgWeight: 79.36
+GenError: 0.439625
+
+Gen: 693
+BestSol: 6794
+GenAvgPrice: 3880.69
+GenAvgWeight: 79.6767
+GenError: 0.439625
+
+Gen: 792
+BestSol: 6794
+GenAvgPrice: 3825.16
+GenAvgWeight: 79.5933
+GenError: 0.439625
+
+Gen: 891
+BestSol: 6794
+GenAvgPrice: 3811.42
+GenAvgWeight: 78.65
+GenError: 0.439625
+
+Gen: 990
+BestSol: 6794
+GenAvgPrice: 3996.98
+GenAvgWeight: 79.19
+GenError: 0.439625
+
+Gen: 1089
+BestSol: 6794
+GenAvgPrice: 3746.91
+GenAvgWeight: 78.8867
+GenError: 0.439625
+
+Gen: 1188
+BestSol: 6794
+GenAvgPrice: 3872.19
+GenAvgWeight: 79.9633
+GenError: 0.439625
+
+Gen: 1287
+BestSol: 6794
+GenAvgPrice: 4107.28
+GenAvgWeight: 79.56
+GenError: 0.439625
+
+Gen: 1386
+BestSol: 6794
+GenAvgPrice: 3877.74
+GenAvgWeight: 80.3133
+GenError: 0.439625
+
+Gen: 1485
+BestSol: 6794
+GenAvgPrice: 3735.62
+GenAvgWeight: 79.8867
+GenError: 0.439625
+
+Total best: 6794
+Time: 0.319118
+Error: 0.439625
+
+Gen: 0
+BestSol: 18425
+GenAvgPrice: 14571.4
+GenAvgWeight: 1558.45
+GenError: 45.3004
+
+Gen: 99
+BestSol: 27536
+GenAvgPrice: 17209.9
+GenAvgWeight: 1555.18
+GenError: 18.252
+
+Gen: 198
+BestSol: 29320
+GenAvgPrice: 17583.7
+GenAvgWeight: 1552.98
+GenError: 12.9557
+
+Gen: 297
+BestSol: 30683
+GenAvgPrice: 18397
+GenAvgWeight: 1555.99
+GenError: 8.90927
+
+Gen: 396
+BestSol: 31023
+GenAvgPrice: 18621.2
+GenAvgWeight: 1559.02
+GenError: 7.89989
+
+Gen: 495
+BestSol: 31316
+GenAvgPrice: 17605
+GenAvgWeight: 1553.87
+GenError: 7.03004
+
+Gen: 594
+BestSol: 31516
+GenAvgPrice: 18306.6
+GenAvgWeight: 1550
+GenError: 6.43629
+
+Gen: 693
+BestSol: 31537
+GenAvgPrice: 18478
+GenAvgWeight: 1548.29
+GenError: 6.37395
+
+Gen: 792
+BestSol: 31692
+GenAvgPrice: 18675.4
+GenAvgWeight: 1544.43
+GenError: 5.91379
+
+Gen: 891
+BestSol: 31773
+GenAvgPrice: 17958.1
+GenAvgWeight: 1541.04
+GenError: 5.67332
+
+Gen: 990
+BestSol: 31957
+GenAvgPrice: 18665.4
+GenAvgWeight: 1537.35
+GenError: 5.12706
+
+Gen: 1089
+BestSol: 32196
+GenAvgPrice: 18459.6
+GenAvgWeight: 1531.06
+GenError: 4.41753
+
+Gen: 1188
+BestSol: 32233
+GenAvgPrice: 17311.7
+GenAvgWeight: 1537.4
+GenError: 4.30768
+
+Gen: 1287
+BestSol: 32317
+GenAvgPrice: 17791
+GenAvgWeight: 1534.56
+GenError: 4.05831
+
+Gen: 1386
+BestSol: 32402
+GenAvgPrice: 18612.4
+GenAvgWeight: 1534.22
+GenError: 3.80596
+
+Gen: 1485
+BestSol: 32471
+GenAvgPrice: 18674.1
+GenAvgWeight: 1526.67
+GenError: 3.60112
+
+Total best: 32471
+Time: 0.377987
+Error: 3.60112
+
+Gen: 0
+BestSol: 31519
+GenAvgPrice: 26183.8
+GenAvgWeight: 3840
+GenError: 39.9272
+
+Gen: 99
+BestSol: 41932
+GenAvgPrice: 30262.4
+GenAvgWeight: 3824.1
+GenError: 20.0808
+
+Gen: 198
+BestSol: 43979
+GenAvgPrice: 27928.7
+GenAvgWeight: 3823.04
+GenError: 16.1794
+
+Gen: 297
+BestSol: 45504
+GenAvgPrice: 28866.3
+GenAvgWeight: 3827.88
+GenError: 13.2729
+
+Gen: 396
+BestSol: 46186
+GenAvgPrice: 30219.2
+GenAvgWeight: 3826.27
+GenError: 11.973
+
+Gen: 495
+BestSol: 46480
+GenAvgPrice: 30043.2
+GenAvgWeight: 3825.64
+GenError: 11.4127
+
+Gen: 594
+BestSol: 46823
+GenAvgPrice: 30320.8
+GenAvgWeight: 3809.15
+GenError: 10.7589
+
+Gen: 693
+BestSol: 47580
+GenAvgPrice: 30152.5
+GenAvgWeight: 3802.95
+GenError: 9.31615
+
+Gen: 792
+BestSol: 48041
+GenAvgPrice: 31487.8
+GenAvgWeight: 3801.82
+GenError: 8.43752
+
+Gen: 891
+BestSol: 48440
+GenAvgPrice: 31209.1
+GenAvgWeight: 3797.79
+GenError: 7.67706
+
+Gen: 990
+BestSol: 48613
+GenAvgPrice: 29457.4
+GenAvgWeight: 3800.95
+GenError: 7.34734
+
+Gen: 1089
+BestSol: 49040
+GenAvgPrice: 30767.6
+GenAvgWeight: 3801.36
+GenError: 6.53351
+
+Gen: 1188
+BestSol: 49156
+GenAvgPrice: 29068.7
+GenAvgWeight: 3800.16
+GenError: 6.31242
+
+Gen: 1287
+BestSol: 49246
+GenAvgPrice: 28772.2
+GenAvgWeight: 3803.43
+GenError: 6.14089
+
+Gen: 1386
+BestSol: 49286
+GenAvgPrice: 29319
+GenAvgWeight: 3799.31
+GenError: 6.06465
+
+Gen: 1485
+BestSol: 49344
+GenAvgPrice: 31521.8
+GenAvgWeight: 3798.6
+GenError: 5.95411
+
+Total best: 49344
+Time: 0.427816
+Error: 5.95411
+
+Gen: 0
+BestSol: 69368
+GenAvgPrice: 61614.8
+GenAvgWeight: 12459.6
+GenError: 43.7961
+
+Gen: 99
+BestSol: 88281
+GenAvgPrice: 65844.7
+GenAvgWeight: 13387.8
+GenError: 28.4722
+
+Gen: 198
+BestSol: 95143
+GenAvgPrice: 66692.5
+GenAvgWeight: 13460.1
+GenError: 22.9124
+
+Gen: 297
+BestSol: 97489
+GenAvgPrice: 67020.3
+GenAvgWeight: 13592.4
+GenError: 21.0117
+
+Gen: 396
+BestSol: 99271
+GenAvgPrice: 66583.3
+GenAvgWeight: 13412.9
+GenError: 19.5678
+
+Gen: 495
+BestSol: 100172
+GenAvgPrice: 64137.7
+GenAvgWeight: 13025
+GenError: 18.8378
+
+Gen: 594
+BestSol: 100801
+GenAvgPrice: 66398.3
+GenAvgWeight: 13415.1
+GenError: 18.3282
+
+Gen: 693
+BestSol: 102451
+GenAvgPrice: 69973.1
+GenAvgWeight: 13954.1
+GenError: 16.9913
+
+Gen: 792
+BestSol: 104326
+GenAvgPrice: 67123.7
+GenAvgWeight: 13537.2
+GenError: 15.4721
+
+Gen: 891
+BestSol: 104451
+GenAvgPrice: 69841.8
+GenAvgWeight: 13944
+GenError: 15.3708
+
+Gen: 990
+BestSol: 105571
+GenAvgPrice: 68506.5
+GenAvgWeight: 13578.3
+GenError: 14.4634
+
+Gen: 1089
+BestSol: 106967
+GenAvgPrice: 67067.3
+GenAvgWeight: 13336.5
+GenError: 13.3323
+
+Gen: 1188
+BestSol: 107512
+GenAvgPrice: 70653.7
+GenAvgWeight: 13945.5
+GenError: 12.8907
+
+Gen: 1287
+BestSol: 107599
+GenAvgPrice: 66531
+GenAvgWeight: 13215.8
+GenError: 12.8202
+
+Gen: 1386
+BestSol: 108443
+GenAvgPrice: 67503.5
+GenAvgWeight: 13363.3
+GenError: 12.1364
+
+Gen: 1485
+BestSol: 108579
+GenAvgPrice: 66483
+GenAvgWeight: 13275.4
+GenError: 12.0262
+
+Total best: 108579
+Time: 0.451345
+Error: 12.0262
+
+Gen: 0
+BestSol: 66865
+GenAvgPrice: 60958.4
+GenAvgWeight: 12541.7
+GenError: 33.3283
+
+Gen: 99
+BestSol: 79933
+GenAvgPrice: 62086.3
+GenAvgWeight: 11839.9
+GenError: 20.2981
+
+Gen: 198
+BestSol: 82369
+GenAvgPrice: 59063.2
+GenAvgWeight: 11173.7
+GenError: 17.8692
+
+Gen: 297
+BestSol: 83265
+GenAvgPrice: 62155.7
+GenAvgWeight: 11498.6
+GenError: 16.9758
+
+Gen: 396
+BestSol: 84621
+GenAvgPrice: 58293.5
+GenAvgWeight: 10884.7
+GenError: 15.6237
+
+Gen: 495
+BestSol: 84884
+GenAvgPrice: 62066.2
+GenAvgWeight: 11209.4
+GenError: 15.3615
+
+Gen: 594
+BestSol: 85692
+GenAvgPrice: 61793.4
+GenAvgWeight: 11119.9
+GenError: 14.5558
+
+Gen: 693
+BestSol: 86251
+GenAvgPrice: 61044.9
+GenAvgWeight: 11051.8
+GenError: 13.9984
+
+Gen: 792
+BestSol: 86704
+GenAvgPrice: 60495
+GenAvgWeight: 11051.3
+GenError: 13.5467
+
+Gen: 891
+BestSol: 88027
+GenAvgPrice: 62606.7
+GenAvgWeight: 11045.5
+GenError: 12.2275
+
+Gen: 990
+BestSol: 88027
+GenAvgPrice: 61347
+GenAvgWeight: 10958.2
+GenError: 12.2275
+
+Gen: 1089
+BestSol: 88641
+GenAvgPrice: 59867.7
+GenAvgWeight: 10826.6
+GenError: 11.6153
+
+Gen: 1188
+BestSol: 88641
+GenAvgPrice: 61477.1
+GenAvgWeight: 10908.5
+GenError: 11.6153
+
+Gen: 1287
+BestSol: 88641
+GenAvgPrice: 61377.6
+GenAvgWeight: 11005
+GenError: 11.6153
+
+Gen: 1386
+BestSol: 89263
+GenAvgPrice: 62476.3
+GenAvgWeight: 10959.3
+GenError: 10.9951
+
+Gen: 1485
+BestSol: 89525
+GenAvgPrice: 62139.3
+GenAvgWeight: 11103.5
+GenError: 10.7339
+
+Total best: 89525
+Time: 0.478718
+Error: 10.7339
+
+Gen: 0
+BestSol: 71287
+GenAvgPrice: 62068.7
+GenAvgWeight: 11968.8
+GenError: 34.3799
+
+Gen: 99
+BestSol: 85716
+GenAvgPrice: 63465.4
+GenAvgWeight: 11866.4
+GenError: 21.098
+
+Gen: 198
+BestSol: 87883
+GenAvgPrice: 64343
+GenAvgWeight: 11760.5
+GenError: 19.1032
+
+Gen: 297
+BestSol: 88952
+GenAvgPrice: 61963.9
+GenAvgWeight: 11321.1
+GenError: 18.1192
+
+Gen: 396
+BestSol: 89930
+GenAvgPrice: 64460.3
+GenAvgWeight: 11493.9
+GenError: 17.219
+
+Gen: 495
+BestSol: 91446
+GenAvgPrice: 61805.3
+GenAvgWeight: 11162.2
+GenError: 15.8235
+
+Gen: 594
+BestSol: 91937
+GenAvgPrice: 63371.1
+GenAvgWeight: 11238.9
+GenError: 15.3715
+
+Gen: 693
+BestSol: 92385
+GenAvgPrice: 63395.8
+GenAvgWeight: 11190.4
+GenError: 14.9591
+
+Gen: 792
+BestSol: 92791
+GenAvgPrice: 64237.1
+GenAvgWeight: 11275.3
+GenError: 14.5854
+
+Gen: 891
+BestSol: 93323
+GenAvgPrice: 63093.6
+GenAvgWeight: 11165.7
+GenError: 14.0957
+
+Gen: 990
+BestSol: 93908
+GenAvgPrice: 62208.9
+GenAvgWeight: 11056.7
+GenError: 13.5572
+
+Gen: 1089
+BestSol: 94321
+GenAvgPrice: 63586
+GenAvgWeight: 11157.3
+GenError: 13.177
+
+Gen: 1188
+BestSol: 94556
+GenAvgPrice: 64511.7
+GenAvgWeight: 11175.3
+GenError: 12.9607
+
+Gen: 1287
+BestSol: 95094
+GenAvgPrice: 64049.2
+GenAvgWeight: 11069.6
+GenError: 12.4655
+
+Gen: 1386
+BestSol: 95176
+GenAvgPrice: 61702.8
+GenAvgWeight: 10777.9
+GenError: 12.39
+
+Gen: 1485
+BestSol: 95731
+GenAvgPrice: 61533.1
+GenAvgWeight: 10703.9
+GenError: 11.8791
+
+Total best: 95731
+Time: 0.456437
+Error: 11.8791
+
+Gen: 0
+BestSol: 50498
+GenAvgPrice: 45118.7
+GenAvgWeight: 7977.88
+GenError: 37.8195
+
+Gen: 99
+BestSol: 62565
+GenAvgPrice: 47263.6
+GenAvgWeight: 7953.67
+GenError: 22.9609
+
+Gen: 198
+BestSol: 64837
+GenAvgPrice: 47697.7
+GenAvgWeight: 7921.81
+GenError: 20.1633
+
+Gen: 297
+BestSol: 67205
+GenAvgPrice: 50220.1
+GenAvgWeight: 7877.77
+GenError: 17.2475
+
+Gen: 396
+BestSol: 67461
+GenAvgPrice: 48828.1
+GenAvgWeight: 7799.76
+GenError: 16.9322
+
+Gen: 495
+BestSol: 68199
+GenAvgPrice: 48792.1
+GenAvgWeight: 7719.98
+GenError: 16.0235
+
+Gen: 594
+BestSol: 69659
+GenAvgPrice: 48754.3
+GenAvgWeight: 7725.33
+GenError: 14.2257
+
+Gen: 693
+BestSol: 71191
+GenAvgPrice: 48268.3
+GenAvgWeight: 7686.4
+GenError: 12.3393
+
+Gen: 792
+BestSol: 72091
+GenAvgPrice: 50332.9
+GenAvgWeight: 7698.31
+GenError: 11.2311
+
+Gen: 891
+BestSol: 72794
+GenAvgPrice: 50834
+GenAvgWeight: 7678.07
+GenError: 10.3655
+
+Gen: 990
+BestSol: 72827
+GenAvgPrice: 50282.1
+GenAvgWeight: 7666.13
+GenError: 10.3248
+
+Gen: 1089
+BestSol: 73038
+GenAvgPrice: 49725.4
+GenAvgWeight: 7633.21
+GenError: 10.065
+
+Gen: 1188
+BestSol: 73363
+GenAvgPrice: 51062.6
+GenAvgWeight: 7613.56
+GenError: 9.66483
+
+Gen: 1287
+BestSol: 73363
+GenAvgPrice: 51263.8
+GenAvgWeight: 7626.92
+GenError: 9.66483
+
+Gen: 1386
+BestSol: 73828
+GenAvgPrice: 54347.4
+GenAvgWeight: 7669.83
+GenError: 9.09225
+
+Gen: 1485
+BestSol: 73828
+GenAvgPrice: 50230.6
+GenAvgWeight: 7583.72
+GenError: 9.09225
+
+Total best: 73828
+Time: 0.469648
+Error: 9.09225
+
+Gen: 0
+BestSol: 55564
+GenAvgPrice: 48043.6
+GenAvgWeight: 9056.25
+GenError: 35.066
+
+Gen: 99
+BestSol: 65451
+GenAvgPrice: 49888.5
+GenAvgWeight: 8955.42
+GenError: 23.5117
+
+Gen: 198
+BestSol: 68882
+GenAvgPrice: 52023.2
+GenAvgWeight: 8804.75
+GenError: 19.5022
+
+Gen: 297
+BestSol: 70791
+GenAvgPrice: 51706.8
+GenAvgWeight: 8742.62
+GenError: 17.2712
+
+Gen: 396
+BestSol: 72126
+GenAvgPrice: 50906.1
+GenAvgWeight: 8636.04
+GenError: 15.7111
+
+Gen: 495
+BestSol: 72993
+GenAvgPrice: 50672.2
+GenAvgWeight: 8559.93
+GenError: 14.6979
+
+Gen: 594
+BestSol: 73361
+GenAvgPrice: 50446.8
+GenAvgWeight: 8559.08
+GenError: 14.2679
+
+Gen: 693
+BestSol: 73384
+GenAvgPrice: 51032.4
+GenAvgWeight: 8451.84
+GenError: 14.241
+
+Gen: 792
+BestSol: 74196
+GenAvgPrice: 50719.9
+GenAvgWeight: 8414.3
+GenError: 13.292
+
+Gen: 891
+BestSol: 74317
+GenAvgPrice: 52978.6
+GenAvgWeight: 8485.15
+GenError: 13.1506
+
+Gen: 990
+BestSol: 74533
+GenAvgPrice: 51673.8
+GenAvgWeight: 8355.31
+GenError: 12.8982
+
+Gen: 1089
+BestSol: 75056
+GenAvgPrice: 52609.2
+GenAvgWeight: 8399.72
+GenError: 12.287
+
+Gen: 1188
+BestSol: 75583
+GenAvgPrice: 51481.7
+GenAvgWeight: 8350.91
+GenError: 11.6711
+
+Gen: 1287
+BestSol: 75583
+GenAvgPrice: 52053.2
+GenAvgWeight: 8305.34
+GenError: 11.6711
+
+Gen: 1386
+BestSol: 75976
+GenAvgPrice: 52287
+GenAvgWeight: 8315.45
+GenError: 11.2119
+
+Gen: 1485
+BestSol: 76015
+GenAvgPrice: 51471.4
+GenAvgWeight: 8224.23
+GenError: 11.1663
+
+Total best: 76015
+Time: 0.472587
+Error: 11.1663
+
+Gen: 0
+BestSol: 47292
+GenAvgPrice: 42308.6
+GenAvgWeight: 6758.89
+GenError: 41.0434
+
+Gen: 99
+BestSol: 61668
+GenAvgPrice: 44879.6
+GenAvgWeight: 6746.25
+GenError: 23.1216
+
+Gen: 198
+BestSol: 63990
+GenAvgPrice: 46706.7
+GenAvgWeight: 6753.48
+GenError: 20.2269
+
+Gen: 297
+BestSol: 65622
+GenAvgPrice: 45899.8
+GenAvgWeight: 6720.94
+GenError: 18.1924
+
+Gen: 396
+BestSol: 66970
+GenAvgPrice: 47027.3
+GenAvgWeight: 6723.28
+GenError: 16.5119
+
+Gen: 495
+BestSol: 67689
+GenAvgPrice: 45725.9
+GenAvgWeight: 6712.88
+GenError: 15.6155
+
+Gen: 594
+BestSol: 68334
+GenAvgPrice: 47274.9
+GenAvgWeight: 6716.1
+GenError: 14.8114
+
+Gen: 693
+BestSol: 68689
+GenAvgPrice: 46506.3
+GenAvgWeight: 6703.4
+GenError: 14.3689
+
+Gen: 792
+BestSol: 69334
+GenAvgPrice: 49018.5
+GenAvgWeight: 6703.29
+GenError: 13.5648
+
+Gen: 891
+BestSol: 69862
+GenAvgPrice: 47308
+GenAvgWeight: 6687.4
+GenError: 12.9066
+
+Gen: 990
+BestSol: 70312
+GenAvgPrice: 46672.6
+GenAvgWeight: 6677.34
+GenError: 12.3456
+
+Gen: 1089
+BestSol: 70964
+GenAvgPrice: 48666.4
+GenAvgWeight: 6661.97
+GenError: 11.5328
+
+Gen: 1188
+BestSol: 71008
+GenAvgPrice: 50411.7
+GenAvgWeight: 6647.8
+GenError: 11.4779
+
+Gen: 1287
+BestSol: 71542
+GenAvgPrice: 48573.3
+GenAvgWeight: 6609.61
+GenError: 10.8122
+
+Gen: 1386
+BestSol: 71823
+GenAvgPrice: 47234.1
+GenAvgWeight: 6582.24
+GenError: 10.4619
+
+Gen: 1485
+BestSol: 72036
+GenAvgPrice: 46774.8
+GenAvgWeight: 6561.02
+GenError: 10.1963
+
+Total best: 72036
+Time: 0.461689
+Error: 10.1963
+
+Gen: 0
+BestSol: 70651
+GenAvgPrice: 61938
+GenAvgWeight: 12869.4
+GenError: 43.7138
+
+Gen: 99
+BestSol: 90870
+GenAvgPrice: 64936.6
+GenAvgWeight: 13283.9
+GenError: 27.6057
+
+Gen: 198
+BestSol: 94730
+GenAvgPrice: 67755.6
+GenAvgWeight: 13870.2
+GenError: 24.5306
+
+Gen: 297
+BestSol: 97865
+GenAvgPrice: 67480.4
+GenAvgWeight: 13926.1
+GenError: 22.033
+
+Gen: 396
+BestSol: 98971
+GenAvgPrice: 65152.1
+GenAvgWeight: 13507.1
+GenError: 21.1518
+
+Gen: 495
+BestSol: 101028
+GenAvgPrice: 69220.9
+GenAvgWeight: 14216.6
+GenError: 19.5131
+
+Gen: 594
+BestSol: 102498
+GenAvgPrice: 70542
+GenAvgWeight: 14468.1
+GenError: 18.342
+
+Gen: 693
+BestSol: 104256
+GenAvgPrice: 69460.5
+GenAvgWeight: 14328.7
+GenError: 16.9414
+
+Gen: 792
+BestSol: 105376
+GenAvgPrice: 70984.7
+GenAvgWeight: 14574.7
+GenError: 16.0491
+
+Gen: 891
+BestSol: 105376
+GenAvgPrice: 71102.2
+GenAvgWeight: 14481.7
+GenError: 16.0491
+
+Gen: 990
+BestSol: 106312
+GenAvgPrice: 70848.3
+GenAvgWeight: 14393.5
+GenError: 15.3034
+
+Gen: 1089
+BestSol: 106844
+GenAvgPrice: 70728
+GenAvgWeight: 14435.3
+GenError: 14.8796
+
+Gen: 1188
+BestSol: 107672
+GenAvgPrice: 68994.9
+GenAvgWeight: 14159.4
+GenError: 14.2199
+
+Gen: 1287
+BestSol: 108607
+GenAvgPrice: 71204.1
+GenAvgWeight: 14464.6
+GenError: 13.475
+
+Gen: 1386
+BestSol: 109069
+GenAvgPrice: 70480.7
+GenAvgWeight: 14238.8
+GenError: 13.107
+
+Gen: 1485
+BestSol: 109832
+GenAvgPrice: 71239.8
+GenAvgWeight: 14418.3
+GenError: 12.4991
+
+Total best: 109832
+Time: 0.455225
+Error: 12.4991
+
+Gen: 0
+BestSol: 67777
+GenAvgPrice: 60274.9
+GenAvgWeight: 12102.6
+GenError: 44.9209
+
+Gen: 99
+BestSol: 87566
+GenAvgPrice: 64525.8
+GenAvgWeight: 12723
+GenError: 28.8394
+
+Gen: 198
+BestSol: 92722
+GenAvgPrice: 64198.7
+GenAvgWeight: 12758.1
+GenError: 24.6493
+
+Gen: 297
+BestSol: 94572
+GenAvgPrice: 64272.5
+GenAvgWeight: 12543.5
+GenError: 23.1459
+
+Gen: 396
+BestSol: 97898
+GenAvgPrice: 64316.6
+GenAvgWeight: 12498.9
+GenError: 20.4431
+
+Gen: 495
+BestSol: 99783
+GenAvgPrice: 62852.9
+GenAvgWeight: 12372.4
+GenError: 18.9112
+
+Gen: 594
+BestSol: 100394
+GenAvgPrice: 65985.9
+GenAvgWeight: 12873.8
+GenError: 18.4147
+
+Gen: 693
+BestSol: 101094
+GenAvgPrice: 67087.4
+GenAvgWeight: 13038.5
+GenError: 17.8458
+
+Gen: 792
+BestSol: 102408
+GenAvgPrice: 67060.3
+GenAvgWeight: 13048
+GenError: 16.778
+
+Gen: 891
+BestSol: 102726
+GenAvgPrice: 67703
+GenAvgWeight: 13155.7
+GenError: 16.5196
+
+Gen: 990
+BestSol: 103590
+GenAvgPrice: 65474.4
+GenAvgWeight: 12823.7
+GenError: 15.8174
+
+Gen: 1089
+BestSol: 104228
+GenAvgPrice: 66470.4
+GenAvgWeight: 12945.7
+GenError: 15.299
+
+Gen: 1188
+BestSol: 104947
+GenAvgPrice: 64892.2
+GenAvgWeight: 12815
+GenError: 14.7147
+
+Gen: 1287
+BestSol: 105497
+GenAvgPrice: 67099.9
+GenAvgWeight: 13109.3
+GenError: 14.2677
+
+Gen: 1386
+BestSol: 105735
+GenAvgPrice: 65794.1
+GenAvgWeight: 12973.7
+GenError: 14.0743
+
+Gen: 1485
+BestSol: 106053
+GenAvgPrice: 66014.7
+GenAvgWeight: 12988.8
+GenError: 13.8159
+
+Total best: 106053
+Time: 0.454648
+Error: 13.8159
+
+Gen: 0
+BestSol: 63053
+GenAvgPrice: 57402.5
+GenAvgWeight: 11699.6
+GenError: 33.989
+
+Gen: 99
+BestSol: 73616
+GenAvgPrice: 57811.2
+GenAvgWeight: 11073
+GenError: 22.9305
+
+Gen: 198
+BestSol: 78384
+GenAvgPrice: 59338.3
+GenAvgWeight: 10917.8
+GenError: 17.9388
+
+Gen: 297
+BestSol: 79853
+GenAvgPrice: 61190.2
+GenAvgWeight: 10863.6
+GenError: 16.4009
+
+Gen: 396
+BestSol: 81525
+GenAvgPrice: 57640.6
+GenAvgWeight: 10606.1
+GenError: 14.6505
+
+Gen: 495
+BestSol: 81691
+GenAvgPrice: 58898.2
+GenAvgWeight: 10626
+GenError: 14.4767
+
+Gen: 594
+BestSol: 81895
+GenAvgPrice: 60845
+GenAvgWeight: 10681.7
+GenError: 14.2631
+
+Gen: 693
+BestSol: 82400
+GenAvgPrice: 60942.2
+GenAvgWeight: 10570.4
+GenError: 13.7344
+
+Gen: 792
+BestSol: 82835
+GenAvgPrice: 58540.4
+GenAvgWeight: 10299.7
+GenError: 13.279
+
+Gen: 891
+BestSol: 83845
+GenAvgPrice: 57805.7
+GenAvgWeight: 10173.4
+GenError: 12.2217
+
+Gen: 990
+BestSol: 84467
+GenAvgPrice: 56571.7
+GenAvgWeight: 10026.2
+GenError: 11.5705
+
+Gen: 1089
+BestSol: 84755
+GenAvgPrice: 57127.9
+GenAvgWeight: 10108.7
+GenError: 11.269
+
+Gen: 1188
+BestSol: 84809
+GenAvgPrice: 60142.7
+GenAvgWeight: 10235.1
+GenError: 11.2124
+
+Gen: 1287
+BestSol: 85091
+GenAvgPrice: 58027
+GenAvgWeight: 10051.1
+GenError: 10.9172
+
+Gen: 1386
+BestSol: 85091
+GenAvgPrice: 56592.1
+GenAvgWeight: 9991.86
+GenError: 10.9172
+
+Gen: 1485
+BestSol: 85106
+GenAvgPrice: 59263.4
+GenAvgWeight: 10243.4
+GenError: 10.9015
+
+Total best: 85106
+Time: 0.459808
+Error: 10.9015
+
+Gen: 0
+BestSol: 17534
+GenAvgPrice: 13098.5
+GenAvgWeight: 1177.3
+GenError: 42.9288
+
+Gen: 99
+BestSol: 25861
+GenAvgPrice: 15805.9
+GenAvgWeight: 1172.38
+GenError: 15.8253
+
+Gen: 198
+BestSol: 27487
+GenAvgPrice: 16410.8
+GenAvgWeight: 1173.31
+GenError: 10.5328
+
+Gen: 297
+BestSol: 28438
+GenAvgPrice: 17674.5
+GenAvgWeight: 1168.73
+GenError: 7.43742
+
+Gen: 396
+BestSol: 28960
+GenAvgPrice: 16114.2
+GenAvgWeight: 1164.95
+GenError: 5.73837
+
+Gen: 495
+BestSol: 29208
+GenAvgPrice: 17274.4
+GenAvgWeight: 1153.69
+GenError: 4.93116
+
+Gen: 594
+BestSol: 29208
+GenAvgPrice: 16253.8
+GenAvgWeight: 1150.16
+GenError: 4.93116
+
+Gen: 693
+BestSol: 29332
+GenAvgPrice: 16345.9
+GenAvgWeight: 1147.63
+GenError: 4.52755
+
+Gen: 792
+BestSol: 29565
+GenAvgPrice: 17069.5
+GenAvgWeight: 1147.63
+GenError: 3.76916
+
+Gen: 891
+BestSol: 29641
+GenAvgPrice: 18498
+GenAvgWeight: 1144.3
+GenError: 3.52179
+
+Gen: 990
+BestSol: 29641
+GenAvgPrice: 17977.7
+GenAvgWeight: 1145.32
+GenError: 3.52179
+
+Gen: 1089
+BestSol: 29673
+GenAvgPrice: 17884.6
+GenAvgWeight: 1143.23
+GenError: 3.41763
+
+Gen: 1188
+BestSol: 29912
+GenAvgPrice: 16320.8
+GenAvgWeight: 1139.94
+GenError: 2.63972
+
+Gen: 1287
+BestSol: 29912
+GenAvgPrice: 17711
+GenAvgWeight: 1134.46
+GenError: 2.63972
+
+Gen: 1386
+BestSol: 29914
+GenAvgPrice: 16838
+GenAvgWeight: 1138.56
+GenError: 2.63321
+
+Gen: 1485
+BestSol: 29970
+GenAvgPrice: 17221.3
+GenAvgWeight: 1133.6
+GenError: 2.45093
+
+Total best: 29970
+Time: 0.384811
+Error: 2.45093
+
+Gen: 0
+BestSol: 23520
+GenAvgPrice: 18339.3
+GenAvgWeight: 1727.2
+GenError: 41.9904
+
+Gen: 99
+BestSol: 33028
+GenAvgPrice: 20637.8
+GenAvgWeight: 1717.08
+GenError: 18.5399
+
+Gen: 198
+BestSol: 35285
+GenAvgPrice: 21771.7
+GenAvgWeight: 1714.34
+GenError: 12.9732
+
+Gen: 297
+BestSol: 36786
+GenAvgPrice: 21876.8
+GenAvgWeight: 1717.99
+GenError: 9.27118
+
+Gen: 396
+BestSol: 37158
+GenAvgPrice: 20806.1
+GenAvgWeight: 1719.63
+GenError: 8.35368
+
+Gen: 495
+BestSol: 37447
+GenAvgPrice: 19628.5
+GenAvgWeight: 1721.86
+GenError: 7.64089
+
+Gen: 594
+BestSol: 37655
+GenAvgPrice: 22301.1
+GenAvgWeight: 1723.12
+GenError: 7.12788
+
+Gen: 693
+BestSol: 38110
+GenAvgPrice: 21929.1
+GenAvgWeight: 1719.49
+GenError: 6.00567
+
+Gen: 792
+BestSol: 38198
+GenAvgPrice: 21611
+GenAvgWeight: 1718.53
+GenError: 5.78863
+
+Gen: 891
+BestSol: 38348
+GenAvgPrice: 23563.5
+GenAvgWeight: 1716.51
+GenError: 5.41867
+
+Gen: 990
+BestSol: 38562
+GenAvgPrice: 20624.2
+GenAvgWeight: 1722.19
+GenError: 4.89086
+
+Gen: 1089
+BestSol: 38623
+GenAvgPrice: 23244.7
+GenAvgWeight: 1714.83
+GenError: 4.74041
+
+Gen: 1188
+BestSol: 38818
+GenAvgPrice: 23706.6
+GenAvgWeight: 1711.07
+GenError: 4.25946
+
+Gen: 1287
+BestSol: 38990
+GenAvgPrice: 24075.4
+GenAvgWeight: 1706.51
+GenError: 3.83524
+
+Gen: 1386
+BestSol: 39078
+GenAvgPrice: 21924
+GenAvgWeight: 1699.8
+GenError: 3.6182
+
+Gen: 1485
+BestSol: 39196
+GenAvgPrice: 21666.1
+GenAvgWeight: 1703.34
+GenError: 3.32717
+
+Total best: 39196
+Time: 0.395998
+Error: 3.32717
+
+Gen: 0
+BestSol: 58705
+GenAvgPrice: 52319.8
+GenAvgWeight: 9031.66
+GenError: 37.1548
+
+Gen: 99
+BestSol: 70906
+GenAvgPrice: 54982
+GenAvgWeight: 8772.43
+GenError: 24.0933
+
+Gen: 198
+BestSol: 74037
+GenAvgPrice: 54180.6
+GenAvgWeight: 8805.35
+GenError: 20.7414
+
+Gen: 297
+BestSol: 75230
+GenAvgPrice: 54600
+GenAvgWeight: 8587.39
+GenError: 19.4643
+
+Gen: 396
+BestSol: 77612
+GenAvgPrice: 55598.9
+GenAvgWeight: 8505.2
+GenError: 16.9143
+
+Gen: 495
+BestSol: 77935
+GenAvgPrice: 56244.2
+GenAvgWeight: 8472.89
+GenError: 16.5685
+
+Gen: 594
+BestSol: 78622
+GenAvgPrice: 57983.7
+GenAvgWeight: 8543.48
+GenError: 15.8331
+
+Gen: 693
+BestSol: 79394
+GenAvgPrice: 55113.5
+GenAvgWeight: 8474.29
+GenError: 15.0066
+
+Gen: 792
+BestSol: 79856
+GenAvgPrice: 56547.2
+GenAvgWeight: 8457.98
+GenError: 14.5121
+
+Gen: 891
+BestSol: 80455
+GenAvgPrice: 55813.1
+GenAvgWeight: 8409.12
+GenError: 13.8708
+
+Gen: 990
+BestSol: 80455
+GenAvgPrice: 56881.5
+GenAvgWeight: 8437.05
+GenError: 13.8708
+
+Gen: 1089
+BestSol: 80719
+GenAvgPrice: 56029.1
+GenAvgWeight: 8355.76
+GenError: 13.5882
+
+Gen: 1188
+BestSol: 80938
+GenAvgPrice: 56547.5
+GenAvgWeight: 8360.84
+GenError: 13.3537
+
+Gen: 1287
+BestSol: 81672
+GenAvgPrice: 54188.6
+GenAvgWeight: 8251.12
+GenError: 12.568
+
+Gen: 1386
+BestSol: 81816
+GenAvgPrice: 56399.1
+GenAvgWeight: 8463.09
+GenError: 12.4138
+
+Gen: 1485
+BestSol: 81998
+GenAvgPrice: 56022.8
+GenAvgWeight: 8256.94
+GenError: 12.219
+
+Total best: 81998
+Time: 0.475415
+Error: 12.219
+
+Gen: 0
+BestSol: 55615
+GenAvgPrice: 49849.6
+GenAvgWeight: 9606.75
+GenError: 36.9887
+
+Gen: 99
+BestSol: 68721
+GenAvgPrice: 54773.6
+GenAvgWeight: 9430.24
+GenError: 22.1398
+
+Gen: 198
+BestSol: 70620
+GenAvgPrice: 51703.4
+GenAvgWeight: 9359.69
+GenError: 19.9882
+
+Gen: 297
+BestSol: 73389
+GenAvgPrice: 53826.5
+GenAvgWeight: 9232.04
+GenError: 16.851
+
+Gen: 396
+BestSol: 74635
+GenAvgPrice: 54658.2
+GenAvgWeight: 9161.28
+GenError: 15.4393
+
+Gen: 495
+BestSol: 74635
+GenAvgPrice: 53785
+GenAvgWeight: 9095.13
+GenError: 15.4393
+
+Gen: 594
+BestSol: 75610
+GenAvgPrice: 54664.5
+GenAvgWeight: 9089.31
+GenError: 14.3346
+
+Gen: 693
+BestSol: 76015
+GenAvgPrice: 56247
+GenAvgWeight: 9010.46
+GenError: 13.8757
+
+Gen: 792
+BestSol: 76278
+GenAvgPrice: 53831.2
+GenAvgWeight: 8930.75
+GenError: 13.5778
+
+Gen: 891
+BestSol: 77025
+GenAvgPrice: 55373.2
+GenAvgWeight: 8978.18
+GenError: 12.7314
+
+Gen: 990
+BestSol: 77195
+GenAvgPrice: 51601.1
+GenAvgWeight: 8768.12
+GenError: 12.5388
+
+Gen: 1089
+BestSol: 77417
+GenAvgPrice: 54209.6
+GenAvgWeight: 8896.73
+GenError: 12.2873
+
+Gen: 1188
+BestSol: 77861
+GenAvgPrice: 54349.9
+GenAvgWeight: 8970.89
+GenError: 11.7842
+
+Gen: 1287
+BestSol: 77861
+GenAvgPrice: 54802.6
+GenAvgWeight: 8891.19
+GenError: 11.7842
+
+Gen: 1386
+BestSol: 78213
+GenAvgPrice: 53540
+GenAvgWeight: 8789.01
+GenError: 11.3854
+
+Gen: 1485
+BestSol: 78977
+GenAvgPrice: 53059.5
+GenAvgWeight: 8851.42
+GenError: 10.5198
+
+Total best: 78977
+Time: 0.468818
+Error: 10.5198
+
+Gen: 0
+BestSol: 23885
+GenAvgPrice: 19528
+GenAvgWeight: 2027.82
+GenError: 44.4819
+
+Gen: 99
+BestSol: 33970
+GenAvgPrice: 23504.4
+GenAvgWeight: 2026.1
+GenError: 21.0404
+
+Gen: 198
+BestSol: 36445
+GenAvgPrice: 23503.9
+GenAvgWeight: 2017.75
+GenError: 15.2875
+
+Gen: 297
+BestSol: 37019
+GenAvgPrice: 23239.3
+GenAvgWeight: 2012.4
+GenError: 13.9533
+
+Gen: 396
+BestSol: 37952
+GenAvgPrice: 23411.4
+GenAvgWeight: 2008.87
+GenError: 11.7847
+
+Gen: 495
+BestSol: 38649
+GenAvgPrice: 21036.3
+GenAvgWeight: 2001.87
+GenError: 10.1646
+
+Gen: 594
+BestSol: 39399
+GenAvgPrice: 23892.3
+GenAvgWeight: 1997.48
+GenError: 8.42127
+
+Gen: 693
+BestSol: 39658
+GenAvgPrice: 24058.6
+GenAvgWeight: 1995.93
+GenError: 7.81926
+
+Gen: 792
+BestSol: 39868
+GenAvgPrice: 23715.7
+GenAvgWeight: 1996.35
+GenError: 7.33113
+
+Gen: 891
+BestSol: 40355
+GenAvgPrice: 23313.7
+GenAvgWeight: 1999.08
+GenError: 6.19915
+
+Gen: 990
+BestSol: 40355
+GenAvgPrice: 25649.9
+GenAvgWeight: 1996.83
+GenError: 6.19915
+
+Gen: 1089
+BestSol: 40664
+GenAvgPrice: 24393
+GenAvgWeight: 1999.5
+GenError: 5.48092
+
+Gen: 1188
+BestSol: 40664
+GenAvgPrice: 23896.5
+GenAvgWeight: 1994.81
+GenError: 5.48092
+
+Gen: 1287
+BestSol: 40770
+GenAvgPrice: 23762.2
+GenAvgWeight: 1996.06
+GenError: 5.23453
+
+Gen: 1386
+BestSol: 41013
+GenAvgPrice: 23049.5
+GenAvgWeight: 1996.23
+GenError: 4.6697
+
+Gen: 1485
+BestSol: 41013
+GenAvgPrice: 23508.7
+GenAvgWeight: 1989.37
+GenError: 4.6697
+
+Total best: 41013
+Time: 0.396269
+Error: 4.6697
+
+Gen: 0
+BestSol: 70349
+GenAvgPrice: 62557.4
+GenAvgWeight: 12217.9
+GenError: 44.5258
+
+Gen: 99
+BestSol: 92273
+GenAvgPrice: 68208.6
+GenAvgWeight: 13149.2
+GenError: 27.2375
+
+Gen: 198
+BestSol: 95889
+GenAvgPrice: 68892.6
+GenAvgWeight: 13083.7
+GenError: 24.3861
+
+Gen: 297
+BestSol: 99249
+GenAvgPrice: 67141.4
+GenAvgWeight: 12670.5
+GenError: 21.7366
+
+Gen: 396
+BestSol: 101002
+GenAvgPrice: 68514
+GenAvgWeight: 12885.6
+GenError: 20.3542
+
+Gen: 495
+BestSol: 103176
+GenAvgPrice: 68657.1
+GenAvgWeight: 12997.7
+GenError: 18.6399
+
+Gen: 594
+BestSol: 104260
+GenAvgPrice: 70252.1
+GenAvgWeight: 13380.7
+GenError: 17.7851
+
+Gen: 693
+BestSol: 105201
+GenAvgPrice: 67331
+GenAvgWeight: 12913.7
+GenError: 17.0431
+
+Gen: 792
+BestSol: 105720
+GenAvgPrice: 67454.2
+GenAvgWeight: 13019.6
+GenError: 16.6338
+
+Gen: 891
+BestSol: 106192
+GenAvgPrice: 69758.8
+GenAvgWeight: 13232.5
+GenError: 16.2616
+
+Gen: 990
+BestSol: 106746
+GenAvgPrice: 64281.9
+GenAvgWeight: 12316.2
+GenError: 15.8248
+
+Gen: 1089
+BestSol: 107557
+GenAvgPrice: 69462
+GenAvgWeight: 13187.6
+GenError: 15.1852
+
+Gen: 1188
+BestSol: 107876
+GenAvgPrice: 67955.3
+GenAvgWeight: 13001.3
+GenError: 14.9337
+
+Gen: 1287
+BestSol: 109393
+GenAvgPrice: 68566.9
+GenAvgWeight: 13073.9
+GenError: 13.7374
+
+Gen: 1386
+BestSol: 109443
+GenAvgPrice: 70528.1
+GenAvgWeight: 13446.5
+GenError: 13.698
+
+Gen: 1485
+BestSol: 109673
+GenAvgPrice: 70931.2
+GenAvgWeight: 13401.9
+GenError: 13.5166
+
+Total best: 109673
+Time: 0.46971
+Error: 13.5166
+
+Gen: 0
+BestSol: 22007
+GenAvgPrice: 17758.9
+GenAvgWeight: 1928.07
+GenError: 44.6685
+
+Gen: 99
+BestSol: 32503
+GenAvgPrice: 20792.8
+GenAvgWeight: 1924.02
+GenError: 18.2787
+
+Gen: 198
+BestSol: 34028
+GenAvgPrice: 22434.6
+GenAvgWeight: 1921.78
+GenError: 14.4445
+
+Gen: 297
+BestSol: 34913
+GenAvgPrice: 21002.6
+GenAvgWeight: 1920.81
+GenError: 12.2193
+
+Gen: 396
+BestSol: 35629
+GenAvgPrice: 21404.2
+GenAvgWeight: 1920.28
+GenError: 10.4191
+
+Gen: 495
+BestSol: 36330
+GenAvgPrice: 21505
+GenAvgWeight: 1920.63
+GenError: 8.65663
+
+Gen: 594
+BestSol: 36442
+GenAvgPrice: 22455
+GenAvgWeight: 1909.26
+GenError: 8.37503
+
+Gen: 693
+BestSol: 37006
+GenAvgPrice: 20607.5
+GenAvgWeight: 1903.05
+GenError: 6.95698
+
+Gen: 792
+BestSol: 37415
+GenAvgPrice: 21932.9
+GenAvgWeight: 1904.6
+GenError: 5.92865
+
+Gen: 891
+BestSol: 37440
+GenAvgPrice: 22516.6
+GenAvgWeight: 1897.98
+GenError: 5.86579
+
+Gen: 990
+BestSol: 37567
+GenAvgPrice: 22947
+GenAvgWeight: 1901.58
+GenError: 5.54648
+
+Gen: 1089
+BestSol: 37640
+GenAvgPrice: 20419.9
+GenAvgWeight: 1904.14
+GenError: 5.36293
+
+Gen: 1188
+BestSol: 37854
+GenAvgPrice: 21737.8
+GenAvgWeight: 1901.24
+GenError: 4.82488
+
+Gen: 1287
+BestSol: 37967
+GenAvgPrice: 21070.9
+GenAvgWeight: 1898.53
+GenError: 4.54077
+
+Gen: 1386
+BestSol: 38017
+GenAvgPrice: 22340.1
+GenAvgWeight: 1898.25
+GenError: 4.41506
+
+Gen: 1485
+BestSol: 38054
+GenAvgPrice: 21336.2
+GenAvgWeight: 1901.47
+GenError: 4.32203
+
+Total best: 38054
+Time: 0.389753
+Error: 4.32203
+
+Gen: 0
+BestSol: 36338
+GenAvgPrice: 31301.3
+GenAvgWeight: 4831.41
+GenError: 40.7307
+
+Gen: 99
+BestSol: 47118
+GenAvgPrice: 35035
+GenAvgWeight: 4821.55
+GenError: 23.1479
+
+Gen: 198
+BestSol: 49823
+GenAvgPrice: 35528.6
+GenAvgWeight: 4828.4
+GenError: 18.7359
+
+Gen: 297
+BestSol: 51742
+GenAvgPrice: 31810.9
+GenAvgWeight: 4816.7
+GenError: 15.6059
+
+Gen: 396
+BestSol: 52513
+GenAvgPrice: 34603
+GenAvgWeight: 4825.63
+GenError: 14.3484
+
+Gen: 495
+BestSol: 52846
+GenAvgPrice: 35096.6
+GenAvgWeight: 4826.63
+GenError: 13.8053
+
+Gen: 594
+BestSol: 53646
+GenAvgPrice: 35346.4
+GenAvgWeight: 4812.74
+GenError: 12.5004
+
+Gen: 693
+BestSol: 53654
+GenAvgPrice: 35233.4
+GenAvgWeight: 4816.11
+GenError: 12.4874
+
+Gen: 792
+BestSol: 54480
+GenAvgPrice: 34864.2
+GenAvgWeight: 4802.65
+GenError: 11.1401
+
+Gen: 891
+BestSol: 55315
+GenAvgPrice: 34685
+GenAvgWeight: 4794.45
+GenError: 9.77818
+
+Gen: 990
+BestSol: 55459
+GenAvgPrice: 36127.8
+GenAvgWeight: 4786.16
+GenError: 9.5433
+
+Gen: 1089
+BestSol: 55459
+GenAvgPrice: 35763.1
+GenAvgWeight: 4777.47
+GenError: 9.5433
+
+Gen: 1188
+BestSol: 55861
+GenAvgPrice: 36299
+GenAvgWeight: 4775.5
+GenError: 8.88762
+
+Gen: 1287
+BestSol: 55861
+GenAvgPrice: 36023.9
+GenAvgWeight: 4762.59
+GenError: 8.88762
+
+Gen: 1386
+BestSol: 55864
+GenAvgPrice: 34905.9
+GenAvgWeight: 4747.32
+GenError: 8.88273
+
+Gen: 1485
+BestSol: 56058
+GenAvgPrice: 34254.7
+GenAvgWeight: 4751.51
+GenError: 8.5663
+
+Total best: 56058
+Time: 0.457088
+Error: 8.5663
+
+Gen: 0
+BestSol: 66845
+GenAvgPrice: 59408.6
+GenAvgWeight: 12287.8
+GenError: 44.7178
+
+Gen: 99
+BestSol: 86607
+GenAvgPrice: 63458.8
+GenAvgWeight: 12917.6
+GenError: 28.3742
+
+Gen: 198
+BestSol: 91050
+GenAvgPrice: 61933.6
+GenAvgWeight: 12650.9
+GenError: 24.6998
+
+Gen: 297
+BestSol: 95472
+GenAvgPrice: 66566.9
+GenAvgWeight: 13515.5
+GenError: 21.0427
+
+Gen: 396
+BestSol: 96436
+GenAvgPrice: 62382.8
+GenAvgWeight: 12864.5
+GenError: 20.2455
+
+Gen: 495
+BestSol: 97868
+GenAvgPrice: 62841.8
+GenAvgWeight: 12926.8
+GenError: 19.0612
+
+Gen: 594
+BestSol: 98653
+GenAvgPrice: 67881.8
+GenAvgWeight: 13755.4
+GenError: 18.412
+
+Gen: 693
+BestSol: 99996
+GenAvgPrice: 64001.4
+GenAvgWeight: 13109.2
+GenError: 17.3013
+
+Gen: 792
+BestSol: 100559
+GenAvgPrice: 67152.5
+GenAvgWeight: 13635.6
+GenError: 16.8357
+
+Gen: 891
+BestSol: 101540
+GenAvgPrice: 63822.8
+GenAvgWeight: 13054.3
+GenError: 16.0243
+
+Gen: 990
+BestSol: 102048
+GenAvgPrice: 67941.6
+GenAvgWeight: 13748.9
+GenError: 15.6042
+
+Gen: 1089
+BestSol: 102719
+GenAvgPrice: 67449.8
+GenAvgWeight: 13611
+GenError: 15.0493
+
+Gen: 1188
+BestSol: 103225
+GenAvgPrice: 66309.1
+GenAvgWeight: 13442.3
+GenError: 14.6308
+
+Gen: 1287
+BestSol: 103525
+GenAvgPrice: 62542.4
+GenAvgWeight: 12787.6
+GenError: 14.3827
+
+Gen: 1386
+BestSol: 103704
+GenAvgPrice: 65723.2
+GenAvgWeight: 13296.8
+GenError: 14.2347
+
+Gen: 1485
+BestSol: 103814
+GenAvgPrice: 66291.8
+GenAvgWeight: 13438.4
+GenError: 14.1437
+
+Total best: 103886
+Time: 0.465303
+Error: 14.0842
+
+Gen: 0
+BestSol: 59483
+GenAvgPrice: 52335.3
+GenAvgWeight: 9773.78
+GenError: 35.9213
+
+Gen: 99
+BestSol: 71215
+GenAvgPrice: 55681.4
+GenAvgWeight: 9563.13
+GenError: 23.2828
+
+Gen: 198
+BestSol: 73704
+GenAvgPrice: 56440.3
+GenAvgWeight: 9459.61
+GenError: 20.6015
+
+Gen: 297
+BestSol: 75585
+GenAvgPrice: 58317.6
+GenAvgWeight: 9502.06
+GenError: 18.5752
+
+Gen: 396
+BestSol: 76869
+GenAvgPrice: 58806.3
+GenAvgWeight: 9484.59
+GenError: 17.192
+
+Gen: 495
+BestSol: 77811
+GenAvgPrice: 58193.8
+GenAvgWeight: 9448.1
+GenError: 16.1772
+
+Gen: 594
+BestSol: 77998
+GenAvgPrice: 53987.9
+GenAvgWeight: 9164.86
+GenError: 15.9758
+
+Gen: 693
+BestSol: 78569
+GenAvgPrice: 53766.4
+GenAvgWeight: 9071.69
+GenError: 15.3607
+
+Gen: 792
+BestSol: 79050
+GenAvgPrice: 55308
+GenAvgWeight: 9054.37
+GenError: 14.8425
+
+Gen: 891
+BestSol: 79550
+GenAvgPrice: 56120.5
+GenAvgWeight: 9091.46
+GenError: 14.3039
+
+Gen: 990
+BestSol: 80343
+GenAvgPrice: 52991.7
+GenAvgWeight: 8826.41
+GenError: 13.4496
+
+Gen: 1089
+BestSol: 80893
+GenAvgPrice: 58242.3
+GenAvgWeight: 9005.85
+GenError: 12.8571
+
+Gen: 1188
+BestSol: 81002
+GenAvgPrice: 58288.9
+GenAvgWeight: 8996.67
+GenError: 12.7397
+
+Gen: 1287
+BestSol: 81352
+GenAvgPrice: 58333.3
+GenAvgWeight: 8992.67
+GenError: 12.3626
+
+Gen: 1386
+BestSol: 81544
+GenAvgPrice: 56800.7
+GenAvgWeight: 8948
+GenError: 12.1558
+
+Gen: 1485
+BestSol: 81917
+GenAvgPrice: 56930.1
+GenAvgWeight: 8866.81
+GenError: 11.754
+
+Total best: 81917
+Time: 0.480966
+Error: 11.754
+
+Gen: 0
+BestSol: 43706
+GenAvgPrice: 38702.7
+GenAvgWeight: 6799.1
+GenError: 40.9426
+
+Gen: 99
+BestSol: 55624
+GenAvgPrice: 41077
+GenAvgWeight: 6778.74
+GenError: 24.8385
+
+Gen: 198
+BestSol: 59185
+GenAvgPrice: 43873.7
+GenAvgWeight: 6777.69
+GenError: 20.0268
+
+Gen: 297
+BestSol: 60775
+GenAvgPrice: 42039.7
+GenAvgWeight: 6718.69
+GenError: 17.8783
+
+Gen: 396
+BestSol: 62143
+GenAvgPrice: 43187.6
+GenAvgWeight: 6708.3
+GenError: 16.0298
+
+Gen: 495
+BestSol: 62593
+GenAvgPrice: 42100.5
+GenAvgWeight: 6687.2
+GenError: 15.4217
+
+Gen: 594
+BestSol: 63307
+GenAvgPrice: 44105.5
+GenAvgWeight: 6666.54
+GenError: 14.4569
+
+Gen: 693
+BestSol: 64002
+GenAvgPrice: 45345.8
+GenAvgWeight: 6683.61
+GenError: 13.5178
+
+Gen: 792
+BestSol: 64507
+GenAvgPrice: 43264.3
+GenAvgWeight: 6674.88
+GenError: 12.8354
+
+Gen: 891
+BestSol: 64639
+GenAvgPrice: 41123.9
+GenAvgWeight: 6657.29
+GenError: 12.6571
+
+Gen: 990
+BestSol: 65259
+GenAvgPrice: 43621.7
+GenAvgWeight: 6657.33
+GenError: 11.8193
+
+Gen: 1089
+BestSol: 65545
+GenAvgPrice: 40577.9
+GenAvgWeight: 6662.68
+GenError: 11.4329
+
+Gen: 1188
+BestSol: 66099
+GenAvgPrice: 43800.4
+GenAvgWeight: 6665.2
+GenError: 10.6843
+
+Gen: 1287
+BestSol: 66466
+GenAvgPrice: 42903.5
+GenAvgWeight: 6651.61
+GenError: 10.1884
+
+Gen: 1386
+BestSol: 66791
+GenAvgPrice: 42600.5
+GenAvgWeight: 6659.66
+GenError: 9.74921
+
+Gen: 1485
+BestSol: 67181
+GenAvgPrice: 44587.3
+GenAvgWeight: 6655.16
+GenError: 9.22223
+
+Total best: 67181
+Time: 0.478011
+Error: 9.22223
+
+Gen: 0
+BestSol: 37911
+GenAvgPrice: 31109.9
+GenAvgWeight: 4792.24
+GenError: 40.0361
+
+Gen: 99
+BestSol: 48139
+GenAvgPrice: 34573.3
+GenAvgWeight: 4782.72
+GenError: 23.8584
+
+Gen: 198
+BestSol: 50514
+GenAvgPrice: 33587.2
+GenAvgWeight: 4786.72
+GenError: 20.1019
+
+Gen: 297
+BestSol: 51849
+GenAvgPrice: 33256.9
+GenAvgWeight: 4779.59
+GenError: 17.9903
+
+Gen: 396
+BestSol: 52835
+GenAvgPrice: 35609.5
+GenAvgWeight: 4787.26
+GenError: 16.4307
+
+Gen: 495
+BestSol: 53685
+GenAvgPrice: 34318.2
+GenAvgWeight: 4779.31
+GenError: 15.0863
+
+Gen: 594
+BestSol: 53974
+GenAvgPrice: 34822.5
+GenAvgWeight: 4774.22
+GenError: 14.6292
+
+Gen: 693
+BestSol: 54512
+GenAvgPrice: 35547.1
+GenAvgWeight: 4765.56
+GenError: 13.7782
+
+Gen: 792
+BestSol: 54674
+GenAvgPrice: 34952.6
+GenAvgWeight: 4752.96
+GenError: 13.522
+
+Gen: 891
+BestSol: 55541
+GenAvgPrice: 35665.9
+GenAvgWeight: 4745.56
+GenError: 12.1506
+
+Gen: 990
+BestSol: 55891
+GenAvgPrice: 38399.6
+GenAvgWeight: 4734.59
+GenError: 11.597
+
+Gen: 1089
+BestSol: 56320
+GenAvgPrice: 37001.3
+GenAvgWeight: 4728
+GenError: 10.9185
+
+Gen: 1188
+BestSol: 56320
+GenAvgPrice: 34442
+GenAvgWeight: 4728.82
+GenError: 10.9185
+
+Gen: 1287
+BestSol: 56983
+GenAvgPrice: 39830
+GenAvgWeight: 4730.24
+GenError: 9.86983
+
+Gen: 1386
+BestSol: 57125
+GenAvgPrice: 33931.2
+GenAvgWeight: 4722.31
+GenError: 9.64522
+
+Gen: 1485
+BestSol: 57125
+GenAvgPrice: 35894
+GenAvgWeight: 4726.12
+GenError: 9.64522
+
+Total best: 57125
+Time: 0.473174
+Error: 9.64522
+
+Gen: 0
+BestSol: 34917
+GenAvgPrice: 29506
+GenAvgWeight: 4342.85
+GenError: 42.2143
+
+Gen: 99
+BestSol: 45646
+GenAvgPrice: 31628.4
+GenAvgWeight: 4337.07
+GenError: 24.4584
+
+Gen: 198
+BestSol: 48696
+GenAvgPrice: 32439
+GenAvgWeight: 4319.31
+GenError: 19.4108
+
+Gen: 297
+BestSol: 50743
+GenAvgPrice: 33930.2
+GenAvgWeight: 4328.19
+GenError: 16.0232
+
+Gen: 396
+BestSol: 52086
+GenAvgPrice: 33254.4
+GenAvgWeight: 4335.31
+GenError: 13.8006
+
+Gen: 495
+BestSol: 53120
+GenAvgPrice: 33131
+GenAvgWeight: 4325.96
+GenError: 12.0894
+
+Gen: 594
+BestSol: 53696
+GenAvgPrice: 34540.2
+GenAvgWeight: 4331.38
+GenError: 11.1361
+
+Gen: 693
+BestSol: 54406
+GenAvgPrice: 32911.4
+GenAvgWeight: 4315.44
+GenError: 9.96111
+
+Gen: 792
+BestSol: 54461
+GenAvgPrice: 33821.2
+GenAvgWeight: 4293.95
+GenError: 9.87009
+
+Gen: 891
+BestSol: 55298
+GenAvgPrice: 36904.1
+GenAvgWeight: 4275.56
+GenError: 8.4849
+
+Gen: 990
+BestSol: 55528
+GenAvgPrice: 33812.1
+GenAvgWeight: 4275.18
+GenError: 8.10426
+
+Gen: 1089
+BestSol: 55572
+GenAvgPrice: 33458.4
+GenAvgWeight: 4257.29
+GenError: 8.03144
+
+Gen: 1188
+BestSol: 55802
+GenAvgPrice: 34271
+GenAvgWeight: 4247.4
+GenError: 7.65081
+
+Gen: 1287
+BestSol: 55802
+GenAvgPrice: 34850.1
+GenAvgWeight: 4257.93
+GenError: 7.65081
+
+Gen: 1386
+BestSol: 56007
+GenAvgPrice: 35188.8
+GenAvgWeight: 4261.35
+GenError: 7.31154
+
+Gen: 1485
+BestSol: 56203
+GenAvgPrice: 36954.8
+GenAvgWeight: 4253.34
+GenError: 6.98717
+
+Total best: 56203
+Time: 0.455896
+Error: 6.98717
+
+Gen: 0
+BestSol: 20086
+GenAvgPrice: 14625.6
+GenAvgWeight: 1463.02
+GenError: 42.2882
+
+Gen: 99
+BestSol: 28137
+GenAvgPrice: 17276.2
+GenAvgWeight: 1455.76
+GenError: 19.1558
+
+Gen: 198
+BestSol: 29866
+GenAvgPrice: 15862.8
+GenAvgWeight: 1459.65
+GenError: 14.188
+
+Gen: 297
+BestSol: 31181
+GenAvgPrice: 17659.9
+GenAvgWeight: 1458.05
+GenError: 10.4097
+
+Gen: 396
+BestSol: 31615
+GenAvgPrice: 16593.1
+GenAvgWeight: 1459.06
+GenError: 9.16274
+
+Gen: 495
+BestSol: 32213
+GenAvgPrice: 18793.3
+GenAvgWeight: 1454.56
+GenError: 7.44455
+
+Gen: 594
+BestSol: 32638
+GenAvgPrice: 18644.9
+GenAvgWeight: 1454.22
+GenError: 6.22342
+
+Gen: 693
+BestSol: 32754
+GenAvgPrice: 18322.2
+GenAvgWeight: 1454.45
+GenError: 5.89013
+
+Gen: 792
+BestSol: 33113
+GenAvgPrice: 19744.2
+GenAvgWeight: 1449.88
+GenError: 4.85864
+
+Gen: 891
+BestSol: 33139
+GenAvgPrice: 17284
+GenAvgWeight: 1442.74
+GenError: 4.78393
+
+Gen: 990
+BestSol: 33257
+GenAvgPrice: 21201
+GenAvgWeight: 1440.51
+GenError: 4.44489
+
+Gen: 1089
+BestSol: 33340
+GenAvgPrice: 19064.8
+GenAvgWeight: 1435.85
+GenError: 4.20641
+
+Gen: 1188
+BestSol: 33520
+GenAvgPrice: 20351.3
+GenAvgWeight: 1436.13
+GenError: 3.68923
+
+Gen: 1287
+BestSol: 33520
+GenAvgPrice: 19732
+GenAvgWeight: 1434.46
+GenError: 3.68923
+
+Gen: 1386
+BestSol: 33675
+GenAvgPrice: 19298.2
+GenAvgWeight: 1433.61
+GenError: 3.24388
+
+Gen: 1485
+BestSol: 33675
+GenAvgPrice: 18364.3
+GenAvgWeight: 1436.07
+GenError: 3.24388
+
+Total best: 33675
+Time: 0.389997
+Error: 3.24388
+
+Gen: 0
+BestSol: 27111
+GenAvgPrice: 21027
+GenAvgWeight: 2466.4
+GenError: 40.6294
+
+Gen: 99
+BestSol: 36080
+GenAvgPrice: 24071.4
+GenAvgWeight: 2459.5
+GenError: 20.9881
+
+Gen: 198
+BestSol: 38649
+GenAvgPrice: 25293.4
+GenAvgWeight: 2459.63
+GenError: 15.3622
+
+Gen: 297
+BestSol: 40197
+GenAvgPrice: 24297.3
+GenAvgWeight: 2457
+GenError: 11.9722
+
+Gen: 396
+BestSol: 40801
+GenAvgPrice: 23830.4
+GenAvgWeight: 2456.94
+GenError: 10.6495
+
+Gen: 495
+BestSol: 40951
+GenAvgPrice: 23532.8
+GenAvgWeight: 2456.1
+GenError: 10.321
+
+Gen: 594
+BestSol: 41736
+GenAvgPrice: 26209.4
+GenAvgWeight: 2445.68
+GenError: 8.60196
+
+Gen: 693
+BestSol: 42026
+GenAvgPrice: 23430.8
+GenAvgWeight: 2443.2
+GenError: 7.96689
+
+Gen: 792
+BestSol: 42136
+GenAvgPrice: 23699.9
+GenAvgWeight: 2437.3
+GenError: 7.726
+
+Gen: 891
+BestSol: 42473
+GenAvgPrice: 23605.8
+GenAvgWeight: 2427.36
+GenError: 6.988
+
+Gen: 990
+BestSol: 42473
+GenAvgPrice: 26457.3
+GenAvgWeight: 2425.84
+GenError: 6.988
+
+Gen: 1089
+BestSol: 42597
+GenAvgPrice: 25825.6
+GenAvgWeight: 2415.19
+GenError: 6.71645
+
+Gen: 1188
+BestSol: 42745
+GenAvgPrice: 25610.1
+GenAvgWeight: 2415.34
+GenError: 6.39234
+
+Gen: 1287
+BestSol: 42975
+GenAvgPrice: 26201.5
+GenAvgWeight: 2408.85
+GenError: 5.88867
+
+Gen: 1386
+BestSol: 42975
+GenAvgPrice: 25162.2
+GenAvgWeight: 2406.82
+GenError: 5.88867
+
+Gen: 1485
+BestSol: 43225
+GenAvgPrice: 25385
+GenAvgWeight: 2401.39
+GenError: 5.34119
+
+Total best: 43225
+Time: 0.439602
+Error: 5.34119
+
+Gen: 0
+BestSol: 73293
+GenAvgPrice: 64893.9
+GenAvgWeight: 11907
+GenError: 37.2873
+
+Gen: 99
+BestSol: 91954
+GenAvgPrice: 68579.2
+GenAvgWeight: 12041.3
+GenError: 21.3201
+
+Gen: 198
+BestSol: 95434
+GenAvgPrice: 68087.2
+GenAvgWeight: 11757.6
+GenError: 18.3424
+
+Gen: 297
+BestSol: 97906
+GenAvgPrice: 69441.9
+GenAvgWeight: 11769.7
+GenError: 16.2273
+
+Gen: 396
+BestSol: 99088
+GenAvgPrice: 68455.6
+GenAvgWeight: 11725.4
+GenError: 15.2159
+
+Gen: 495
+BestSol: 100072
+GenAvgPrice: 71820.9
+GenAvgWeight: 12065.6
+GenError: 14.374
+
+Gen: 594
+BestSol: 100360
+GenAvgPrice: 70599.8
+GenAvgWeight: 11882.4
+GenError: 14.1275
+
+Gen: 693
+BestSol: 100847
+GenAvgPrice: 66872.6
+GenAvgWeight: 11412.9
+GenError: 13.7108
+
+Gen: 792
+BestSol: 101313
+GenAvgPrice: 70217.7
+GenAvgWeight: 11762.3
+GenError: 13.3121
+
+Gen: 891
+BestSol: 102317
+GenAvgPrice: 68748.9
+GenAvgWeight: 11560.6
+GenError: 12.453
+
+Gen: 990
+BestSol: 102796
+GenAvgPrice: 64691.1
+GenAvgWeight: 11049.4
+GenError: 12.0432
+
+Gen: 1089
+BestSol: 103879
+GenAvgPrice: 69581.2
+GenAvgWeight: 11422.5
+GenError: 11.1165
+
+Gen: 1188
+BestSol: 103879
+GenAvgPrice: 69437.9
+GenAvgWeight: 11364.2
+GenError: 11.1165
+
+Gen: 1287
+BestSol: 103879
+GenAvgPrice: 65680.8
+GenAvgWeight: 10956.4
+GenError: 11.1165
+
+Gen: 1386
+BestSol: 104375
+GenAvgPrice: 69762.1
+GenAvgWeight: 11434.1
+GenError: 10.6921
+
+Gen: 1485
+BestSol: 104389
+GenAvgPrice: 66434
+GenAvgWeight: 11053.5
+GenError: 10.6802
+
+Total best: 105070
+Time: 0.484247
+Error: 10.0975
+
+Gen: 0
+BestSol: 65161
+GenAvgPrice: 58693
+GenAvgWeight: 10970.3
+GenError: 33.648
+
+Gen: 99
+BestSol: 76652
+GenAvgPrice: 58724
+GenAvgWeight: 10264
+GenError: 21.9469
+
+Gen: 198
+BestSol: 80289
+GenAvgPrice: 61514.3
+GenAvgWeight: 10290.7
+GenError: 18.2435
+
+Gen: 297
+BestSol: 81856
+GenAvgPrice: 60406.1
+GenAvgWeight: 10064.5
+GenError: 16.6478
+
+Gen: 396
+BestSol: 83704
+GenAvgPrice: 62515.3
+GenAvgWeight: 10205.9
+GenError: 14.7661
+
+Gen: 495
+BestSol: 84044
+GenAvgPrice: 62620.8
+GenAvgWeight: 10093.3
+GenError: 14.4198
+
+Gen: 594
+BestSol: 84576
+GenAvgPrice: 60867.7
+GenAvgWeight: 9861.75
+GenError: 13.8781
+
+Gen: 693
+BestSol: 85572
+GenAvgPrice: 60756.2
+GenAvgWeight: 9763.7
+GenError: 12.8639
+
+Gen: 792
+BestSol: 85572
+GenAvgPrice: 59738.3
+GenAvgWeight: 9731
+GenError: 12.8639
+
+Gen: 891
+BestSol: 86028
+GenAvgPrice: 59688.4
+GenAvgWeight: 9669.88
+GenError: 12.3996
+
+Gen: 990
+BestSol: 86056
+GenAvgPrice: 60085.1
+GenAvgWeight: 9650.98
+GenError: 12.3711
+
+Gen: 1089
+BestSol: 86144
+GenAvgPrice: 59717.8
+GenAvgWeight: 9607.67
+GenError: 12.2815
+
+Gen: 1188
+BestSol: 86355
+GenAvgPrice: 64043.2
+GenAvgWeight: 9876.56
+GenError: 12.0666
+
+Gen: 1287
+BestSol: 86588
+GenAvgPrice: 61451.3
+GenAvgWeight: 9653.07
+GenError: 11.8293
+
+Gen: 1386
+BestSol: 86588
+GenAvgPrice: 61739.2
+GenAvgWeight: 9734.34
+GenError: 11.8293
+
+Gen: 1485
+BestSol: 86645
+GenAvgPrice: 58653
+GenAvgWeight: 9540.72
+GenError: 11.7713
+
+Total best: 86645
+Time: 0.482871
+Error: 11.7713
+
+Gen: 0
+BestSol: 71663
+GenAvgPrice: 61720.3
+GenAvgWeight: 12786.6
+GenError: 32.6672
+
+Gen: 99
+BestSol: 82514
+GenAvgPrice: 62611.1
+GenAvgWeight: 12343.8
+GenError: 22.4718
+
+Gen: 198
+BestSol: 86541
+GenAvgPrice: 62233
+GenAvgWeight: 12180.3
+GenError: 18.6882
+
+Gen: 297
+BestSol: 88182
+GenAvgPrice: 64401.3
+GenAvgWeight: 12315.4
+GenError: 17.1463
+
+Gen: 396
+BestSol: 88489
+GenAvgPrice: 61909.1
+GenAvgWeight: 11855.7
+GenError: 16.8579
+
+Gen: 495
+BestSol: 89818
+GenAvgPrice: 62507.4
+GenAvgWeight: 11867.9
+GenError: 15.6092
+
+Gen: 594
+BestSol: 91101
+GenAvgPrice: 63703.6
+GenAvgWeight: 11925.6
+GenError: 14.4037
+
+Gen: 693
+BestSol: 92115
+GenAvgPrice: 63200.6
+GenAvgWeight: 11792.3
+GenError: 13.451
+
+Gen: 792
+BestSol: 92378
+GenAvgPrice: 63786.9
+GenAvgWeight: 11867
+GenError: 13.2039
+
+Gen: 891
+BestSol: 92677
+GenAvgPrice: 62581.4
+GenAvgWeight: 11645.2
+GenError: 12.9229
+
+Gen: 990
+BestSol: 93010
+GenAvgPrice: 63387.8
+GenAvgWeight: 11725.6
+GenError: 12.61
+
+Gen: 1089
+BestSol: 93010
+GenAvgPrice: 62168
+GenAvgWeight: 11547.1
+GenError: 12.61
+
+Gen: 1188
+BestSol: 93257
+GenAvgPrice: 64425.9
+GenAvgWeight: 11785.6
+GenError: 12.378
+
+Gen: 1287
+BestSol: 93694
+GenAvgPrice: 60925.2
+GenAvgWeight: 11487.1
+GenError: 11.9674
+
+Gen: 1386
+BestSol: 94090
+GenAvgPrice: 62307.6
+GenAvgWeight: 11531.4
+GenError: 11.5953
+
+Gen: 1485
+BestSol: 94751
+GenAvgPrice: 62402.5
+GenAvgWeight: 11454.4
+GenError: 10.9742
+
+Total best: 94751
+Time: 0.47
+Error: 10.9742
+
+Gen: 0
+BestSol: 70849
+GenAvgPrice: 61511.6
+GenAvgWeight: 11686.5
+GenError: 40.1765
+
+Gen: 99
+BestSol: 89531
+GenAvgPrice: 68494.8
+GenAvgWeight: 12935.6
+GenError: 24.4018
+
+Gen: 198
+BestSol: 94859
+GenAvgPrice: 65668.6
+GenAvgWeight: 12541
+GenError: 19.9029
+
+Gen: 297
+BestSol: 96738
+GenAvgPrice: 68805.2
+GenAvgWeight: 12876.4
+GenError: 18.3163
+
+Gen: 396
+BestSol: 97596
+GenAvgPrice: 65933.5
+GenAvgWeight: 12423.6
+GenError: 17.5918
+
+Gen: 495
+BestSol: 99134
+GenAvgPrice: 67717.3
+GenAvgWeight: 12552.5
+GenError: 16.2932
+
+Gen: 594
+BestSol: 101052
+GenAvgPrice: 65483.9
+GenAvgWeight: 12196.6
+GenError: 14.6736
+
+Gen: 693
+BestSol: 101396
+GenAvgPrice: 67008.1
+GenAvgWeight: 12347.1
+GenError: 14.3832
+
+Gen: 792
+BestSol: 102375
+GenAvgPrice: 65492.5
+GenAvgWeight: 12139.7
+GenError: 13.5565
+
+Gen: 891
+BestSol: 103224
+GenAvgPrice: 65446.6
+GenAvgWeight: 12106.9
+GenError: 12.8397
+
+Gen: 990
+BestSol: 103829
+GenAvgPrice: 69262.8
+GenAvgWeight: 12646.2
+GenError: 12.3288
+
+Gen: 1089
+BestSol: 103829
+GenAvgPrice: 66736.1
+GenAvgWeight: 12230.5
+GenError: 12.3288
+
+Gen: 1188
+BestSol: 103993
+GenAvgPrice: 64823.1
+GenAvgWeight: 11906.8
+GenError: 12.1903
+
+Gen: 1287
+BestSol: 104545
+GenAvgPrice: 69755.4
+GenAvgWeight: 12571.4
+GenError: 11.7242
+
+Gen: 1386
+BestSol: 104545
+GenAvgPrice: 69476.4
+GenAvgWeight: 12523.2
+GenError: 11.7242
+
+Gen: 1485
+BestSol: 104545
+GenAvgPrice: 67066.3
+GenAvgWeight: 12201.3
+GenError: 11.7242
+
+Total best: 104545
+Time: 0.459819
+Error: 11.7242
+
+Gen: 0
+BestSol: 22635
+GenAvgPrice: 17545.2
+GenAvgWeight: 1860.2
+GenError: 44.2844
+
+Gen: 99
+BestSol: 31973
+GenAvgPrice: 21358.1
+GenAvgWeight: 1855.42
+GenError: 21.2992
+
+Gen: 198
+BestSol: 35135
+GenAvgPrice: 21807.1
+GenAvgWeight: 1853.3
+GenError: 13.516
+
+Gen: 297
+BestSol: 36484
+GenAvgPrice: 20419.1
+GenAvgWeight: 1858.1
+GenError: 10.1954
+
+Gen: 396
+BestSol: 36909
+GenAvgPrice: 20671.8
+GenAvgWeight: 1850.87
+GenError: 9.14931
+
+Gen: 495
+BestSol: 37377
+GenAvgPrice: 22004.2
+GenAvgWeight: 1849.83
+GenError: 7.99734
+
+Gen: 594
+BestSol: 37759
+GenAvgPrice: 22169.7
+GenAvgWeight: 1840.92
+GenError: 7.05706
+
+Gen: 693
+BestSol: 37808
+GenAvgPrice: 21105.8
+GenAvgWeight: 1834.11
+GenError: 6.93644
+
+Gen: 792
+BestSol: 38166
+GenAvgPrice: 22245.8
+GenAvgWeight: 1834.05
+GenError: 6.05524
+
+Gen: 891
+BestSol: 38183
+GenAvgPrice: 23679.8
+GenAvgWeight: 1834.35
+GenError: 6.01339
+
+Gen: 990
+BestSol: 38249
+GenAvgPrice: 23775.3
+GenAvgWeight: 1827.75
+GenError: 5.85093
+
+Gen: 1089
+BestSol: 38505
+GenAvgPrice: 23372.8
+GenAvgWeight: 1832.48
+GenError: 5.22079
+
+Gen: 1188
+BestSol: 38622
+GenAvgPrice: 22740.1
+GenAvgWeight: 1829.39
+GenError: 4.9328
+
+Gen: 1287
+BestSol: 38812
+GenAvgPrice: 20671.2
+GenAvgWeight: 1829.68
+GenError: 4.46512
+
+Gen: 1386
+BestSol: 38895
+GenAvgPrice: 23425.4
+GenAvgWeight: 1830.48
+GenError: 4.26082
+
+Gen: 1485
+BestSol: 38949
+GenAvgPrice: 22492.1
+GenAvgWeight: 1827.36
+GenError: 4.1279
+
+Total best: 38957
+Time: 0.384212
+Error: 4.10821
+
+Gen: 0
+BestSol: 70905
+GenAvgPrice: 60746.1
+GenAvgWeight: 11980.5
+GenError: 35.8958
+
+Gen: 99
+BestSol: 86844
+GenAvgPrice: 64272.8
+GenAvgWeight: 12360.5
+GenError: 21.4856
+
+Gen: 198
+BestSol: 89903
+GenAvgPrice: 65967.8
+GenAvgWeight: 12447.6
+GenError: 18.72
+
+Gen: 297
+BestSol: 91500
+GenAvgPrice: 64669.7
+GenAvgWeight: 12148
+GenError: 17.2762
+
+Gen: 396
+BestSol: 92516
+GenAvgPrice: 63127.6
+GenAvgWeight: 11777.4
+GenError: 16.3576
+
+Gen: 495
+BestSol: 93397
+GenAvgPrice: 64813.5
+GenAvgWeight: 11997.5
+GenError: 15.5611
+
+Gen: 594
+BestSol: 93996
+GenAvgPrice: 65728.4
+GenAvgWeight: 12044.1
+GenError: 15.0196
+
+Gen: 693
+BestSol: 94034
+GenAvgPrice: 63241.2
+GenAvgWeight: 11666.4
+GenError: 14.9852
+
+Gen: 792
+BestSol: 94948
+GenAvgPrice: 61518.3
+GenAvgWeight: 11572.2
+GenError: 14.1589
+
+Gen: 891
+BestSol: 95208
+GenAvgPrice: 65795.7
+GenAvgWeight: 12047.8
+GenError: 13.9238
+
+Gen: 990
+BestSol: 95640
+GenAvgPrice: 61257.1
+GenAvgWeight: 11451.7
+GenError: 13.5333
+
+Gen: 1089
+BestSol: 95990
+GenAvgPrice: 66406.3
+GenAvgWeight: 12132.3
+GenError: 13.2168
+
+Gen: 1188
+BestSol: 96176
+GenAvgPrice: 63222.9
+GenAvgWeight: 11734.5
+GenError: 13.0487
+
+Gen: 1287
+BestSol: 96220
+GenAvgPrice: 63686.2
+GenAvgWeight: 11686.5
+GenError: 13.0089
+
+Gen: 1386
+BestSol: 96255
+GenAvgPrice: 62071.2
+GenAvgWeight: 11420.4
+GenError: 12.9772
+
+Gen: 1485
+BestSol: 96453
+GenAvgPrice: 63813.9
+GenAvgWeight: 11760
+GenError: 12.7982
+
+Total best: 96453
+Time: 0.46336
+Error: 12.7982
+
+Gen: 0
+BestSol: 15817
+GenAvgPrice: 11132.4
+GenAvgWeight: 957.167
+GenError: 41.8086
+
+Gen: 99
+BestSol: 22933
+GenAvgPrice: 12914.3
+GenAvgWeight: 954.527
+GenError: 15.6286
+
+Gen: 198
+BestSol: 24148
+GenAvgPrice: 13417.3
+GenAvgWeight: 952.387
+GenError: 11.1585
+
+Gen: 297
+BestSol: 25149
+GenAvgPrice: 14409
+GenAvgWeight: 951
+GenError: 7.47581
+
+Gen: 396
+BestSol: 25750
+GenAvgPrice: 14763.3
+GenAvgWeight: 954.14
+GenError: 5.26471
+
+Gen: 495
+BestSol: 25934
+GenAvgPrice: 13432.9
+GenAvgWeight: 952.18
+GenError: 4.58776
+
+Gen: 594
+BestSol: 26043
+GenAvgPrice: 13811.1
+GenAvgWeight: 952.54
+GenError: 4.18675
+
+Gen: 693
+BestSol: 26058
+GenAvgPrice: 13842.3
+GenAvgWeight: 951.103
+GenError: 4.13156
+
+Gen: 792
+BestSol: 26162
+GenAvgPrice: 14958.3
+GenAvgWeight: 952.693
+GenError: 3.74894
+
+Gen: 891
+BestSol: 26202
+GenAvgPrice: 15598.1
+GenAvgWeight: 950.657
+GenError: 3.60178
+
+Gen: 990
+BestSol: 26274
+GenAvgPrice: 14477.2
+GenAvgWeight: 947.88
+GenError: 3.33689
+
+Gen: 1089
+BestSol: 26343
+GenAvgPrice: 14974.9
+GenAvgWeight: 939.71
+GenError: 3.08304
+
+Gen: 1188
+BestSol: 26343
+GenAvgPrice: 14323.8
+GenAvgWeight: 932.74
+GenError: 3.08304
+
+Gen: 1287
+BestSol: 26358
+GenAvgPrice: 14958.2
+GenAvgWeight: 932.143
+GenError: 3.02785
+
+Gen: 1386
+BestSol: 26358
+GenAvgPrice: 14389.6
+GenAvgWeight: 929.713
+GenError: 3.02785
+
+Gen: 1485
+BestSol: 26358
+GenAvgPrice: 15042.4
+GenAvgWeight: 929.94
+GenError: 3.02785
+
+Total best: 26358
+Time: 0.363515
+Error: 3.02785
+
+Gen: 0
+BestSol: 69075
+GenAvgPrice: 60549.7
+GenAvgWeight: 12379.5
+GenError: 33.8166
+
+Gen: 99
+BestSol: 81451
+GenAvgPrice: 60532.7
+GenAvgWeight: 11584.4
+GenError: 21.9586
+
+Gen: 198
+BestSol: 84243
+GenAvgPrice: 64531.2
+GenAvgWeight: 11841.8
+GenError: 19.2835
+
+Gen: 297
+BestSol: 86147
+GenAvgPrice: 61408.7
+GenAvgWeight: 11477.1
+GenError: 17.4592
+
+Gen: 396
+BestSol: 86686
+GenAvgPrice: 59440.3
+GenAvgWeight: 11075.7
+GenError: 16.9428
+
+Gen: 495
+BestSol: 86845
+GenAvgPrice: 60223.5
+GenAvgWeight: 11177.8
+GenError: 16.7904
+
+Gen: 594
+BestSol: 88649
+GenAvgPrice: 63111.1
+GenAvgWeight: 11458.3
+GenError: 15.0619
+
+Gen: 693
+BestSol: 88896
+GenAvgPrice: 63185.9
+GenAvgWeight: 11465.5
+GenError: 14.8253
+
+Gen: 792
+BestSol: 89188
+GenAvgPrice: 63069.4
+GenAvgWeight: 11452.1
+GenError: 14.5455
+
+Gen: 891
+BestSol: 89915
+GenAvgPrice: 62953
+GenAvgWeight: 11301
+GenError: 13.8489
+
+Gen: 990
+BestSol: 89925
+GenAvgPrice: 60455
+GenAvgWeight: 11152
+GenError: 13.8394
+
+Gen: 1089
+BestSol: 91013
+GenAvgPrice: 62925
+GenAvgWeight: 11342
+GenError: 12.7969
+
+Gen: 1188
+BestSol: 91013
+GenAvgPrice: 61737.8
+GenAvgWeight: 11188.8
+GenError: 12.7969
+
+Gen: 1287
+BestSol: 91182
+GenAvgPrice: 65481.5
+GenAvgWeight: 11523.4
+GenError: 12.635
+
+Gen: 1386
+BestSol: 91632
+GenAvgPrice: 61952.5
+GenAvgWeight: 11160.5
+GenError: 12.2038
+
+Gen: 1485
+BestSol: 91873
+GenAvgPrice: 63102.1
+GenAvgWeight: 11210.1
+GenError: 11.9729
+
+Total best: 91921
+Time: 0.459571
+Error: 11.9269
+
+Gen: 0
+BestSol: 69337
+GenAvgPrice: 58252.2
+GenAvgWeight: 12452.5
+GenError: 33.1917
+
+Gen: 99
+BestSol: 82354
+GenAvgPrice: 60789.6
+GenAvgWeight: 12359.1
+GenError: 20.6494
+
+Gen: 198
+BestSol: 84874
+GenAvgPrice: 60974.3
+GenAvgWeight: 12345.7
+GenError: 18.2213
+
+Gen: 297
+BestSol: 86895
+GenAvgPrice: 59771.6
+GenAvgWeight: 12006.3
+GenError: 16.274
+
+Gen: 396
+BestSol: 87511
+GenAvgPrice: 64723.6
+GenAvgWeight: 12551.4
+GenError: 15.6805
+
+Gen: 495
+BestSol: 88314
+GenAvgPrice: 63279.9
+GenAvgWeight: 12236.7
+GenError: 14.9068
+
+Gen: 594
+BestSol: 88548
+GenAvgPrice: 63155.3
+GenAvgWeight: 12191.9
+GenError: 14.6813
+
+Gen: 693
+BestSol: 88786
+GenAvgPrice: 59541.8
+GenAvgWeight: 11641.7
+GenError: 14.452
+
+Gen: 792
+BestSol: 89679
+GenAvgPrice: 62808.6
+GenAvgWeight: 12132.3
+GenError: 13.5916
+
+Gen: 891
+BestSol: 90595
+GenAvgPrice: 60419.3
+GenAvgWeight: 11712.8
+GenError: 12.709
+
+Gen: 990
+BestSol: 90595
+GenAvgPrice: 60146.5
+GenAvgWeight: 11690
+GenError: 12.709
+
+Gen: 1089
+BestSol: 91116
+GenAvgPrice: 62146.4
+GenAvgWeight: 11977.9
+GenError: 12.207
+
+Gen: 1188
+BestSol: 91511
+GenAvgPrice: 59980.4
+GenAvgWeight: 11689.9
+GenError: 11.8264
+
+Gen: 1287
+BestSol: 91877
+GenAvgPrice: 59677.2
+GenAvgWeight: 11600.7
+GenError: 11.4737
+
+Gen: 1386
+BestSol: 91996
+GenAvgPrice: 61181.7
+GenAvgWeight: 11729.1
+GenError: 11.3591
+
+Gen: 1485
+BestSol: 92734
+GenAvgPrice: 59158.1
+GenAvgWeight: 11394.5
+GenError: 10.648
+
+Total best: 92734
+Time: 0.455955
+Error: 10.648
+
+Gen: 0
+BestSol: 57028
+GenAvgPrice: 49149.6
+GenAvgWeight: 9573.36
+GenError: 33.79
+
+Gen: 99
+BestSol: 66662
+GenAvgPrice: 52047.8
+GenAvgWeight: 9467.57
+GenError: 22.6048
+
+Gen: 198
+BestSol: 69316
+GenAvgPrice: 53641.5
+GenAvgWeight: 9346.15
+GenError: 19.5235
+
+Gen: 297
+BestSol: 72059
+GenAvgPrice: 52216.4
+GenAvgWeight: 9263.39
+GenError: 16.3389
+
+Gen: 396
+BestSol: 72598
+GenAvgPrice: 53768.2
+GenAvgWeight: 9256.22
+GenError: 15.7131
+
+Gen: 495
+BestSol: 72948
+GenAvgPrice: 55014.2
+GenAvgWeight: 9252.91
+GenError: 15.3067
+
+Gen: 594
+BestSol: 73292
+GenAvgPrice: 53937.2
+GenAvgWeight: 9181.74
+GenError: 14.9074
+
+Gen: 693
+BestSol: 73963
+GenAvgPrice: 52453.7
+GenAvgWeight: 9074.03
+GenError: 14.1283
+
+Gen: 792
+BestSol: 74547
+GenAvgPrice: 53239.3
+GenAvgWeight: 9058.15
+GenError: 13.4503
+
+Gen: 891
+BestSol: 75167
+GenAvgPrice: 53664.7
+GenAvgWeight: 9024.13
+GenError: 12.7305
+
+Gen: 990
+BestSol: 75167
+GenAvgPrice: 53902.2
+GenAvgWeight: 9057.18
+GenError: 12.7305
+
+Gen: 1089
+BestSol: 75732
+GenAvgPrice: 52153.1
+GenAvgWeight: 8917.15
+GenError: 12.0745
+
+Gen: 1188
+BestSol: 75732
+GenAvgPrice: 53486.5
+GenAvgWeight: 8968.96
+GenError: 12.0745
+
+Gen: 1287
+BestSol: 75972
+GenAvgPrice: 54086.1
+GenAvgWeight: 8966.19
+GenError: 11.7958
+
+Gen: 1386
+BestSol: 76195
+GenAvgPrice: 51905.8
+GenAvgWeight: 8917.72
+GenError: 11.5369
+
+Gen: 1485
+BestSol: 76575
+GenAvgPrice: 55092.4
+GenAvgWeight: 8981.66
+GenError: 11.0958
+
+Total best: 76575
+Time: 0.473
+Error: 11.0958
+
+Gen: 0
+BestSol: 13464
+GenAvgPrice: 10334.4
+GenAvgWeight: 1027.34
+GenError: 44.2392
+
+Gen: 99
+BestSol: 19688
+GenAvgPrice: 12270.8
+GenAvgWeight: 1021.47
+GenError: 18.4627
+
+Gen: 198
+BestSol: 21504
+GenAvgPrice: 11330.1
+GenAvgWeight: 1024.19
+GenError: 10.9418
+
+Gen: 297
+BestSol: 22349
+GenAvgPrice: 13467.3
+GenAvgWeight: 1020.14
+GenError: 7.44223
+
+Gen: 396
+BestSol: 23000
+GenAvgPrice: 13451.5
+GenAvgWeight: 1023.2
+GenError: 4.74613
+
+Gen: 495
+BestSol: 23336
+GenAvgPrice: 13456.9
+GenAvgWeight: 1020.97
+GenError: 3.35459
+
+Gen: 594
+BestSol: 23427
+GenAvgPrice: 13590.2
+GenAvgWeight: 1025.32
+GenError: 2.97772
+
+Gen: 693
+BestSol: 23688
+GenAvgPrice: 13678
+GenAvgWeight: 1022.52
+GenError: 1.89679
+
+Gen: 792
+BestSol: 23711
+GenAvgPrice: 12821.3
+GenAvgWeight: 1021.75
+GenError: 1.80154
+
+Gen: 891
+BestSol: 23768
+GenAvgPrice: 13018.9
+GenAvgWeight: 1014.93
+GenError: 1.56548
+
+Gen: 990
+BestSol: 23768
+GenAvgPrice: 14117.5
+GenAvgWeight: 1016.52
+GenError: 1.56548
+
+Gen: 1089
+BestSol: 23790
+GenAvgPrice: 13452.8
+GenAvgWeight: 1007.99
+GenError: 1.47436
+
+Gen: 1188
+BestSol: 23794
+GenAvgPrice: 13852.5
+GenAvgWeight: 1009.39
+GenError: 1.4578
+
+Gen: 1287
+BestSol: 23812
+GenAvgPrice: 12456.8
+GenAvgWeight: 1011.24
+GenError: 1.38325
+
+Gen: 1386
+BestSol: 23812
+GenAvgPrice: 14854.7
+GenAvgWeight: 1007.42
+GenError: 1.38325
+
+Gen: 1485
+BestSol: 23847
+GenAvgPrice: 14023.8
+GenAvgWeight: 1008.43
+GenError: 1.2383
+
+Total best: 23847
+Time: 0.356072
+Error: 1.2383
+
+Gen: 0
+BestSol: 11314
+GenAvgPrice: 8249.24
+GenAvgWeight: 665.3
+GenError: 45.2053
+
+Gen: 99
+BestSol: 18250
+GenAvgPrice: 10399.2
+GenAvgWeight: 659.997
+GenError: 11.6137
+
+Gen: 198
+BestSol: 19152
+GenAvgPrice: 9846.35
+GenAvgWeight: 656.68
+GenError: 7.24525
+
+Gen: 297
+BestSol: 19731
+GenAvgPrice: 10377.5
+GenAvgWeight: 656.37
+GenError: 4.44111
+
+Gen: 396
+BestSol: 20038
+GenAvgPrice: 11137.1
+GenAvgWeight: 653.117
+GenError: 2.95428
+
+Gen: 495
+BestSol: 20174
+GenAvgPrice: 12239.8
+GenAvgWeight: 642.067
+GenError: 2.29562
+
+Gen: 594
+BestSol: 20193
+GenAvgPrice: 11663.1
+GenAvgWeight: 635.377
+GenError: 2.2036
+
+Gen: 693
+BestSol: 20305
+GenAvgPrice: 11930.9
+GenAvgWeight: 634.263
+GenError: 1.66118
+
+Gen: 792
+BestSol: 20339
+GenAvgPrice: 11590.6
+GenAvgWeight: 636.04
+GenError: 1.49651
+
+Gen: 891
+BestSol: 20436
+GenAvgPrice: 12430
+GenAvgWeight: 634.937
+GenError: 1.02673
+
+Gen: 990
+BestSol: 20436
+GenAvgPrice: 11735.3
+GenAvgWeight: 634.627
+GenError: 1.02673
+
+Gen: 1089
+BestSol: 20436
+GenAvgPrice: 11160.9
+GenAvgWeight: 629.16
+GenError: 1.02673
+
+Gen: 1188
+BestSol: 20500
+GenAvgPrice: 11989.3
+GenAvgWeight: 627.36
+GenError: 0.716776
+
+Gen: 1287
+BestSol: 20500
+GenAvgPrice: 11768.6
+GenAvgWeight: 631.417
+GenError: 0.716776
+
+Gen: 1386
+BestSol: 20500
+GenAvgPrice: 12077.8
+GenAvgWeight: 627.233
+GenError: 0.716776
+
+Gen: 1485
+BestSol: 20500
+GenAvgPrice: 11802.5
+GenAvgWeight: 630.58
+GenError: 0.716776
+
+Total best: 20500
+Time: 0.34305
+Error: 0.716776
+
+Gen: 0
+BestSol: 63505
+GenAvgPrice: 57012.1
+GenAvgWeight: 11016.5
+GenError: 33.9954
+
+Gen: 99
+BestSol: 74138
+GenAvgPrice: 58380.8
+GenAvgWeight: 10596.4
+GenError: 22.9439
+
+Gen: 198
+BestSol: 77505
+GenAvgPrice: 60336.7
+GenAvgWeight: 10639
+GenError: 19.4444
+
+Gen: 297
+BestSol: 78840
+GenAvgPrice: 59532.7
+GenAvgWeight: 10484.8
+GenError: 18.0568
+
+Gen: 396
+BestSol: 80114
+GenAvgPrice: 58317.6
+GenAvgWeight: 10358
+GenError: 16.7327
+
+Gen: 495
+BestSol: 80900
+GenAvgPrice: 58616.8
+GenAvgWeight: 10337.6
+GenError: 15.9157
+
+Gen: 594
+BestSol: 81875
+GenAvgPrice: 58964.9
+GenAvgWeight: 10067.9
+GenError: 14.9024
+
+Gen: 693
+BestSol: 82231
+GenAvgPrice: 57645.5
+GenAvgWeight: 10044
+GenError: 14.5323
+
+Gen: 792
+BestSol: 82794
+GenAvgPrice: 60532.7
+GenAvgWeight: 10186.5
+GenError: 13.9472
+
+Gen: 891
+BestSol: 83417
+GenAvgPrice: 59101.6
+GenAvgWeight: 10064.9
+GenError: 13.2997
+
+Gen: 990
+BestSol: 83417
+GenAvgPrice: 57986.9
+GenAvgWeight: 10010.1
+GenError: 13.2997
+
+Gen: 1089
+BestSol: 83991
+GenAvgPrice: 59221.5
+GenAvgWeight: 10064.4
+GenError: 12.7031
+
+Gen: 1188
+BestSol: 83991
+GenAvgPrice: 59174.3
+GenAvgWeight: 10118.3
+GenError: 12.7031
+
+Gen: 1287
+BestSol: 84085
+GenAvgPrice: 59536.9
+GenAvgWeight: 10078.4
+GenError: 12.6054
+
+Gen: 1386
+BestSol: 84628
+GenAvgPrice: 58698.3
+GenAvgWeight: 9928.28
+GenError: 12.041
+
+Gen: 1485
+BestSol: 84628
+GenAvgPrice: 57781.6
+GenAvgWeight: 9739.46
+GenError: 12.041
+
+Total best: 84628
+Time: 0.467891
+Error: 12.041
+
+Gen: 0
+BestSol: 46404
+GenAvgPrice: 40786.1
+GenAvgWeight: 6900.11
+GenError: 39.2331
+
+Gen: 99
+BestSol: 57635
+GenAvgPrice: 44155.1
+GenAvgWeight: 6859.35
+GenError: 24.526
+
+Gen: 198
+BestSol: 61945
+GenAvgPrice: 45073.3
+GenAvgWeight: 6794.88
+GenError: 18.8819
+
+Gen: 297
+BestSol: 63723
+GenAvgPrice: 44461.2
+GenAvgWeight: 6762.54
+GenError: 16.5536
+
+Gen: 396
+BestSol: 64847
+GenAvgPrice: 46237
+GenAvgWeight: 6761.7
+GenError: 15.0817
+
+Gen: 495
+BestSol: 65627
+GenAvgPrice: 45934.2
+GenAvgWeight: 6745.91
+GenError: 14.0603
+
+Gen: 594
+BestSol: 66243
+GenAvgPrice: 45367.5
+GenAvgWeight: 6759.55
+GenError: 13.2536
+
+Gen: 693
+BestSol: 66321
+GenAvgPrice: 46348.9
+GenAvgWeight: 6748.7
+GenError: 13.1515
+
+Gen: 792
+BestSol: 67115
+GenAvgPrice: 43406
+GenAvgWeight: 6737.85
+GenError: 12.1117
+
+Gen: 891
+BestSol: 67115
+GenAvgPrice: 45964.8
+GenAvgWeight: 6746.06
+GenError: 12.1117
+
+Gen: 990
+BestSol: 67320
+GenAvgPrice: 44513.4
+GenAvgWeight: 6744.6
+GenError: 11.8433
+
+Gen: 1089
+BestSol: 67537
+GenAvgPrice: 47310.6
+GenAvgWeight: 6734.86
+GenError: 11.5591
+
+Gen: 1188
+BestSol: 67753
+GenAvgPrice: 45838.6
+GenAvgWeight: 6755.85
+GenError: 11.2763
+
+Gen: 1287
+BestSol: 68162
+GenAvgPrice: 46099.6
+GenAvgWeight: 6744.97
+GenError: 10.7407
+
+Gen: 1386
+BestSol: 68162
+GenAvgPrice: 45527.7
+GenAvgWeight: 6738.15
+GenError: 10.7407
+
+Gen: 1485
+BestSol: 68755
+GenAvgPrice: 45690.3
+GenAvgWeight: 6697.28
+GenError: 9.96412
+
+Total best: 68760
+Time: 0.469738
+Error: 9.95757
+
+Gen: 0
+BestSol: 42543
+GenAvgPrice: 37488.8
+GenAvgWeight: 6182.95
+GenError: 39.0816
+
+Gen: 99
+BestSol: 53429
+GenAvgPrice: 40763.8
+GenAvgWeight: 6150.63
+GenError: 23.4936
+
+Gen: 198
+BestSol: 56612
+GenAvgPrice: 41848.6
+GenAvgWeight: 6127.68
+GenError: 18.9358
+
+Gen: 297
+BestSol: 58398
+GenAvgPrice: 40634.3
+GenAvgWeight: 6123.55
+GenError: 16.3784
+
+Gen: 396
+BestSol: 59023
+GenAvgPrice: 41223.1
+GenAvgWeight: 6119.64
+GenError: 15.4834
+
+Gen: 495
+BestSol: 59637
+GenAvgPrice: 42714.5
+GenAvgWeight: 6113.9
+GenError: 14.6042
+
+Gen: 594
+BestSol: 60507
+GenAvgPrice: 40676
+GenAvgWeight: 6104.38
+GenError: 13.3584
+
+Gen: 693
+BestSol: 61682
+GenAvgPrice: 43049.5
+GenAvgWeight: 6077.34
+GenError: 11.6759
+
+Gen: 792
+BestSol: 61682
+GenAvgPrice: 42622
+GenAvgWeight: 6075.48
+GenError: 11.6759
+
+Gen: 891
+BestSol: 62665
+GenAvgPrice: 40952
+GenAvgWeight: 6058.96
+GenError: 10.2683
+
+Gen: 990
+BestSol: 62762
+GenAvgPrice: 42767.6
+GenAvgWeight: 6035.71
+GenError: 10.1294
+
+Gen: 1089
+BestSol: 62771
+GenAvgPrice: 43798.7
+GenAvgWeight: 6054.47
+GenError: 10.1166
+
+Gen: 1188
+BestSol: 62874
+GenAvgPrice: 42616.9
+GenAvgWeight: 6040.29
+GenError: 9.96907
+
+Gen: 1287
+BestSol: 63080
+GenAvgPrice: 44630.1
+GenAvgWeight: 6049.77
+GenError: 9.67409
+
+Gen: 1386
+BestSol: 63139
+GenAvgPrice: 43012.9
+GenAvgWeight: 6033.13
+GenError: 9.58961
+
+Gen: 1485
+BestSol: 63308
+GenAvgPrice: 42800.4
+GenAvgWeight: 6061.7
+GenError: 9.34761
+
+Total best: 63308
+Time: 0.455826
+Error: 9.34761
+
+Gen: 0
+BestSol: 71005
+GenAvgPrice: 58990.9
+GenAvgWeight: 11673.2
+GenError: 41.3574
+
+Gen: 99
+BestSol: 87361
+GenAvgPrice: 62519
+GenAvgWeight: 12329.6
+GenError: 27.8491
+
+Gen: 198
+BestSol: 92213
+GenAvgPrice: 67451.7
+GenAvgWeight: 13216.6
+GenError: 23.8419
+
+Gen: 297
+BestSol: 95924
+GenAvgPrice: 65129.8
+GenAvgWeight: 12592.8
+GenError: 20.777
+
+Gen: 396
+BestSol: 96202
+GenAvgPrice: 66053.5
+GenAvgWeight: 12957.4
+GenError: 20.5474
+
+Gen: 495
+BestSol: 97701
+GenAvgPrice: 62947.7
+GenAvgWeight: 12569.6
+GenError: 19.3094
+
+Gen: 594
+BestSol: 98978
+GenAvgPrice: 65321.5
+GenAvgWeight: 12985.4
+GenError: 18.2547
+
+Gen: 693
+BestSol: 99848
+GenAvgPrice: 66812.5
+GenAvgWeight: 13158.1
+GenError: 17.5362
+
+Gen: 792
+BestSol: 100980
+GenAvgPrice: 68114.6
+GenAvgWeight: 13270.5
+GenError: 16.6013
+
+Gen: 891
+BestSol: 102064
+GenAvgPrice: 66103.6
+GenAvgWeight: 12925
+GenError: 15.706
+
+Gen: 990
+BestSol: 104282
+GenAvgPrice: 69764.4
+GenAvgWeight: 13414.4
+GenError: 13.8742
+
+Gen: 1089
+BestSol: 104282
+GenAvgPrice: 64838.2
+GenAvgWeight: 12513.6
+GenError: 13.8742
+
+Gen: 1188
+BestSol: 105770
+GenAvgPrice: 62603.2
+GenAvgWeight: 12234.8
+GenError: 12.6453
+
+Gen: 1287
+BestSol: 105770
+GenAvgPrice: 65279.5
+GenAvgWeight: 12607.4
+GenError: 12.6453
+
+Gen: 1386
+BestSol: 106405
+GenAvgPrice: 66058.7
+GenAvgWeight: 12688.6
+GenError: 12.1208
+
+Gen: 1485
+BestSol: 106557
+GenAvgPrice: 69343
+GenAvgWeight: 13298
+GenError: 11.9953
+
+Total best: 106806
+Time: 0.449212
+Error: 11.7896
+
+Gen: 0
+BestSol: 41872
+GenAvgPrice: 37447.9
+GenAvgWeight: 6531.94
+GenError: 41.491
+
+Gen: 99
+BestSol: 54837
+GenAvgPrice: 40949
+GenAvgWeight: 6493.12
+GenError: 23.3746
+
+Gen: 198
+BestSol: 58118
+GenAvgPrice: 42703.8
+GenAvgWeight: 6521.1
+GenError: 18.7899
+
+Gen: 297
+BestSol: 58537
+GenAvgPrice: 40656.8
+GenAvgWeight: 6524.9
+GenError: 18.2044
+
+Gen: 396
+BestSol: 59628
+GenAvgPrice: 41807.6
+GenAvgWeight: 6489.56
+GenError: 16.6799
+
+Gen: 495
+BestSol: 60674
+GenAvgPrice: 40276
+GenAvgWeight: 6471.84
+GenError: 15.2183
+
+Gen: 594
+BestSol: 61129
+GenAvgPrice: 42293.2
+GenAvgWeight: 6469.58
+GenError: 14.5825
+
+Gen: 693
+BestSol: 61542
+GenAvgPrice: 41553.9
+GenAvgWeight: 6464.41
+GenError: 14.0054
+
+Gen: 792
+BestSol: 62215
+GenAvgPrice: 44703.8
+GenAvgWeight: 6442.66
+GenError: 13.065
+
+Gen: 891
+BestSol: 62421
+GenAvgPrice: 45788.5
+GenAvgWeight: 6430.47
+GenError: 12.7772
+
+Gen: 990
+BestSol: 62970
+GenAvgPrice: 42593.6
+GenAvgWeight: 6397.42
+GenError: 12.0101
+
+Gen: 1089
+BestSol: 63148
+GenAvgPrice: 40965.7
+GenAvgWeight: 6388.94
+GenError: 11.7613
+
+Gen: 1188
+BestSol: 63509
+GenAvgPrice: 43539.7
+GenAvgWeight: 6398.59
+GenError: 11.2569
+
+Gen: 1287
+BestSol: 63819
+GenAvgPrice: 41476.7
+GenAvgWeight: 6404.32
+GenError: 10.8237
+
+Gen: 1386
+BestSol: 63934
+GenAvgPrice: 43509.9
+GenAvgWeight: 6359.36
+GenError: 10.663
+
+Gen: 1485
+BestSol: 64121
+GenAvgPrice: 43561.2
+GenAvgWeight: 6270.82
+GenError: 10.4017
+
+Total best: 64121
+Time: 0.464723
+Error: 10.4017
+
+Gen: 0
+BestSol: 70688
+GenAvgPrice: 60352.6
+GenAvgWeight: 11925.9
+GenError: 29.5037
+
+Gen: 99
+BestSol: 78298
+GenAvgPrice: 62205.5
+GenAvgWeight: 11299.7
+GenError: 21.9144
+
+Gen: 198
+BestSol: 80938
+GenAvgPrice: 58780.8
+GenAvgWeight: 10732.5
+GenError: 19.2816
+
+Gen: 297
+BestSol: 83178
+GenAvgPrice: 60633.6
+GenAvgWeight: 10836.9
+GenError: 17.0476
+
+Gen: 396
+BestSol: 85396
+GenAvgPrice: 61512.2
+GenAvgWeight: 10809.9
+GenError: 14.8356
+
+Gen: 495
+BestSol: 86629
+GenAvgPrice: 60390.4
+GenAvgWeight: 10645.9
+GenError: 13.606
+
+Gen: 594
+BestSol: 86762
+GenAvgPrice: 60355.4
+GenAvgWeight: 10640.9
+GenError: 13.4734
+
+Gen: 693
+BestSol: 87760
+GenAvgPrice: 61421.9
+GenAvgWeight: 10729.1
+GenError: 12.4781
+
+Gen: 792
+BestSol: 88059
+GenAvgPrice: 59861
+GenAvgWeight: 10544.8
+GenError: 12.1799
+
+Gen: 891
+BestSol: 88161
+GenAvgPrice: 62444.3
+GenAvgWeight: 10787.2
+GenError: 12.0781
+
+Gen: 990
+BestSol: 88816
+GenAvgPrice: 62259.8
+GenAvgWeight: 10717.8
+GenError: 11.4249
+
+Gen: 1089
+BestSol: 88899
+GenAvgPrice: 60327.8
+GenAvgWeight: 10492.7
+GenError: 11.3421
+
+Gen: 1188
+BestSol: 89271
+GenAvgPrice: 60681.2
+GenAvgWeight: 10514.3
+GenError: 10.9712
+
+Gen: 1287
+BestSol: 89499
+GenAvgPrice: 59442.1
+GenAvgWeight: 10394
+GenError: 10.7438
+
+Gen: 1386
+BestSol: 89499
+GenAvgPrice: 62677
+GenAvgWeight: 10671.9
+GenError: 10.7438
+
+Gen: 1485
+BestSol: 89499
+GenAvgPrice: 62658.7
+GenAvgWeight: 10669.6
+GenError: 10.7438
+
+Total best: 89499
+Time: 0.462075
+Error: 10.7438
+
+Gen: 0
+BestSol: 49621
+GenAvgPrice: 42919.4
+GenAvgWeight: 7504.35
+GenError: 37.2815
+
+Gen: 99
+BestSol: 60798
+GenAvgPrice: 45655.9
+GenAvgWeight: 7489.17
+GenError: 23.1543
+
+Gen: 198
+BestSol: 64160
+GenAvgPrice: 46088.4
+GenAvgWeight: 7487.24
+GenError: 18.9049
+
+Gen: 297
+BestSol: 66128
+GenAvgPrice: 46490.3
+GenAvgWeight: 7412.55
+GenError: 16.4175
+
+Gen: 396
+BestSol: 67779
+GenAvgPrice: 47599.5
+GenAvgWeight: 7382.09
+GenError: 14.3307
+
+Gen: 495
+BestSol: 68378
+GenAvgPrice: 48887.1
+GenAvgWeight: 7361.49
+GenError: 13.5736
+
+Gen: 594
+BestSol: 68470
+GenAvgPrice: 47794.5
+GenAvgWeight: 7354.97
+GenError: 13.4573
+
+Gen: 693
+BestSol: 68779
+GenAvgPrice: 47120.3
+GenAvgWeight: 7324.95
+GenError: 13.0667
+
+Gen: 792
+BestSol: 69154
+GenAvgPrice: 47574
+GenAvgWeight: 7358.2
+GenError: 12.5927
+
+Gen: 891
+BestSol: 69154
+GenAvgPrice: 48735.5
+GenAvgWeight: 7316.06
+GenError: 12.5927
+
+Gen: 990
+BestSol: 69504
+GenAvgPrice: 48777.6
+GenAvgWeight: 7301.99
+GenError: 12.1504
+
+Gen: 1089
+BestSol: 70709
+GenAvgPrice: 48154.3
+GenAvgWeight: 7314.29
+GenError: 10.6273
+
+Gen: 1188
+BestSol: 70814
+GenAvgPrice: 49116.4
+GenAvgWeight: 7291.01
+GenError: 10.4946
+
+Gen: 1287
+BestSol: 70814
+GenAvgPrice: 47777.3
+GenAvgWeight: 7266.63
+GenError: 10.4946
+
+Gen: 1386
+BestSol: 71135
+GenAvgPrice: 49150.6
+GenAvgWeight: 7241.28
+GenError: 10.0889
+
+Gen: 1485
+BestSol: 71135
+GenAvgPrice: 48121.1
+GenAvgWeight: 7240.26
+GenError: 10.0889
+
+Total best: 71135
+Time: 0.470305
+Error: 10.0889
+
+Gen: 0
+BestSol: 42562
+GenAvgPrice: 37035.6
+GenAvgWeight: 5895.09
+GenError: 39.9825
+
+Gen: 99
+BestSol: 53892
+GenAvgPrice: 40716.4
+GenAvgWeight: 5881.26
+GenError: 24.0059
+
+Gen: 198
+BestSol: 56807
+GenAvgPrice: 39433.8
+GenAvgWeight: 5888.71
+GenError: 19.8954
+
+Gen: 297
+BestSol: 57861
+GenAvgPrice: 37498.3
+GenAvgWeight: 5875.35
+GenError: 18.4091
+
+Gen: 396
+BestSol: 59616
+GenAvgPrice: 42052.1
+GenAvgWeight: 5869.88
+GenError: 15.9343
+
+Gen: 495
+BestSol: 60265
+GenAvgPrice: 39473.8
+GenAvgWeight: 5865.01
+GenError: 15.0192
+
+Gen: 594
+BestSol: 60764
+GenAvgPrice: 37885.3
+GenAvgWeight: 5853.95
+GenError: 14.3155
+
+Gen: 693
+BestSol: 61141
+GenAvgPrice: 40583.3
+GenAvgWeight: 5852.75
+GenError: 13.7839
+
+Gen: 792
+BestSol: 61617
+GenAvgPrice: 40267
+GenAvgWeight: 5848.1
+GenError: 13.1127
+
+Gen: 891
+BestSol: 61908
+GenAvgPrice: 40645.6
+GenAvgWeight: 5848.82
+GenError: 12.7024
+
+Gen: 990
+BestSol: 62253
+GenAvgPrice: 41294.3
+GenAvgWeight: 5842.2
+GenError: 12.2159
+
+Gen: 1089
+BestSol: 62617
+GenAvgPrice: 42446.2
+GenAvgWeight: 5846.72
+GenError: 11.7026
+
+Gen: 1188
+BestSol: 63080
+GenAvgPrice: 42529.2
+GenAvgWeight: 5840.28
+GenError: 11.0497
+
+Gen: 1287
+BestSol: 63589
+GenAvgPrice: 41209.7
+GenAvgWeight: 5832.95
+GenError: 10.3319
+
+Gen: 1386
+BestSol: 63589
+GenAvgPrice: 43924.3
+GenAvgWeight: 5834.69
+GenError: 10.3319
+
+Gen: 1485
+BestSol: 63793
+GenAvgPrice: 40577.7
+GenAvgWeight: 5831.01
+GenError: 10.0443
+
+Total best: 63793
+Time: 0.46239
+Error: 10.0443
+
+Gen: 0
+BestSol: 60551
+GenAvgPrice: 54701.6
+GenAvgWeight: 10066.1
+GenError: 36.2883
+
+Gen: 99
+BestSol: 72697
+GenAvgPrice: 58045
+GenAvgWeight: 9846.35
+GenError: 23.5082
+
+Gen: 198
+BestSol: 75804
+GenAvgPrice: 58095.6
+GenAvgWeight: 9694.08
+GenError: 20.2391
+
+Gen: 297
+BestSol: 78163
+GenAvgPrice: 59247.6
+GenAvgWeight: 9649.08
+GenError: 17.7569
+
+Gen: 396
+BestSol: 79712
+GenAvgPrice: 59899.3
+GenAvgWeight: 9514.69
+GenError: 16.1271
+
+Gen: 495
+BestSol: 81006
+GenAvgPrice: 59991.2
+GenAvgWeight: 9396.46
+GenError: 14.7655
+
+Gen: 594
+BestSol: 82308
+GenAvgPrice: 58769
+GenAvgWeight: 9321.04
+GenError: 13.3956
+
+Gen: 693
+BestSol: 82873
+GenAvgPrice: 59114.3
+GenAvgWeight: 9375.84
+GenError: 12.8011
+
+Gen: 792
+BestSol: 82886
+GenAvgPrice: 56612.9
+GenAvgWeight: 9235.17
+GenError: 12.7874
+
+Gen: 891
+BestSol: 82886
+GenAvgPrice: 59637.1
+GenAvgWeight: 9230.53
+GenError: 12.7874
+
+Gen: 990
+BestSol: 82886
+GenAvgPrice: 59055.7
+GenAvgWeight: 9282.78
+GenError: 12.7874
+
+Gen: 1089
+BestSol: 83197
+GenAvgPrice: 59513.7
+GenAvgWeight: 9211.54
+GenError: 12.4601
+
+Gen: 1188
+BestSol: 83899
+GenAvgPrice: 56123
+GenAvgWeight: 9137.47
+GenError: 11.7215
+
+Gen: 1287
+BestSol: 83899
+GenAvgPrice: 59552.3
+GenAvgWeight: 9264.28
+GenError: 11.7215
+
+Gen: 1386
+BestSol: 83953
+GenAvgPrice: 57514.3
+GenAvgWeight: 9005.57
+GenError: 11.6647
+
+Gen: 1485
+BestSol: 84033
+GenAvgPrice: 57623
+GenAvgWeight: 9065.23
+GenError: 11.5805
+
+Total best: 84048
+Time: 0.48157
+Error: 11.5647
+
+Gen: 0
+BestSol: 17104
+GenAvgPrice: 12535.2
+GenAvgWeight: 1178.63
+GenError: 42.4689
+
+Gen: 99
+BestSol: 24521
+GenAvgPrice: 15409.5
+GenAvgWeight: 1172.35
+GenError: 17.521
+
+Gen: 198
+BestSol: 26160
+GenAvgPrice: 14249.6
+GenAvgWeight: 1173.19
+GenError: 12.0081
+
+Gen: 297
+BestSol: 27389
+GenAvgPrice: 15143.1
+GenAvgWeight: 1174.51
+GenError: 7.8742
+
+Gen: 396
+BestSol: 27629
+GenAvgPrice: 17440.4
+GenAvgWeight: 1171.91
+GenError: 7.06694
+
+Gen: 495
+BestSol: 27883
+GenAvgPrice: 15514.5
+GenAvgWeight: 1173.65
+GenError: 6.21258
+
+Gen: 594
+BestSol: 28154
+GenAvgPrice: 14248.1
+GenAvgWeight: 1171.94
+GenError: 5.30104
+
+Gen: 693
+BestSol: 28309
+GenAvgPrice: 15235.2
+GenAvgWeight: 1176.02
+GenError: 4.77968
+
+Gen: 792
+BestSol: 28449
+GenAvgPrice: 17178.6
+GenAvgWeight: 1170.52
+GenError: 4.30878
+
+Gen: 891
+BestSol: 29024
+GenAvgPrice: 15574.9
+GenAvgWeight: 1168.87
+GenError: 2.37471
+
+Gen: 990
+BestSol: 29024
+GenAvgPrice: 16100.6
+GenAvgWeight: 1169.71
+GenError: 2.37471
+
+Gen: 1089
+BestSol: 29265
+GenAvgPrice: 15684.2
+GenAvgWeight: 1166.1
+GenError: 1.56408
+
+Gen: 1188
+BestSol: 29266
+GenAvgPrice: 15904.6
+GenAvgWeight: 1163.92
+GenError: 1.56071
+
+Gen: 1287
+BestSol: 29300
+GenAvgPrice: 15518.1
+GenAvgWeight: 1155.62
+GenError: 1.44635
+
+Gen: 1386
+BestSol: 29407
+GenAvgPrice: 16378.4
+GenAvgWeight: 1151.98
+GenError: 1.08644
+
+Gen: 1485
+BestSol: 29407
+GenAvgPrice: 16330.9
+GenAvgWeight: 1149.01
+GenError: 1.08644
+
+Total best: 29407
+Time: 0.375338
+Error: 1.08644
+
+Gen: 0
+BestSol: 19104
+GenAvgPrice: 14542.4
+GenAvgWeight: 1362.11
+GenError: 41.8412
+
+Gen: 99
+BestSol: 26800
+GenAvgPrice: 15598.5
+GenAvgWeight: 1356.66
+GenError: 18.4121
+
+Gen: 198
+BestSol: 28155
+GenAvgPrice: 16924.1
+GenAvgWeight: 1356.4
+GenError: 14.287
+
+Gen: 297
+BestSol: 29436
+GenAvgPrice: 17671.3
+GenAvgWeight: 1352.94
+GenError: 10.3872
+
+Gen: 396
+BestSol: 30313
+GenAvgPrice: 17178.3
+GenAvgWeight: 1349.82
+GenError: 7.71736
+
+Gen: 495
+BestSol: 30596
+GenAvgPrice: 18190.5
+GenAvgWeight: 1342.94
+GenError: 6.85582
+
+Gen: 594
+BestSol: 30849
+GenAvgPrice: 20106.9
+GenAvgWeight: 1339.06
+GenError: 6.08561
+
+Gen: 693
+BestSol: 31107
+GenAvgPrice: 17662.9
+GenAvgWeight: 1329.56
+GenError: 5.30017
+
+Gen: 792
+BestSol: 31290
+GenAvgPrice: 17519.3
+GenAvgWeight: 1328.19
+GenError: 4.74306
+
+Gen: 891
+BestSol: 31629
+GenAvgPrice: 19884.3
+GenAvgWeight: 1326.35
+GenError: 3.71103
+
+Gen: 990
+BestSol: 31693
+GenAvgPrice: 19190.1
+GenAvgWeight: 1325.08
+GenError: 3.5162
+
+Gen: 1089
+BestSol: 31743
+GenAvgPrice: 17062.3
+GenAvgWeight: 1324.13
+GenError: 3.36398
+
+Gen: 1188
+BestSol: 31821
+GenAvgPrice: 18531.2
+GenAvgWeight: 1320.95
+GenError: 3.12652
+
+Gen: 1287
+BestSol: 31853
+GenAvgPrice: 18532.1
+GenAvgWeight: 1323.01
+GenError: 3.0291
+
+Gen: 1386
+BestSol: 31892
+GenAvgPrice: 18473
+GenAvgWeight: 1321.71
+GenError: 2.91038
+
+Gen: 1485
+BestSol: 31919
+GenAvgPrice: 18562.4
+GenAvgWeight: 1313.99
+GenError: 2.82818
+
+Total best: 31919
+Time: 0.377591
+Error: 2.82818
+
+Avg. time: 0.440763
+Total avg. error: 8.64392
