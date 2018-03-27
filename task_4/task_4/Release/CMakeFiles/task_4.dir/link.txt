@@ -1,1 +1,0 @@
-g++   -O3 -DNDEBUG -Wall -pedantic   CMakeFiles/task_4.dir/task_4.cpp.o CMakeFiles/task_4.dir/instance.cpp.o CMakeFiles/task_4.dir/item.cpp.o CMakeFiles/task_4.dir/knapsack.cpp.o CMakeFiles/task_4.dir/solver.cpp.o CMakeFiles/task_4.dir/stdafx.cpp.o  -o task_4 

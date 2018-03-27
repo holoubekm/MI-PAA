@@ -1,7 +1,0 @@
-Za úkol jsme měli naprogramovat program, řešící problém batohu, kdy na vstupu máme objekty s váhou a cenou a batou určený svou nosností. Úkolem tohoto optimalizačního problému je najít takovou podmnožinu objektů, která splňuje omezující kritérium. V tomto případě, maximální nosnost batou a zároveń maximalizovat zisk v podobě celkové hodnoty předmětů vložených do batohu.
-
-Nejjednodušším přístupem je rekurzivní řešení problému, kdy vyzkoušíme všechny možné podmnožiny přidávaných objektů. Protože počet všechno možností je 2^k, kde k je počet objektů, čas potřebný k výpočtu roste exponenciálně v závislosti na k. Počáteční konstanta je poměrně nízká, protože nevyužívám žádné předzpracování dat.
-
-Dalším přístupem je seřadit si objekty podle poměru cena / váha a postupně je přidáváme do batohu. Výhodou tohoto přístupu je rychlosti, kdy nám stačí k log k, operací nutných k seřazení a poté jeden průchod polem objektů a postupné přidávání do batohu. Tento přístup ale nedává exaktní výsledky protože je závislý na váhách a cenách objektů. Stačil by například objekt s výhodným poměrem, který ale zabere místo pro více v průměru výhodnějších objektů a výsledkem je suboptimální hodnota. 
-
-Cílem této úlohy bylo experimentálně vyhodnotit časovou náročnost optimálního (bruteforce) řešení a heuristického řešení. Dalším výstupem je chybovost heuristického řešení, kdy vyhodnocujeme pro každý běh programu maximální a průměrnou relativní chybu heuristického a optimálního řešení.

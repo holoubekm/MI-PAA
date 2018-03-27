@@ -1,1 +1,0 @@
-g++   -g -Wall -pedantic   CMakeFiles/semestralka.dir/semestralka.cpp.o CMakeFiles/semestralka.dir/instance.cpp.o CMakeFiles/semestralka.dir/item.cpp.o CMakeFiles/semestralka.dir/clause.cpp.o CMakeFiles/semestralka.dir/sat3.cpp.o CMakeFiles/semestralka.dir/solver.cpp.o CMakeFiles/semestralka.dir/stdafx.cpp.o  -o semestralka 
